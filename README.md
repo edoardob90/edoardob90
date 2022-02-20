@@ -14,20 +14,18 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 1 commit in [edoardob90/edoardob90](https://github.com/edoardob90/edoardob90) on branch `main`
-  * [#45389c3](https://github.com/edoardob90/edoardob90/commit/45389c3) Update main.yml
-* ➡️ Pushed 1 commit in [edoardob90/edoardob90](https://github.com/edoardob90/edoardob90) on branch `main`
-  * [#9732d6e](https://github.com/edoardob90/edoardob90/commit/9732d6e) Update metrics.template.md
-* ➡️ Pushed 1 commit in [edoardob90/edoardob90](https://github.com/edoardob90/edoardob90) on branch `main`
-  * [#9264034](https://github.com/edoardob90/edoardob90/commit/9264034) Update main.yml
-* ➡️ Pushed 1 commit in [edoardob90/edoardob90](https://github.com/edoardob90/edoardob90) on branch `main`
-  * [#8dd9c62](https://github.com/edoardob90/edoardob90/commit/8dd9c62) Update metrics.template.md
-* ➡️ Pushed 1 commit in [edoardob90/edoardob90](https://github.com/edoardob90/edoardob90) on branch `main`
-  * [#c72cb6d](https://github.com/edoardob90/edoardob90/commit/c72cb6d) Update main.yml
-* ➡️ Pushed 1 commit in [edoardob90/edoardob90](https://github.com/edoardob90/edoardob90) on branch `main`
-  * [#9959cc7](https://github.com/edoardob90/edoardob90/commit/9959cc7) Create initial Actions config file
-* ➡️ Pushed 1 commit in [edoardob90/edoardob90](https://github.com/edoardob90/edoardob90) on branch `main`
-  * [#2df056a](https://github.com/edoardob90/edoardob90/commit/2df056a) Create metrics.template.md
+* 🍽️ Forked [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) to [edoardob90/Awesome-CV](https://github.com/edoardob90/Awesome-CV)
+* ➡️ Pushed 1 commit in [aiidaplugins/aiida-flexpart](https://github.com/aiidaplugins/aiida-flexpart) on branch `add-workflow`
+  * [#c44dac3](https://github.com/aiidaplugins/aiida-flexpart/commit/c44dac3) Move YAML data outside of the plugin
+* 🔃 Opened [#1 Add first draft of a Flexpart workflow](https://github.com/aiidaplugins/aiida-flexpart/pull/1) in [aiidaplugins/aiida-flexpart](https://github.com/aiidaplugins/aiida-flexpart)
+  * 4 files changed `++164 --0`
+* ➡️ Pushed 1 commit in [edoardob90/readthedocs-tutorial](https://github.com/edoardob90/readthedocs-tutorial) on branch `main`
+  * [#67579ef](https://github.com/edoardob90/readthedocs-tutorial/commit/67579ef) Update .readthedocs.yaml
+* ➡️ Pushed 1 commit in [edoardob90/readthedocs-tutorial](https://github.com/edoardob90/readthedocs-tutorial) on branch `main`
+  * [#4ac60bb](https://github.com/edoardob90/readthedocs-tutorial/commit/4ac60bb) Create .readthedocs.yaml
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `main`
+  * [#43e42c1](https://github.com/edoardob90/finance-tracker-bot/commit/43e42c1) Fix bug in setting the default schedule
+* 🍽️ Forked [probberechts/hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus) to [edoardob90/hexo-theme-cactus](https://github.com/edoardob90/hexo-theme-cactus)
 
 
 ---
