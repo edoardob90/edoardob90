@@ -15,6 +15,10 @@ About me, in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/edoardob90](https://github.com/edoardob90/edoardob90) on branch `main`
+  * [#9264034](https://github.com/edoardob90/edoardob90/commit/9264034) Update main.yml
+* 🌟 Starred [edoardob90/COSMO-tikzposter-template](https://github.com/edoardob90/COSMO-tikzposter-template)
+* 🌟 Starred [edoardob90/COSMO-tikzposter-template](https://github.com/edoardob90/COSMO-tikzposter-template)
+* ➡️ Pushed 1 commit in [edoardob90/edoardob90](https://github.com/edoardob90/edoardob90) on branch `main`
   * [#8dd9c62](https://github.com/edoardob90/edoardob90/commit/8dd9c62) Update metrics.template.md
 * ➡️ Pushed 1 commit in [edoardob90/edoardob90](https://github.com/edoardob90/edoardob90) on branch `main`
   * [#c72cb6d](https://github.com/edoardob90/edoardob90/commit/c72cb6d) Update main.yml
@@ -22,9 +26,6 @@ About me, in just a few bullet points:
   * [#9959cc7](https://github.com/edoardob90/edoardob90/commit/9959cc7) Create initial Actions config file
 * ➡️ Pushed 1 commit in [edoardob90/edoardob90](https://github.com/edoardob90/edoardob90) on branch `main`
   * [#2df056a](https://github.com/edoardob90/edoardob90/commit/2df056a) Create metrics.template.md
-* ⏺️ Created new branch main in [edoardob90/edoardob90](https://github.com/edoardob90/edoardob90)
-* ⏺️ Created new repository  [edoardob90/edoardob90](https://github.com/edoardob90/edoardob90)
-* 🌟 Starred [tsoding/snitch](https://github.com/tsoding/snitch)
 
 
 #### Amazing repos worth a ⭐
