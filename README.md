@@ -14,6 +14,8 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/sp4e-2018](https://github.com/edoardob90/sp4e-2018) on branch `master`
+  * [#4dda4a3](https://github.com/edoardob90/sp4e-2018/commit/4dda4a3) Create .gitattributes
 * ➡️ Pushed 1 commit in [edoardob90/google-sheet-flask](https://github.com/edoardob90/google-sheet-flask) on branch `main`
   * [#43c7f3c](https://github.com/edoardob90/google-sheet-flask/commit/43c7f3c) Create README.md
 * 🍽️ Forked [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) to [edoardob90/Awesome-CV](https://github.com/edoardob90/Awesome-CV)
@@ -25,8 +27,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#67579ef](https://github.com/edoardob90/readthedocs-tutorial/commit/67579ef) Update .readthedocs.yaml
 * ➡️ Pushed 1 commit in [edoardob90/readthedocs-tutorial](https://github.com/edoardob90/readthedocs-tutorial) on branch `main`
   * [#4ac60bb](https://github.com/edoardob90/readthedocs-tutorial/commit/4ac60bb) Create .readthedocs.yaml
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `main`
-  * [#43e42c1](https://github.com/edoardob90/finance-tracker-bot/commit/43e42c1) Fix bug in setting the default schedule
 
 
 ---
