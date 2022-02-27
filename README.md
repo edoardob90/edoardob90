@@ -14,6 +14,7 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* 🍽️ Forked [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) to [edoardob90/hugo-bearblog](https://github.com/edoardob90/hugo-bearblog)
 * ➡️ Pushed 1 commit in [edoardob90/sp4e-2018](https://github.com/edoardob90/sp4e-2018) on branch `master`
   * [#4dda4a3](https://github.com/edoardob90/sp4e-2018/commit/4dda4a3) Create .gitattributes
 * ➡️ Pushed 1 commit in [edoardob90/google-sheet-flask](https://github.com/edoardob90/google-sheet-flask) on branch `main`
@@ -25,8 +26,6 @@ I'm Edoardo, and in just a few bullet points:
   * 4 files changed `++164 --0`
 * ➡️ Pushed 1 commit in [edoardob90/readthedocs-tutorial](https://github.com/edoardob90/readthedocs-tutorial) on branch `main`
   * [#67579ef](https://github.com/edoardob90/readthedocs-tutorial/commit/67579ef) Update .readthedocs.yaml
-* ➡️ Pushed 1 commit in [edoardob90/readthedocs-tutorial](https://github.com/edoardob90/readthedocs-tutorial) on branch `main`
-  * [#4ac60bb](https://github.com/edoardob90/readthedocs-tutorial/commit/4ac60bb) Create .readthedocs.yaml
 
 
 ---
