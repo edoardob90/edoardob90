@@ -14,6 +14,8 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/hugo-bearblog](https://github.com/edoardob90/hugo-bearblog) on branch `master`
+  * [#3f57ef4](https://github.com/edoardob90/hugo-bearblog/commit/3f57ef4) Some theme customizations
 * 🍽️ Forked [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) to [edoardob90/hugo-bearblog](https://github.com/edoardob90/hugo-bearblog)
 * ➡️ Pushed 1 commit in [edoardob90/sp4e-2018](https://github.com/edoardob90/sp4e-2018) on branch `master`
   * [#4dda4a3](https://github.com/edoardob90/sp4e-2018/commit/4dda4a3) Create .gitattributes
@@ -24,8 +26,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#c44dac3](https://github.com/aiidaplugins/aiida-flexpart/commit/c44dac3) Move YAML data outside of the plugin
 * 🔃 Opened [#1 Add first draft of a Flexpart workflow](https://github.com/aiidaplugins/aiida-flexpart/pull/1) in [aiidaplugins/aiida-flexpart](https://github.com/aiidaplugins/aiida-flexpart)
   * 4 files changed `++164 --0`
-* ➡️ Pushed 1 commit in [edoardob90/readthedocs-tutorial](https://github.com/edoardob90/readthedocs-tutorial) on branch `main`
-  * [#67579ef](https://github.com/edoardob90/readthedocs-tutorial/commit/67579ef) Update .readthedocs.yaml
 
 
 ---
