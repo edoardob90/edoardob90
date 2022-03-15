@@ -14,6 +14,9 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 3 commits in [edoardob90/hugo-theme-fuji](https://github.com/edoardob90/hugo-theme-fuji) on branch `master`
+  * [#733b580](https://github.com/edoardob90/hugo-theme-fuji/commit/733b580) Merge branch &#39;master&#39; of https://github.com/dsrkafuu/hugo-theme-fuji
+* 🍽️ Forked [dsrkafuu/hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji) to [edoardob90/hugo-theme-fuji](https://github.com/edoardob90/hugo-theme-fuji)
 * ➡️ Pushed 1 commit in [edoardob90/hugo-bearblog](https://github.com/edoardob90/hugo-bearblog) on branch `master`
   * [#3f57ef4](https://github.com/edoardob90/hugo-bearblog/commit/3f57ef4) Some theme customizations
 * 🍽️ Forked [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) to [edoardob90/hugo-bearblog](https://github.com/edoardob90/hugo-bearblog)
@@ -22,10 +25,6 @@ I'm Edoardo, and in just a few bullet points:
 * ➡️ Pushed 1 commit in [edoardob90/google-sheet-flask](https://github.com/edoardob90/google-sheet-flask) on branch `main`
   * [#43c7f3c](https://github.com/edoardob90/google-sheet-flask/commit/43c7f3c) Create README.md
 * 🍽️ Forked [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) to [edoardob90/Awesome-CV](https://github.com/edoardob90/Awesome-CV)
-* ➡️ Pushed 1 commit in [aiidaplugins/aiida-flexpart](https://github.com/aiidaplugins/aiida-flexpart) on branch `add-workflow`
-  * [#c44dac3](https://github.com/aiidaplugins/aiida-flexpart/commit/c44dac3) Move YAML data outside of the plugin
-* 🔃 Opened [#1 Add first draft of a Flexpart workflow](https://github.com/aiidaplugins/aiida-flexpart/pull/1) in [aiidaplugins/aiida-flexpart](https://github.com/aiidaplugins/aiida-flexpart)
-  * 4 files changed `++164 --0`
 
 
 ---
