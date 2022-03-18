@@ -14,19 +14,20 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* 🔃 Closed [#2 Create Post “2022-03-16-a-second-test-post”](https://github.com/edoardob90/edobld.me/pull/2) in [edoardob90/edobld.me](https://github.com/edoardob90/edobld.me)
-  * 1 file changed `++8 --0`
-* ➡️ Pushed 2 commits in [edoardob90/edobld.me](https://github.com/edoardob90/edobld.me) on branch `main`
-  * [#b396d4f](https://github.com/edoardob90/edobld.me/commit/b396d4f) Merge branch &#39;main&#39; of github.com:edoardob90/edobld.me
-* ⏺️ Created new branch cms/post/2022-03-16-a-second-test-post in [edoardob90/edobld.me](https://github.com/edoardob90/edobld.me)
-* 🔃 Opened [#2 Create Post “2022-03-16-a-second-test-post”](https://github.com/edoardob90/edobld.me/pull/2) in [edoardob90/edobld.me](https://github.com/edoardob90/edobld.me)
-  * 1 file changed `++8 --0`
-* ➡️ Pushed 1 commit in [edoardob90/edobld.me](https://github.com/edoardob90/edobld.me) on branch `main`
-  * [#6ee346d](https://github.com/edoardob90/edobld.me/commit/6ee346d) Delete Post “2022-03-16-using-netlify-cms-with-hugo”
-* ➡️ Pushed 1 commit in [edoardob90/edobld.me](https://github.com/edoardob90/edobld.me) on branch `main`
-  * [#9dcc195](https://github.com/edoardob90/edobld.me/commit/9dcc195) Customize Netlify CMS config
-* ➡️ Pushed 2 commits in [edoardob90/edobld.me](https://github.com/edoardob90/edobld.me) on branch `main`
-  * [#fed04e5](https://github.com/edoardob90/edobld.me/commit/fed04e5) Merge branch &#39;main&#39; of github.com:edoardob90/edobld.me
+* ➡️ Pushed 1 commit in [edoardob90/hugo-theme-fuji](https://github.com/edoardob90/hugo-theme-fuji) on branch `master`
+  * [#e813bb3](https://github.com/edoardob90/hugo-theme-fuji/commit/e813bb3) Per-post toggle for word counter and reading time
+* ➡️ Pushed 1 commit in [edoardob90/hugo-theme-fuji](https://github.com/edoardob90/hugo-theme-fuji) on branch `master`
+  * [#23ef191](https://github.com/edoardob90/hugo-theme-fuji/commit/23ef191) Adds option to enable Netlify CMS
+* ➡️ Pushed 1 commit in [edoardob90/edoardob90.github.io](https://github.com/edoardob90/edoardob90.github.io) on branch `gh-pages`
+  * [#217da00](https://github.com/edoardob90/edoardob90.github.io/commit/217da00) Delete CNAME
+* ➡️ Pushed 1 commit in [edoardob90/edoardob90.github.io](https://github.com/edoardob90/edoardob90.github.io) on branch `gh-pages`
+  * [#64f0627](https://github.com/edoardob90/edoardob90.github.io/commit/64f0627) Create CNAME
+* ➡️ Pushed 1 commit in [edoardob90/edoardob90.github.io](https://github.com/edoardob90/edoardob90.github.io) on branch `main`
+  * [#14a4346](https://github.com/edoardob90/edoardob90.github.io/commit/14a4346) Change base url to github.io
+* ➡️ Pushed 1 commit in [edoardob90/edoardob90.github.io](https://github.com/edoardob90/edoardob90.github.io) on branch `main`
+  * [#0e5e2ec](https://github.com/edoardob90/edoardob90.github.io/commit/0e5e2ec) Update gh-pages.yml
+* ➡️ Pushed 1 commit in [edoardob90/edoardob90.github.io](https://github.com/edoardob90/edoardob90.github.io) on branch `main`
+  * [#1f6af5a](https://github.com/edoardob90/edoardob90.github.io/commit/1f6af5a) Create gh-pages.yml
 
 
 ---
