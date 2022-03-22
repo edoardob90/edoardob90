@@ -14,6 +14,9 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 2 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#421d067](https://github.com/edoardob90/dotfiles/commit/421d067) Linux: commands to enable/disable Brew
+  * [#f900926](https://github.com/edoardob90/dotfiles/commit/f900926) Tidy up Kitty conf file. Keep also a full version with comment
 * ➡️ Pushed 1 commit in [edoardob90/hugo-theme-fuji](https://github.com/edoardob90/hugo-theme-fuji) on branch `master`
   * [#624f12f](https://github.com/edoardob90/hugo-theme-fuji/commit/624f12f) Fix post-meta partial
 * ➡️ Pushed 1 commit in [edoardob90/hugo-theme-fuji](https://github.com/edoardob90/hugo-theme-fuji) on branch `master`
@@ -26,8 +29,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#23ef191](https://github.com/edoardob90/hugo-theme-fuji/commit/23ef191) Adds option to enable Netlify CMS
 * ➡️ Pushed 1 commit in [edoardob90/edoardob90.github.io](https://github.com/edoardob90/edoardob90.github.io) on branch `gh-pages`
   * [#217da00](https://github.com/edoardob90/edoardob90.github.io/commit/217da00) Delete CNAME
-* ➡️ Pushed 1 commit in [edoardob90/edoardob90.github.io](https://github.com/edoardob90/edoardob90.github.io) on branch `gh-pages`
-  * [#64f0627](https://github.com/edoardob90/edoardob90.github.io/commit/64f0627) Create CNAME
 
 
 ---
