@@ -14,6 +14,9 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#f9e9437](https://github.com/edoardob90/finance-tracker-bot/commit/f9e9437) doc: add info about using a service account
+* ⏺️ Created new branch service-account in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
 * ➡️ Pushed 2 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#421d067](https://github.com/edoardob90/dotfiles/commit/421d067) Linux: commands to enable/disable Brew
   * [#f900926](https://github.com/edoardob90/dotfiles/commit/f900926) Tidy up Kitty conf file. Keep also a full version with comment
@@ -25,10 +28,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#729be27](https://github.com/edoardob90/hugo-theme-fuji/commit/729be27) Improve search with highlighting; add multilang
 * ➡️ Pushed 1 commit in [edoardob90/hugo-theme-fuji](https://github.com/edoardob90/hugo-theme-fuji) on branch `master`
   * [#e813bb3](https://github.com/edoardob90/hugo-theme-fuji/commit/e813bb3) Per-post toggle for word counter and reading time
-* ➡️ Pushed 1 commit in [edoardob90/hugo-theme-fuji](https://github.com/edoardob90/hugo-theme-fuji) on branch `master`
-  * [#23ef191](https://github.com/edoardob90/hugo-theme-fuji/commit/23ef191) Adds option to enable Netlify CMS
-* ➡️ Pushed 1 commit in [edoardob90/edoardob90.github.io](https://github.com/edoardob90/edoardob90.github.io) on branch `gh-pages`
-  * [#217da00](https://github.com/edoardob90/edoardob90.github.io/commit/217da00) Delete CNAME
 
 
 ---
