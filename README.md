@@ -14,6 +14,13 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#c63c538](https://github.com/edoardob90/finance-tracker-bot/commit/c63c538) fix: auth_type is required to have valid credentials
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#33c694a](https://github.com/edoardob90/finance-tracker-bot/commit/33c694a) fix: fallback to user account
+
+If no service account email is found in auth data
+try to load user account credentials (OAuth)
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#85a029a](https://github.com/edoardob90/dotfiles/commit/85a029a) Update Mac OS aliases and zshrc template
 * ➡️ Pushed 2 commits in [edoardob90/hugo-theme-fuji](https://github.com/edoardob90/hugo-theme-fuji) on branch `master`
@@ -28,10 +35,6 @@ Options are those documented in Fuse.js docs.
 * ➡️ Pushed 2 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#421d067](https://github.com/edoardob90/dotfiles/commit/421d067) Linux: commands to enable/disable Brew
   * [#f900926](https://github.com/edoardob90/dotfiles/commit/f900926) Tidy up Kitty conf file. Keep also a full version with comment
-* ➡️ Pushed 1 commit in [edoardob90/hugo-theme-fuji](https://github.com/edoardob90/hugo-theme-fuji) on branch `master`
-  * [#624f12f](https://github.com/edoardob90/hugo-theme-fuji/commit/624f12f) Fix post-meta partial
-* ➡️ Pushed 1 commit in [edoardob90/hugo-theme-fuji](https://github.com/edoardob90/hugo-theme-fuji) on branch `master`
-  * [#733ad82](https://github.com/edoardob90/hugo-theme-fuji/commit/733ad82) Defer loading Netlify widget
 
 
 ---
