@@ -14,6 +14,14 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
+  * [#cee339f](https://github.com/edoardob90/dayone-to-obsidian/commit/cee339f) Update README
+
+Also add the option to customize merged entries separator
+* ➡️ Pushed 2 commits in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
+  * [#64cc768](https://github.com/edoardob90/dayone-to-obsidian/commit/64cc768) Add option to merge entries with the same date
+  * [#aee7e62](https://github.com/edoardob90/dayone-to-obsidian/commit/aee7e62) Tidy-up and improvements
+* 🍽️ Forked [arnaudlimbourg/dayone-to-obsidian](https://github.com/arnaudlimbourg/dayone-to-obsidian) to [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian)
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#c63c538](https://github.com/edoardob90/finance-tracker-bot/commit/c63c538) fix: auth_type is required to have valid credentials
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
@@ -29,12 +37,6 @@ try to load user account credentials (OAuth)
 
 Add a [params.fuseOpts] table in config.toml.
 Options are those documented in Fuse.js docs.
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#f9e9437](https://github.com/edoardob90/finance-tracker-bot/commit/f9e9437) doc: add info about using a service account
-* ⏺️ Created new branch service-account in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
-* ➡️ Pushed 2 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#421d067](https://github.com/edoardob90/dotfiles/commit/421d067) Linux: commands to enable/disable Brew
-  * [#f900926](https://github.com/edoardob90/dotfiles/commit/f900926) Tidy up Kitty conf file. Keep also a full version with comment
 
 
 ---
