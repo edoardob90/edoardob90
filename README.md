@@ -14,6 +14,11 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#6d2d844](https://github.com/edoardob90/finance-tracker-bot/commit/6d2d844) feat: add &#39;Today&#39; button
+
+When adding a new record&#39;s date, the inline button
+will automatically assign today&#39;s date to the record
 * ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
   * [#cee339f](https://github.com/edoardob90/dayone-to-obsidian/commit/cee339f) Update README
 
@@ -31,12 +36,6 @@ If no service account email is found in auth data
 try to load user account credentials (OAuth)
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#85a029a](https://github.com/edoardob90/dotfiles/commit/85a029a) Update Mac OS aliases and zshrc template
-* ➡️ Pushed 2 commits in [edoardob90/hugo-theme-fuji](https://github.com/edoardob90/hugo-theme-fuji) on branch `master`
-  * [#c7705ea](https://github.com/edoardob90/hugo-theme-fuji/commit/c7705ea) Remove unused stuff in html and css
-  * [#dc36d81](https://github.com/edoardob90/hugo-theme-fuji/commit/dc36d81) Fuse search options can be customized in config
-
-Add a [params.fuseOpts] table in config.toml.
-Options are those documented in Fuse.js docs.
 
 
 ---
