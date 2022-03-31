@@ -14,6 +14,8 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
+  * [#42e6c70](https://github.com/edoardob90/dayone-to-obsidian/commit/42e6c70) A couple of fixes
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#6d2d844](https://github.com/edoardob90/finance-tracker-bot/commit/6d2d844) feat: add &#39;Today&#39; button
 
@@ -34,8 +36,6 @@ Also add the option to customize merged entries separator
 
 If no service account email is found in auth data
 try to load user account credentials (OAuth)
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#85a029a](https://github.com/edoardob90/dotfiles/commit/85a029a) Update Mac OS aliases and zshrc template
 
 
 ---
