@@ -14,6 +14,8 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#355f80b](https://github.com/edoardob90/dotfiles/commit/355f80b) Adds fzf fuzzy finder to ZSH shell
 * ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
   * [#42e6c70](https://github.com/edoardob90/dayone-to-obsidian/commit/42e6c70) A couple of fixes
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
@@ -31,11 +33,6 @@ Also add the option to customize merged entries separator
 * 🍽️ Forked [arnaudlimbourg/dayone-to-obsidian](https://github.com/arnaudlimbourg/dayone-to-obsidian) to [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian)
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#c63c538](https://github.com/edoardob90/finance-tracker-bot/commit/c63c538) fix: auth_type is required to have valid credentials
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#33c694a](https://github.com/edoardob90/finance-tracker-bot/commit/33c694a) fix: fallback to user account
-
-If no service account email is found in auth data
-try to load user account credentials (OAuth)
 
 
 ---
