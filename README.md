@@ -14,6 +14,12 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 2 commits in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
+  * [#c37be8d](https://github.com/edoardob90/dayone-to-obsidian/commit/c37be8d) Merge branch &#39;main&#39; of github.com:edoardob90/dayone-to-obsidian
+* ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
+  * [#0b7ff61](https://github.com/edoardob90/dayone-to-obsidian/commit/0b7ff61) Update pyproject.toml
+* ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
+  * [#8a8f80d](https://github.com/edoardob90/dayone-to-obsidian/commit/8a8f80d) Update requirements.txt
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#355f80b](https://github.com/edoardob90/dotfiles/commit/355f80b) Adds fzf fuzzy finder to ZSH shell
 * ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
@@ -27,12 +33,6 @@ will automatically assign today&#39;s date to the record
   * [#cee339f](https://github.com/edoardob90/dayone-to-obsidian/commit/cee339f) Update README
 
 Also add the option to customize merged entries separator
-* ➡️ Pushed 2 commits in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
-  * [#64cc768](https://github.com/edoardob90/dayone-to-obsidian/commit/64cc768) Add option to merge entries with the same date
-  * [#aee7e62](https://github.com/edoardob90/dayone-to-obsidian/commit/aee7e62) Tidy-up and improvements
-* 🍽️ Forked [arnaudlimbourg/dayone-to-obsidian](https://github.com/arnaudlimbourg/dayone-to-obsidian) to [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian)
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#c63c538](https://github.com/edoardob90/finance-tracker-bot/commit/c63c538) fix: auth_type is required to have valid credentials
 
 
 ---
