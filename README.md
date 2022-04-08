@@ -14,6 +14,12 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#7595f96](https://github.com/edoardob90/finance-tracker-bot/commit/7595f96) fix: better handling of date parsing errors
+
+Date parsing errors are now handled correctly.
+The &#39;choice&#39; key is removed from the user_data dictionary
+only if no exception is raised
 * ➡️ Pushed 2 commits in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
   * [#c37be8d](https://github.com/edoardob90/dayone-to-obsidian/commit/c37be8d) Merge branch &#39;main&#39; of github.com:edoardob90/dayone-to-obsidian
 * ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
@@ -29,10 +35,6 @@ I'm Edoardo, and in just a few bullet points:
 
 When adding a new record&#39;s date, the inline button
 will automatically assign today&#39;s date to the record
-* ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
-  * [#cee339f](https://github.com/edoardob90/dayone-to-obsidian/commit/cee339f) Update README
-
-Also add the option to customize merged entries separator
 
 
 ---
