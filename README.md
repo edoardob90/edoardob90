@@ -14,6 +14,17 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 3 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#bd477b8](https://github.com/edoardob90/dotfiles/commit/bd477b8) Update macOS environment config
+  * [#a380645](https://github.com/edoardob90/dotfiles/commit/a380645) Update kitty.conf
+  * [#cb7bcaf](https://github.com/edoardob90/dotfiles/commit/cb7bcaf) Update init.vim (and clean-up)
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#6467462](https://github.com/edoardob90/finance-tracker-bot/commit/6467462) feat: Adds a calendar keyboard
+
+Plus: sets a default &#39;table_range&#39;
+when appending new records to the spreadsheet
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#cfad7af](https://github.com/edoardob90/finance-tracker-bot/commit/cfad7af) Setup Poetry to manage dependencies
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#7595f96](https://github.com/edoardob90/finance-tracker-bot/commit/7595f96) fix: better handling of date parsing errors
 
@@ -26,15 +37,6 @@ only if no exception is raised
   * [#0b7ff61](https://github.com/edoardob90/dayone-to-obsidian/commit/0b7ff61) Update pyproject.toml
 * ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
   * [#8a8f80d](https://github.com/edoardob90/dayone-to-obsidian/commit/8a8f80d) Update requirements.txt
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#355f80b](https://github.com/edoardob90/dotfiles/commit/355f80b) Adds fzf fuzzy finder to ZSH shell
-* ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
-  * [#42e6c70](https://github.com/edoardob90/dayone-to-obsidian/commit/42e6c70) A couple of fixes
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#6d2d844](https://github.com/edoardob90/finance-tracker-bot/commit/6d2d844) feat: add &#39;Today&#39; button
-
-When adding a new record&#39;s date, the inline button
-will automatically assign today&#39;s date to the record
 
 
 ---
