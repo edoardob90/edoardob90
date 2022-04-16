@@ -14,6 +14,8 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#d8baf29](https://github.com/edoardob90/finance-tracker-bot/commit/d8baf29) fix: Add a &#39;Cancel&#39; button to the calendar keyboard
 * ➡️ Pushed 3 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#bd477b8](https://github.com/edoardob90/dotfiles/commit/bd477b8) Update macOS environment config
   * [#a380645](https://github.com/edoardob90/dotfiles/commit/a380645) Update kitty.conf
@@ -35,8 +37,6 @@ only if no exception is raised
   * [#c37be8d](https://github.com/edoardob90/dayone-to-obsidian/commit/c37be8d) Merge branch &#39;main&#39; of github.com:edoardob90/dayone-to-obsidian
 * ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
   * [#0b7ff61](https://github.com/edoardob90/dayone-to-obsidian/commit/0b7ff61) Update pyproject.toml
-* ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
-  * [#8a8f80d](https://github.com/edoardob90/dayone-to-obsidian/commit/8a8f80d) Update requirements.txt
 
 
 ---
