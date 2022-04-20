@@ -14,6 +14,14 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `main`
+  * [#33e5b27](https://github.com/edoardob90/finance-tracker-bot/commit/33e5b27) Update README.md
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `main`
+  * [#69eeab2](https://github.com/edoardob90/finance-tracker-bot/commit/69eeab2) Update README.md
+
+Current development branch is the `service-account` branch
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#630dcb4](https://github.com/edoardob90/finance-tracker-bot/commit/630dcb4) Update README.md
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#80c76e8](https://github.com/edoardob90/finance-tracker-bot/commit/80c76e8) feat: Add multiple quick records, one per line
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
@@ -27,16 +35,6 @@ I'm Edoardo, and in just a few bullet points:
 
 Plus: sets a default &#39;table_range&#39;
 when appending new records to the spreadsheet
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#cfad7af](https://github.com/edoardob90/finance-tracker-bot/commit/cfad7af) Setup Poetry to manage dependencies
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#7595f96](https://github.com/edoardob90/finance-tracker-bot/commit/7595f96) fix: better handling of date parsing errors
-
-Date parsing errors are now handled correctly.
-The &#39;choice&#39; key is removed from the user_data dictionary
-only if no exception is raised
-* ➡️ Pushed 2 commits in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
-  * [#c37be8d](https://github.com/edoardob90/dayone-to-obsidian/commit/c37be8d) Merge branch &#39;main&#39; of github.com:edoardob90/dayone-to-obsidian
 
 
 ---
