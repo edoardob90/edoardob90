@@ -14,6 +14,8 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#fd5dc07](https://github.com/edoardob90/dotfiles/commit/fd5dc07) Add Fish shell config
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `main`
   * [#33e5b27](https://github.com/edoardob90/finance-tracker-bot/commit/33e5b27) Update README.md
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `main`
@@ -30,11 +32,6 @@ Current development branch is the `service-account` branch
   * [#bd477b8](https://github.com/edoardob90/dotfiles/commit/bd477b8) Update macOS environment config
   * [#a380645](https://github.com/edoardob90/dotfiles/commit/a380645) Update kitty.conf
   * [#cb7bcaf](https://github.com/edoardob90/dotfiles/commit/cb7bcaf) Update init.vim (and clean-up)
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#6467462](https://github.com/edoardob90/finance-tracker-bot/commit/6467462) feat: Adds a calendar keyboard
-
-Plus: sets a default &#39;table_range&#39;
-when appending new records to the spreadsheet
 
 
 ---
