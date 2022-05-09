@@ -14,6 +14,13 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 2 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#53fdd06](https://github.com/edoardob90/finance-tracker-bot/commit/53fdd06) feat: save preferred accounts for new records
+
+The user can now store any number of preferred
+accounts in the &#39;Settings&#39; menu.
+These will be shown as an inline keyboard when adding a new record.
+  * [#059a75a](https://github.com/edoardob90/finance-tracker-bot/commit/059a75a) fix: Inline keyboard formatting
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#fd5dc07](https://github.com/edoardob90/dotfiles/commit/fd5dc07) Add Fish shell config
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `main`
@@ -28,10 +35,6 @@ Current development branch is the `service-account` branch
   * [#80c76e8](https://github.com/edoardob90/finance-tracker-bot/commit/80c76e8) feat: Add multiple quick records, one per line
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#d8baf29](https://github.com/edoardob90/finance-tracker-bot/commit/d8baf29) fix: Add a &#39;Cancel&#39; button to the calendar keyboard
-* ➡️ Pushed 3 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#bd477b8](https://github.com/edoardob90/dotfiles/commit/bd477b8) Update macOS environment config
-  * [#a380645](https://github.com/edoardob90/dotfiles/commit/a380645) Update kitty.conf
-  * [#cb7bcaf](https://github.com/edoardob90/dotfiles/commit/cb7bcaf) Update init.vim (and clean-up)
 
 
 ---
