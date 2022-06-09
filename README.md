@@ -14,6 +14,8 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#04ff7b7](https://github.com/edoardob90/finance-tracker-bot/commit/04ff7b7) fix: Code cleanup with pylint
 * ➡️ Pushed 1 commit in [edoardob90/hugo-theme-fuji](https://github.com/edoardob90/hugo-theme-fuji) on branch `master`
   * [#2bd6a14](https://github.com/edoardob90/hugo-theme-fuji/commit/2bd6a14) Load KaTeX CSS before main stylesheet
 * 🍽️ Forked [fifthist/Introduction-To-Probability-Blitzstein-Solutions](https://github.com/fifthist/Introduction-To-Probability-Blitzstein-Solutions) to [edoardob90/blitzstein-intro-to-probability-solutions](https://github.com/edoardob90/blitzstein-intro-to-probability-solutions)
@@ -32,8 +34,6 @@ These will be shown as an inline keyboard when adding a new record.
   * [#69eeab2](https://github.com/edoardob90/finance-tracker-bot/commit/69eeab2) Update README.md
 
 Current development branch is the `service-account` branch
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#630dcb4](https://github.com/edoardob90/finance-tracker-bot/commit/630dcb4) Update README.md
 
 
 ---
