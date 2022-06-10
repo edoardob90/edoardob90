@@ -14,6 +14,10 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [aiidaplugins/aiida-flexpart](https://github.com/aiidaplugins/aiida-flexpart) on branch `add-workflow`
+  * [#0cff2e2](https://github.com/aiidaplugins/aiida-flexpart/commit/0cff2e2) Add example files for multi-dates workflow
+* ➡️ Pushed 1 commit in [aiidaplugins/aiida-flexpart](https://github.com/aiidaplugins/aiida-flexpart) on branch `add-workflow`
+  * [#6cc3eed](https://github.com/aiidaplugins/aiida-flexpart/commit/6cc3eed) Workflow supports multiple dates simulations
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#04ff7b7](https://github.com/edoardob90/finance-tracker-bot/commit/04ff7b7) fix: Code cleanup with pylint
 * ➡️ Pushed 1 commit in [edoardob90/hugo-theme-fuji](https://github.com/edoardob90/hugo-theme-fuji) on branch `master`
@@ -28,12 +32,6 @@ These will be shown as an inline keyboard when adding a new record.
   * [#059a75a](https://github.com/edoardob90/finance-tracker-bot/commit/059a75a) fix: Inline keyboard formatting
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#fd5dc07](https://github.com/edoardob90/dotfiles/commit/fd5dc07) Add Fish shell config
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `main`
-  * [#33e5b27](https://github.com/edoardob90/finance-tracker-bot/commit/33e5b27) Update README.md
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `main`
-  * [#69eeab2](https://github.com/edoardob90/finance-tracker-bot/commit/69eeab2) Update README.md
-
-Current development branch is the `service-account` branch
 
 
 ---
