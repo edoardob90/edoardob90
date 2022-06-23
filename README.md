@@ -14,6 +14,8 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 19 commits in [edoardob90/prezto](https://github.com/edoardob90/prezto) on branch `master`
+  * [#8af22f6](https://github.com/edoardob90/prezto/commit/8af22f6) Merge branch &#39;master&#39; of https://github.com/sorin-ionescu/prezto
 * ➡️ Pushed 1 commit in [aiidaplugins/aiida-flexpart](https://github.com/aiidaplugins/aiida-flexpart) on branch `add-workflow`
   * [#0cff2e2](https://github.com/aiidaplugins/aiida-flexpart/commit/0cff2e2) Add example files for multi-dates workflow
 * ➡️ Pushed 1 commit in [aiidaplugins/aiida-flexpart](https://github.com/aiidaplugins/aiida-flexpart) on branch `add-workflow`
@@ -30,8 +32,6 @@ The user can now store any number of preferred
 accounts in the &#39;Settings&#39; menu.
 These will be shown as an inline keyboard when adding a new record.
   * [#059a75a](https://github.com/edoardob90/finance-tracker-bot/commit/059a75a) fix: Inline keyboard formatting
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#fd5dc07](https://github.com/edoardob90/dotfiles/commit/fd5dc07) Add Fish shell config
 
 
 ---
