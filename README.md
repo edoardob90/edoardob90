@@ -14,24 +14,18 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/bamboo](https://github.com/edoardob90/bamboo) on branch `master`
+  * [#09b871f](https://github.com/edoardob90/bamboo/commit/09b871f) Add heading and mono fonts
+* ➡️ Pushed 1 commit in [edoardob90/bamboo](https://github.com/edoardob90/bamboo) on branch `master`
+  * [#c425540](https://github.com/edoardob90/bamboo/commit/c425540) Remove scss variables
+* ➡️ Pushed 1 commit in [edoardob90/bamboo](https://github.com/edoardob90/bamboo) on branch `master`
+  * [#e41acdf](https://github.com/edoardob90/bamboo/commit/e41acdf) Add custom fonts
+* 🍽️ Forked [rilwis/bamboo](https://github.com/rilwis/bamboo) to [edoardob90/bamboo](https://github.com/edoardob90/bamboo)
+* 🍽️ Forked [oxalorg/sakura](https://github.com/oxalorg/sakura) to [edoardob90/sakura](https://github.com/edoardob90/sakura)
 * ➡️ Pushed 19 commits in [edoardob90/prezto](https://github.com/edoardob90/prezto) on branch `master`
   * [#8af22f6](https://github.com/edoardob90/prezto/commit/8af22f6) Merge branch &#39;master&#39; of https://github.com/sorin-ionescu/prezto
 * ➡️ Pushed 1 commit in [aiidaplugins/aiida-flexpart](https://github.com/aiidaplugins/aiida-flexpart) on branch `add-workflow`
   * [#0cff2e2](https://github.com/aiidaplugins/aiida-flexpart/commit/0cff2e2) Add example files for multi-dates workflow
-* ➡️ Pushed 1 commit in [aiidaplugins/aiida-flexpart](https://github.com/aiidaplugins/aiida-flexpart) on branch `add-workflow`
-  * [#6cc3eed](https://github.com/aiidaplugins/aiida-flexpart/commit/6cc3eed) Workflow supports multiple dates simulations
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#04ff7b7](https://github.com/edoardob90/finance-tracker-bot/commit/04ff7b7) fix: Code cleanup with pylint
-* ➡️ Pushed 1 commit in [edoardob90/hugo-theme-fuji](https://github.com/edoardob90/hugo-theme-fuji) on branch `master`
-  * [#2bd6a14](https://github.com/edoardob90/hugo-theme-fuji/commit/2bd6a14) Load KaTeX CSS before main stylesheet
-* 🍽️ Forked [fifthist/Introduction-To-Probability-Blitzstein-Solutions](https://github.com/fifthist/Introduction-To-Probability-Blitzstein-Solutions) to [edoardob90/blitzstein-intro-to-probability-solutions](https://github.com/edoardob90/blitzstein-intro-to-probability-solutions)
-* ➡️ Pushed 2 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#53fdd06](https://github.com/edoardob90/finance-tracker-bot/commit/53fdd06) feat: save preferred accounts for new records
-
-The user can now store any number of preferred
-accounts in the &#39;Settings&#39; menu.
-These will be shown as an inline keyboard when adding a new record.
-  * [#059a75a](https://github.com/edoardob90/finance-tracker-bot/commit/059a75a) fix: Inline keyboard formatting
 
 
 ---
