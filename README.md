@@ -14,6 +14,42 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 2 commits in [edoardob90/hugo-bearblog](https://github.com/edoardob90/hugo-bearblog) on branch `master`
+  * [#f70b720](https://github.com/edoardob90/hugo-bearblog/commit/f70b720) chore(deps-dev): bump js-beautify from 1.14.0 to 1.14.2 (#46)
+
+Bumps [js-beautify](https://github.com/beautify-web/js-beautify) from 1.14.0 to 1.14.2.
+- [Release notes](https://github.com/beautify-web/js-beautify/releases)
+- [Commits](https://github.com/beautify-web/js-beautify/compare/v1.14.0...v1.14.2)
+
+---
+updated-dependencies:
+- dependency-name: js-beautify
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+  * [#c9b3461](https://github.com/edoardob90/hugo-bearblog/commit/c9b3461) chore(deps): bump actions/checkout from 2.3.4 to 3 (#43)
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.4 to 3.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v2.3.4...v3)
+
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+* ➡️ Pushed 1 commit in [edoardob90/bamboo](https://github.com/edoardob90/bamboo) on branch `master`
+  * [#c2e7419](https://github.com/edoardob90/bamboo/commit/c2e7419) Add heading font variant
 * ➡️ Pushed 1 commit in [edoardob90/bamboo](https://github.com/edoardob90/bamboo) on branch `master`
   * [#09b871f](https://github.com/edoardob90/bamboo/commit/09b871f) Add heading and mono fonts
 * ➡️ Pushed 1 commit in [edoardob90/bamboo](https://github.com/edoardob90/bamboo) on branch `master`
@@ -22,10 +58,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#e41acdf](https://github.com/edoardob90/bamboo/commit/e41acdf) Add custom fonts
 * 🍽️ Forked [rilwis/bamboo](https://github.com/rilwis/bamboo) to [edoardob90/bamboo](https://github.com/edoardob90/bamboo)
 * 🍽️ Forked [oxalorg/sakura](https://github.com/oxalorg/sakura) to [edoardob90/sakura](https://github.com/edoardob90/sakura)
-* ➡️ Pushed 19 commits in [edoardob90/prezto](https://github.com/edoardob90/prezto) on branch `master`
-  * [#8af22f6](https://github.com/edoardob90/prezto/commit/8af22f6) Merge branch &#39;master&#39; of https://github.com/sorin-ionescu/prezto
-* ➡️ Pushed 1 commit in [aiidaplugins/aiida-flexpart](https://github.com/aiidaplugins/aiida-flexpart) on branch `add-workflow`
-  * [#0cff2e2](https://github.com/aiidaplugins/aiida-flexpart/commit/0cff2e2) Add example files for multi-dates workflow
 
 
 ---
