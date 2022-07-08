@@ -24,7 +24,7 @@ jobs:
           plugin_activity_days: 0
           plugin_activity_load: 50
           plugin_activity_skipped: edoardob90
-          plugin_activity_ignored: dependabot[bot]
+          plugin_activity_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
           plugin_activity_visibility: public
           plugin_activity_filter: push, issue, pr, fork, review, ref/create
           plugin_languages: yes
