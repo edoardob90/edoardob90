@@ -61,6 +61,11 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
 * ➡️ Pushed 1 commit in [edoardob90/bamboo](https://github.com/edoardob90/bamboo) on branch `master`
   * [#e41acdf](https://github.com/edoardob90/bamboo/commit/e41acdf) Add custom fonts
 * 🍽️ Forked [rilwis/bamboo](https://github.com/rilwis/bamboo) to [edoardob90/bamboo](https://github.com/edoardob90/bamboo)
+* 🍽️ Forked [oxalorg/sakura](https://github.com/oxalorg/sakura) to [edoardob90/sakura](https://github.com/edoardob90/sakura)
+* ➡️ Pushed 19 commits in [edoardob90/prezto](https://github.com/edoardob90/prezto) on branch `master`
+  * [#8af22f6](https://github.com/edoardob90/prezto/commit/8af22f6) Merge branch &#39;master&#39; of https://github.com/sorin-ionescu/prezto
+* ➡️ Pushed 1 commit in [aiidaplugins/aiida-flexpart](https://github.com/aiidaplugins/aiida-flexpart) on branch `add-workflow`
+  * [#0cff2e2](https://github.com/aiidaplugins/aiida-flexpart/commit/0cff2e2) Add example files for multi-dates workflow
 
 
 ---
