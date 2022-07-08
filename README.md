@@ -14,6 +14,10 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/hugo-bearblog](https://github.com/edoardob90/hugo-bearblog) on branch `master`
+  * [#d85c7b0](https://github.com/edoardob90/hugo-bearblog/commit/d85c7b0) A few customizations
+
+Add `tags` class, possibility to override base stylesheet
 * ➡️ Pushed 2 commits in [edoardob90/hugo-bearblog](https://github.com/edoardob90/hugo-bearblog) on branch `master`
   * [#f70b720](https://github.com/edoardob90/hugo-bearblog/commit/f70b720) chore(deps-dev): bump js-beautify from 1.14.0 to 1.14.2 (#46)
 
@@ -57,7 +61,6 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
 * ➡️ Pushed 1 commit in [edoardob90/bamboo](https://github.com/edoardob90/bamboo) on branch `master`
   * [#e41acdf](https://github.com/edoardob90/bamboo/commit/e41acdf) Add custom fonts
 * 🍽️ Forked [rilwis/bamboo](https://github.com/rilwis/bamboo) to [edoardob90/bamboo](https://github.com/edoardob90/bamboo)
-* 🍽️ Forked [oxalorg/sakura](https://github.com/oxalorg/sakura) to [edoardob90/sakura](https://github.com/edoardob90/sakura)
 
 
 ---
