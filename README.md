@@ -14,6 +14,8 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ⏺️ Created new branch main in [edoardob90/edobld-astro](https://github.com/edoardob90/edobld-astro)
+* ⏺️ Created new repository  [edoardob90/edobld-astro](https://github.com/edoardob90/edobld-astro)
 * ➡️ Pushed 1 commit in [edoardob90/bamboo](https://github.com/edoardob90/bamboo) on branch `master`
   * [#c2e7419](https://github.com/edoardob90/bamboo/commit/c2e7419) Add heading font variant
 * ➡️ Pushed 1 commit in [edoardob90/bamboo](https://github.com/edoardob90/bamboo) on branch `master`
@@ -28,10 +30,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#8af22f6](https://github.com/edoardob90/prezto/commit/8af22f6) Merge branch &#39;master&#39; of https://github.com/sorin-ionescu/prezto
 * ➡️ Pushed 1 commit in [aiidaplugins/aiida-flexpart](https://github.com/aiidaplugins/aiida-flexpart) on branch `add-workflow`
   * [#0cff2e2](https://github.com/aiidaplugins/aiida-flexpart/commit/0cff2e2) Add example files for multi-dates workflow
-* ➡️ Pushed 1 commit in [aiidaplugins/aiida-flexpart](https://github.com/aiidaplugins/aiida-flexpart) on branch `add-workflow`
-  * [#6cc3eed](https://github.com/aiidaplugins/aiida-flexpart/commit/6cc3eed) Workflow supports multiple dates simulations
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#04ff7b7](https://github.com/edoardob90/finance-tracker-bot/commit/04ff7b7) fix: Code cleanup with pylint
 
 
 ---
