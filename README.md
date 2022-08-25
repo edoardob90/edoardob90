@@ -14,6 +14,9 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 2 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#bf12be9](https://github.com/edoardob90/finance-tracker-bot/commit/bf12be9) chore: add git-cliff config file
+  * [#88487e2](https://github.com/edoardob90/finance-tracker-bot/commit/88487e2) fix: clean-up &amp; reformat code
 * ⏺️ Created new branch main in [edoardob90/edobld-astro](https://github.com/edoardob90/edobld-astro)
 * ⏺️ Created new repository  [edoardob90/edobld-astro](https://github.com/edoardob90/edobld-astro)
 * ➡️ Pushed 1 commit in [edoardob90/bamboo](https://github.com/edoardob90/bamboo) on branch `master`
@@ -28,8 +31,6 @@ I'm Edoardo, and in just a few bullet points:
 * 🍽️ Forked [oxalorg/sakura](https://github.com/oxalorg/sakura) to [edoardob90/sakura](https://github.com/edoardob90/sakura)
 * ➡️ Pushed 19 commits in [edoardob90/prezto](https://github.com/edoardob90/prezto) on branch `master`
   * [#8af22f6](https://github.com/edoardob90/prezto/commit/8af22f6) Merge branch &#39;master&#39; of https://github.com/sorin-ionescu/prezto
-* ➡️ Pushed 1 commit in [aiidaplugins/aiida-flexpart](https://github.com/aiidaplugins/aiida-flexpart) on branch `add-workflow`
-  * [#0cff2e2](https://github.com/aiidaplugins/aiida-flexpart/commit/0cff2e2) Add example files for multi-dates workflow
 
 
 ---
