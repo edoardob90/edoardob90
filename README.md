@@ -14,6 +14,13 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#a482e95](https://github.com/edoardob90/finance-tracker-bot/commit/a482e95) feat: improve UI for some settings menu
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#7178b23](https://github.com/edoardob90/finance-tracker-bot/commit/7178b23) feat: set a default currency
+
+Add a menu in &#39;Setting&#39; to choose a default currency for new records
+If no default currency is set, &#39;X&#39; is used for amount without currency
 * ➡️ Pushed 2 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#bf12be9](https://github.com/edoardob90/finance-tracker-bot/commit/bf12be9) chore: add git-cliff config file
   * [#88487e2](https://github.com/edoardob90/finance-tracker-bot/commit/88487e2) fix: clean-up &amp; reformat code
@@ -28,9 +35,6 @@ I'm Edoardo, and in just a few bullet points:
 * ➡️ Pushed 1 commit in [edoardob90/bamboo](https://github.com/edoardob90/bamboo) on branch `master`
   * [#e41acdf](https://github.com/edoardob90/bamboo/commit/e41acdf) Add custom fonts
 * 🍽️ Forked [rilwis/bamboo](https://github.com/rilwis/bamboo) to [edoardob90/bamboo](https://github.com/edoardob90/bamboo)
-* 🍽️ Forked [oxalorg/sakura](https://github.com/oxalorg/sakura) to [edoardob90/sakura](https://github.com/edoardob90/sakura)
-* ➡️ Pushed 19 commits in [edoardob90/prezto](https://github.com/edoardob90/prezto) on branch `master`
-  * [#8af22f6](https://github.com/edoardob90/prezto/commit/8af22f6) Merge branch &#39;master&#39; of https://github.com/sorin-ionescu/prezto
 
 
 ---
