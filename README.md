@@ -14,6 +14,8 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ⏺️ Created new branch main in [edoardob90/astro-cactus](https://github.com/edoardob90/astro-cactus)
+* ⏺️ Created new repository  [edoardob90/astro-cactus](https://github.com/edoardob90/astro-cactus)
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#a482e95](https://github.com/edoardob90/finance-tracker-bot/commit/a482e95) feat: improve UI for some settings menu
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
@@ -32,9 +34,6 @@ If no default currency is set, &#39;X&#39; is used for amount without currency
   * [#09b871f](https://github.com/edoardob90/bamboo/commit/09b871f) Add heading and mono fonts
 * ➡️ Pushed 1 commit in [edoardob90/bamboo](https://github.com/edoardob90/bamboo) on branch `master`
   * [#c425540](https://github.com/edoardob90/bamboo/commit/c425540) Remove scss variables
-* ➡️ Pushed 1 commit in [edoardob90/bamboo](https://github.com/edoardob90/bamboo) on branch `master`
-  * [#e41acdf](https://github.com/edoardob90/bamboo/commit/e41acdf) Add custom fonts
-* 🍽️ Forked [rilwis/bamboo](https://github.com/rilwis/bamboo) to [edoardob90/bamboo](https://github.com/edoardob90/bamboo)
 
 
 ---
