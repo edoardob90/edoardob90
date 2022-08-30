@@ -14,6 +14,10 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/aoc2020](https://github.com/edoardob90/aoc2020) on branch `main`
+  * [#1f74a00](https://github.com/edoardob90/aoc2020/commit/1f74a00) Add day 7 in Python
+
+Plus an extra tool to built a tree graph using `treelib`
 * ⏺️ Created new branch main in [edoardob90/astro-cactus](https://github.com/edoardob90/astro-cactus)
 * ⏺️ Created new repository  [edoardob90/astro-cactus](https://github.com/edoardob90/astro-cactus)
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
@@ -32,8 +36,6 @@ If no default currency is set, &#39;X&#39; is used for amount without currency
   * [#c2e7419](https://github.com/edoardob90/bamboo/commit/c2e7419) Add heading font variant
 * ➡️ Pushed 1 commit in [edoardob90/bamboo](https://github.com/edoardob90/bamboo) on branch `master`
   * [#09b871f](https://github.com/edoardob90/bamboo/commit/09b871f) Add heading and mono fonts
-* ➡️ Pushed 1 commit in [edoardob90/bamboo](https://github.com/edoardob90/bamboo) on branch `master`
-  * [#c425540](https://github.com/edoardob90/bamboo/commit/c425540) Remove scss variables
 
 
 ---
