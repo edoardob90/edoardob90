@@ -14,6 +14,15 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#9c2c786](https://github.com/edoardob90/finance-tracker-bot/commit/9c2c786) fix: remove spurious auto-import
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#55551de](https://github.com/edoardob90/finance-tracker-bot/commit/55551de) fix: default currency override in quick records
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#515ca34](https://github.com/edoardob90/finance-tracker-bot/commit/515ca34) fix: user-entered currency overrides the default
+
+If the user sets a currency when saving a new record,
+it will always override the default currency, if it&#39;s been set.
 * ➡️ Pushed 1 commit in [edoardob90/aoc2020](https://github.com/edoardob90/aoc2020) on branch `main`
   * [#1f74a00](https://github.com/edoardob90/aoc2020/commit/1f74a00) Add day 7 in Python
 
@@ -31,11 +40,6 @@ If no default currency is set, &#39;X&#39; is used for amount without currency
   * [#bf12be9](https://github.com/edoardob90/finance-tracker-bot/commit/bf12be9) chore: add git-cliff config file
   * [#88487e2](https://github.com/edoardob90/finance-tracker-bot/commit/88487e2) fix: clean-up &amp; reformat code
 * ⏺️ Created new branch main in [edoardob90/edobld-astro](https://github.com/edoardob90/edobld-astro)
-* ⏺️ Created new repository  [edoardob90/edobld-astro](https://github.com/edoardob90/edobld-astro)
-* ➡️ Pushed 1 commit in [edoardob90/bamboo](https://github.com/edoardob90/bamboo) on branch `master`
-  * [#c2e7419](https://github.com/edoardob90/bamboo/commit/c2e7419) Add heading font variant
-* ➡️ Pushed 1 commit in [edoardob90/bamboo](https://github.com/edoardob90/bamboo) on branch `master`
-  * [#09b871f](https://github.com/edoardob90/bamboo/commit/09b871f) Add heading and mono fonts
 
 
 ---
