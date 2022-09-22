@@ -14,6 +14,9 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `lyt`
+  * [#80edce8](https://github.com/edoardob90/dayone-to-obsidian/commit/80edce8) Update README.md
+* ⏺️ Created new branch lyt in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian)
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#9c2c786](https://github.com/edoardob90/finance-tracker-bot/commit/9c2c786) fix: remove spurious auto-import
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
@@ -36,10 +39,6 @@ Plus an extra tool to built a tree graph using `treelib`
 
 Add a menu in &#39;Setting&#39; to choose a default currency for new records
 If no default currency is set, &#39;X&#39; is used for amount without currency
-* ➡️ Pushed 2 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#bf12be9](https://github.com/edoardob90/finance-tracker-bot/commit/bf12be9) chore: add git-cliff config file
-  * [#88487e2](https://github.com/edoardob90/finance-tracker-bot/commit/88487e2) fix: clean-up &amp; reformat code
-* ⏺️ Created new branch main in [edoardob90/edobld-astro](https://github.com/edoardob90/edobld-astro)
 
 
 ---
