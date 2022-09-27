@@ -15,6 +15,13 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#464d9e1](https://github.com/edoardob90/dotfiles/commit/464d9e1) Update macOS Brewfile
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#c460c55](https://github.com/edoardob90/dotfiles/commit/c460c55) VS Code: macOS prefs file
+* ➡️ Pushed 2 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#f0b5f0b](https://github.com/edoardob90/dotfiles/commit/f0b5f0b) Fish shell config files
+  * [#4c2d715](https://github.com/edoardob90/dotfiles/commit/4c2d715) nvim: remove deprecated/unused plugin Deoplete
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#da4ffd8](https://github.com/edoardob90/dotfiles/commit/da4ffd8) Linux: setup zoxide
 * ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
   * [#18b3030](https://github.com/edoardob90/dayone-to-obsidian/commit/18b3030) Adapt formatting to &#34;LYT mode&#34; (#1)
@@ -81,12 +88,6 @@ It represents a single entry and contains a few utility methods:
 * Refactor for a more logical flow
 * Change formatting of some output messages
 * #️⃣ Opened [#3 Recurring records](https://github.com/edoardob90/finance-tracker-bot/issues/3) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
-* ➡️ Pushed 2 commits in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `lyt`
-  * [#2cab2a7](https://github.com/edoardob90/dayone-to-obsidian/commit/2cab2a7) Merge branch &#39;lyt&#39; of github.com:edoardob90/dayone-to-obsidian into lyt
-* ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `lyt`
-  * [#85a7b2f](https://github.com/edoardob90/dayone-to-obsidian/commit/85a7b2f) Typo
-* ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `lyt`
-  * [#80edce8](https://github.com/edoardob90/dayone-to-obsidian/commit/80edce8) Update README.md
 
 
 ---
