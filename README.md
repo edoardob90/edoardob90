@@ -15,6 +15,11 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#f69cfda](https://github.com/edoardob90/dotfiles/commit/f69cfda) Update README
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#c5f7265](https://github.com/edoardob90/dotfiles/commit/c5f7265) Remove fish_variables, should be OS-dependent
+* 🍽️ Forked [willemml/alfred-convert](https://github.com/willemml/alfred-convert) to [edoardob90/alfred-convert](https://github.com/edoardob90/alfred-convert)
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#464d9e1](https://github.com/edoardob90/dotfiles/commit/464d9e1) Update macOS Brewfile
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#c460c55](https://github.com/edoardob90/dotfiles/commit/c460c55) VS Code: macOS prefs file
@@ -67,27 +72,6 @@ because they&#39;re deleted every time the script is run.
   * 5 files changed `++589 --335`
 * 🔃 Opened [#1 Adapt formatting to &#34;LYT mode&#34;](https://github.com/edoardob90/dayone-to-obsidian/pull/1) in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian)
   * 5 files changed `++589 --335`
-* ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `lyt`
-  * [#c54dff2](https://github.com/edoardob90/dayone-to-obsidian/commit/c54dff2) Renamed processed JSON journals
-
-Processed journal files are prepended a number
-to keep track of multiple imports.
-You MUST take care of copying Markdown files
-because they&#39;re deleted every time the script is run.
-* ➡️ Pushed 2 commits in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `lyt`
-  * [#a6bd736](https://github.com/edoardob90/dayone-to-obsidian/commit/a6bd736) Refactor: user-defined &#39;Entry&#39; class
-
-Simpler and more readable code using a new `Entry` class
-It represents a single entry and contains a few utility methods:
-* default str representation
-* add_metadata
-* dump to file
-  * [#4c0cc20](https://github.com/edoardob90/dayone-to-obsidian/commit/4c0cc20) Cleanup
-
-* Fix regex for matching audio attachments
-* Refactor for a more logical flow
-* Change formatting of some output messages
-* #️⃣ Opened [#3 Recurring records](https://github.com/edoardob90/finance-tracker-bot/issues/3) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
 
 
 ---
