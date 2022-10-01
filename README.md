@@ -14,6 +14,11 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 2 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#5db9d83](https://github.com/edoardob90/finance-tracker-bot/commit/5db9d83) refactor: changes to currency_parser function
+
+Now it correctly deals with `&#39;` as a thousand separators.
+  * [#73af294](https://github.com/edoardob90/finance-tracker-bot/commit/73af294) chore: ignore JetBrains editor dir
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#f69cfda](https://github.com/edoardob90/dotfiles/commit/f69cfda) Update README
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
@@ -69,8 +74,6 @@ to keep track of multiple imports.
 You MUST take care of copying Markdown files
 because they&#39;re deleted every time the script is run.
 * 🔃 Merged [#1 Adapt formatting to &#34;LYT mode&#34;](https://github.com/edoardob90/dayone-to-obsidian/pull/1) in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian)
-  * 5 files changed `++589 --335`
-* 🔃 Opened [#1 Adapt formatting to &#34;LYT mode&#34;](https://github.com/edoardob90/dayone-to-obsidian/pull/1) in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian)
   * 5 files changed `++589 --335`
 
 
