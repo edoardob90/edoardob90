@@ -14,6 +14,10 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#395cec4](https://github.com/edoardob90/finance-tracker-bot/commit/395cec4) fix: missing import
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#65ad039](https://github.com/edoardob90/finance-tracker-bot/commit/65ad039) refactor: tidy-up files
 * ➡️ Pushed 2 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#5db9d83](https://github.com/edoardob90/finance-tracker-bot/commit/5db9d83) refactor: changes to currency_parser function
 
@@ -33,48 +37,6 @@ Now it correctly deals with `&#39;` as a thousand separators.
   * [#4c2d715](https://github.com/edoardob90/dotfiles/commit/4c2d715) nvim: remove deprecated/unused plugin Deoplete
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#da4ffd8](https://github.com/edoardob90/dotfiles/commit/da4ffd8) Linux: setup zoxide
-* ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
-  * [#18b3030](https://github.com/edoardob90/dayone-to-obsidian/commit/18b3030) Adapt formatting to &#34;LYT mode&#34; (#1)
-
-* Change Markdown formatting
-
-Adapted to my new vaul structure based on LYT
-
-* Cleanup
-
-* Handle status tags; tag journal names
-
-* Update README.md
-
-* Typo
-
-* Use rich library for output
-
-* Drop click.echo
-* Add the --vault-directory option to skip files already exported
-
-* Cleanup
-
-* Fix regex for matching audio attachments
-* Refactor for a more logical flow
-* Change formatting of some output messages
-
-* Refactor: user-defined &#39;Entry&#39; class
-
-Simpler and more readable code using a new `Entry` class
-It represents a single entry and contains a few utility methods:
-* default str representation
-* add_metadata
-* dump to file
-
-* Renamed processed JSON journals
-
-Processed journal files are prepended a number
-to keep track of multiple imports.
-You MUST take care of copying Markdown files
-because they&#39;re deleted every time the script is run.
-* 🔃 Merged [#1 Adapt formatting to &#34;LYT mode&#34;](https://github.com/edoardob90/dayone-to-obsidian/pull/1) in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian)
-  * 5 files changed `++589 --335`
 
 
 ---
