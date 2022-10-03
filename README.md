@@ -15,6 +15,8 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#e839622](https://github.com/edoardob90/finance-tracker-bot/commit/e839622) fix: typo in currencies dict
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#395cec4](https://github.com/edoardob90/finance-tracker-bot/commit/395cec4) fix: missing import
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#65ad039](https://github.com/edoardob90/finance-tracker-bot/commit/65ad039) refactor: tidy-up files
@@ -35,8 +37,6 @@ Now it correctly deals with `&#39;` as a thousand separators.
 * ➡️ Pushed 2 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#f0b5f0b](https://github.com/edoardob90/dotfiles/commit/f0b5f0b) Fish shell config files
   * [#4c2d715](https://github.com/edoardob90/dotfiles/commit/4c2d715) nvim: remove deprecated/unused plugin Deoplete
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#da4ffd8](https://github.com/edoardob90/dotfiles/commit/da4ffd8) Linux: setup zoxide
 
 
 ---
