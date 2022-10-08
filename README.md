@@ -15,6 +15,8 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/aoc2021](https://github.com/edoardob90/aoc2021) on branch `main`
+  * [#87284b2](https://github.com/edoardob90/aoc2021/commit/87284b2) Day 8, full solution
+* ➡️ Pushed 1 commit in [edoardob90/aoc2021](https://github.com/edoardob90/aoc2021) on branch `main`
   * [#861c7bd](https://github.com/edoardob90/aoc2021/commit/861c7bd) Day 6: add timing to Part 1
 * 🍽️ Forked [picocss/pico](https://github.com/picocss/pico) to [edoardob90/pico](https://github.com/edoardob90/pico)
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
@@ -33,8 +35,6 @@ Now it correctly deals with `&#39;` as a thousand separators.
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#c5f7265](https://github.com/edoardob90/dotfiles/commit/c5f7265) Remove fish_variables, should be OS-dependent
 * 🍽️ Forked [willemml/alfred-convert](https://github.com/willemml/alfred-convert) to [edoardob90/alfred-convert](https://github.com/edoardob90/alfred-convert)
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#464d9e1](https://github.com/edoardob90/dotfiles/commit/464d9e1) Update macOS Brewfile
 
 
 ---
