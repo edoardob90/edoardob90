@@ -14,6 +14,7 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* 🍽️ Forked [lkiesow/python-feedgen](https://github.com/lkiesow/python-feedgen) to [edoardob90/python-feedgen](https://github.com/edoardob90/python-feedgen)
 * ➡️ Pushed 1 commit in [edoardob90/aoc2021](https://github.com/edoardob90/aoc2021) on branch `main`
   * [#87284b2](https://github.com/edoardob90/aoc2021/commit/87284b2) Day 8, full solution
 * ➡️ Pushed 1 commit in [edoardob90/aoc2021](https://github.com/edoardob90/aoc2021) on branch `main`
@@ -34,7 +35,6 @@ Now it correctly deals with `&#39;` as a thousand separators.
   * [#f69cfda](https://github.com/edoardob90/dotfiles/commit/f69cfda) Update README
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#c5f7265](https://github.com/edoardob90/dotfiles/commit/c5f7265) Remove fish_variables, should be OS-dependent
-* 🍽️ Forked [willemml/alfred-convert](https://github.com/willemml/alfred-convert) to [edoardob90/alfred-convert](https://github.com/edoardob90/alfred-convert)
 
 
 ---
