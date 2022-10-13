@@ -14,6 +14,12 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#6a0e624](https://github.com/edoardob90/finance-tracker-bot/commit/6a0e624) chore: update CHANGELOG
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#cafda57](https://github.com/edoardob90/finance-tracker-bot/commit/cafda57) chore: print help for not implemented commands
+
+The `/summary` command hasn&#39;t been implemented yet.
 * 🍽️ Forked [lkiesow/python-feedgen](https://github.com/lkiesow/python-feedgen) to [edoardob90/python-feedgen](https://github.com/edoardob90/python-feedgen)
 * ➡️ Pushed 1 commit in [edoardob90/aoc2021](https://github.com/edoardob90/aoc2021) on branch `main`
   * [#87284b2](https://github.com/edoardob90/aoc2021/commit/87284b2) Day 8, full solution
@@ -31,10 +37,6 @@ I'm Edoardo, and in just a few bullet points:
 
 Now it correctly deals with `&#39;` as a thousand separators.
   * [#73af294](https://github.com/edoardob90/finance-tracker-bot/commit/73af294) chore: ignore JetBrains editor dir
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#f69cfda](https://github.com/edoardob90/dotfiles/commit/f69cfda) Update README
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#c5f7265](https://github.com/edoardob90/dotfiles/commit/c5f7265) Remove fish_variables, should be OS-dependent
 
 
 ---
