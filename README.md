@@ -14,6 +14,7 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* #️⃣ Opened [#141 Unexpected &#34;Invalid master password&#34; error](https://github.com/blacs30/bitwarden-alfred-workflow/issues/141) in [blacs30/bitwarden-alfred-workflow](https://github.com/blacs30/bitwarden-alfred-workflow)
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#6a0e624](https://github.com/edoardob90/finance-tracker-bot/commit/6a0e624) chore: update CHANGELOG
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
@@ -32,11 +33,6 @@ The `/summary` command hasn&#39;t been implemented yet.
   * [#395cec4](https://github.com/edoardob90/finance-tracker-bot/commit/395cec4) fix: missing import
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#65ad039](https://github.com/edoardob90/finance-tracker-bot/commit/65ad039) refactor: tidy-up files
-* ➡️ Pushed 2 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#5db9d83](https://github.com/edoardob90/finance-tracker-bot/commit/5db9d83) refactor: changes to currency_parser function
-
-Now it correctly deals with `&#39;` as a thousand separators.
-  * [#73af294](https://github.com/edoardob90/finance-tracker-bot/commit/73af294) chore: ignore JetBrains editor dir
 
 
 ---
