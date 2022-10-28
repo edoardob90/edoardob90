@@ -14,6 +14,9 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 2 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#d1f6cfe](https://github.com/edoardob90/dotfiles/commit/d1f6cfe) Fish: update config
+  * [#0853c54](https://github.com/edoardob90/dotfiles/commit/0853c54) Remove Bitwarden SSH keys list
 * #️⃣ Opened [#141 Unexpected &#34;Invalid master password&#34; error](https://github.com/blacs30/bitwarden-alfred-workflow/issues/141) in [blacs30/bitwarden-alfred-workflow](https://github.com/blacs30/bitwarden-alfred-workflow)
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#6a0e624](https://github.com/edoardob90/finance-tracker-bot/commit/6a0e624) chore: update CHANGELOG
@@ -31,8 +34,6 @@ The `/summary` command hasn&#39;t been implemented yet.
   * [#e839622](https://github.com/edoardob90/finance-tracker-bot/commit/e839622) fix: typo in currencies dict
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#395cec4](https://github.com/edoardob90/finance-tracker-bot/commit/395cec4) fix: missing import
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#65ad039](https://github.com/edoardob90/finance-tracker-bot/commit/65ad039) refactor: tidy-up files
 
 
 ---
