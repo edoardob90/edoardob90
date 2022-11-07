@@ -14,6 +14,11 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 4 commits in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
+  * [#8f4af1f](https://github.com/edoardob90/dayone-to-obsidian/commit/8f4af1f) Update dependecies
+  * [#2b94814](https://github.com/edoardob90/dayone-to-obsidian/commit/2b94814) Reformat to support a YAML config file
+  * [#db4221a](https://github.com/edoardob90/dayone-to-obsidian/commit/db4221a) Add &#39;attrs&#39; package dependency plus some tidy-up
+  * [#8efa72f](https://github.com/edoardob90/dayone-to-obsidian/commit/8efa72f) Small changes to the Entry class
 * ➡️ Pushed 2 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#d1f6cfe](https://github.com/edoardob90/dotfiles/commit/d1f6cfe) Fish: update config
   * [#0853c54](https://github.com/edoardob90/dotfiles/commit/0853c54) Remove Bitwarden SSH keys list
@@ -32,8 +37,6 @@ The `/summary` command hasn&#39;t been implemented yet.
 * 🍽️ Forked [picocss/pico](https://github.com/picocss/pico) to [edoardob90/pico](https://github.com/edoardob90/pico)
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#e839622](https://github.com/edoardob90/finance-tracker-bot/commit/e839622) fix: typo in currencies dict
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#395cec4](https://github.com/edoardob90/finance-tracker-bot/commit/395cec4) fix: missing import
 
 
 ---
