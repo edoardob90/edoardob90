@@ -14,6 +14,9 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `refactor`
+  * [#34781db](https://github.com/edoardob90/dayone-to-obsidian/commit/34781db) Update README.md
+* ⏺️ Created new branch refactor in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian)
 * ➡️ Pushed 4 commits in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `main`
   * [#8f4af1f](https://github.com/edoardob90/dayone-to-obsidian/commit/8f4af1f) Update dependecies
   * [#2b94814](https://github.com/edoardob90/dayone-to-obsidian/commit/2b94814) Reformat to support a YAML config file
@@ -34,9 +37,6 @@ The `/summary` command hasn&#39;t been implemented yet.
   * [#87284b2](https://github.com/edoardob90/aoc2021/commit/87284b2) Day 8, full solution
 * ➡️ Pushed 1 commit in [edoardob90/aoc2021](https://github.com/edoardob90/aoc2021) on branch `main`
   * [#861c7bd](https://github.com/edoardob90/aoc2021/commit/861c7bd) Day 6: add timing to Part 1
-* 🍽️ Forked [picocss/pico](https://github.com/picocss/pico) to [edoardob90/pico](https://github.com/edoardob90/pico)
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#e839622](https://github.com/edoardob90/finance-tracker-bot/commit/e839622) fix: typo in currencies dict
 
 
 ---
