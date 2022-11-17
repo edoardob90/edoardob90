@@ -14,6 +14,8 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ⏺️ Created new branch main in [edoardob90/astro-paper-blog](https://github.com/edoardob90/astro-paper-blog)
+* ⏺️ Created new repository  [edoardob90/astro-paper-blog](https://github.com/edoardob90/astro-paper-blog)
 * 🔃 Opened [#2 Refactor](https://github.com/edoardob90/dayone-to-obsidian/pull/2) in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian)
   * 4 files changed `++182 --186`
 * ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `refactor`
@@ -34,9 +36,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#cafda57](https://github.com/edoardob90/finance-tracker-bot/commit/cafda57) chore: print help for not implemented commands
 
 The `/summary` command hasn&#39;t been implemented yet.
-* 🍽️ Forked [lkiesow/python-feedgen](https://github.com/lkiesow/python-feedgen) to [edoardob90/python-feedgen](https://github.com/edoardob90/python-feedgen)
-* ➡️ Pushed 1 commit in [edoardob90/aoc2021](https://github.com/edoardob90/aoc2021) on branch `main`
-  * [#87284b2](https://github.com/edoardob90/aoc2021/commit/87284b2) Day 8, full solution
 
 
 ---
