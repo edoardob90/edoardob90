@@ -14,6 +14,7 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* 🍽️ Forked [anpigon/obsidian-book-search-plugin](https://github.com/anpigon/obsidian-book-search-plugin) to [edoardob90/obsidian-book-search-plugin](https://github.com/edoardob90/obsidian-book-search-plugin)
 * ⏺️ Created new branch main in [edoardob90/astro-paper-blog](https://github.com/edoardob90/astro-paper-blog)
 * ⏺️ Created new repository  [edoardob90/astro-paper-blog](https://github.com/edoardob90/astro-paper-blog)
 * 🔃 Opened [#2 Refactor](https://github.com/edoardob90/dayone-to-obsidian/pull/2) in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian)
@@ -32,10 +33,6 @@ I'm Edoardo, and in just a few bullet points:
 * #️⃣ Opened [#141 Unexpected &#34;Invalid master password&#34; error](https://github.com/blacs30/bitwarden-alfred-workflow/issues/141) in [blacs30/bitwarden-alfred-workflow](https://github.com/blacs30/bitwarden-alfred-workflow)
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#6a0e624](https://github.com/edoardob90/finance-tracker-bot/commit/6a0e624) chore: update CHANGELOG
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#cafda57](https://github.com/edoardob90/finance-tracker-bot/commit/cafda57) chore: print help for not implemented commands
-
-The `/summary` command hasn&#39;t been implemented yet.
 
 
 ---
