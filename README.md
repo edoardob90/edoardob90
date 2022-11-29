@@ -14,6 +14,13 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ⏺️ Created new tag v1.0 in [edoardob90/pico](https://github.com/edoardob90/pico)
+* ➡️ Pushed 1 commit in [edoardob90/pico](https://github.com/edoardob90/pico) on branch `master`
+  * [#ca95b76](https://github.com/edoardob90/pico/commit/ca95b76) A few personal customizations
+
+Notably:
+* Change of max viewport width to 720px (Bearblog default)
+* Add --font-main var to override base font-family
 * ➡️ Pushed 1 commit in [edoardob90/pandoc-docker-action](https://github.com/edoardob90/pandoc-docker-action) on branch `main`
   * [#cde7bce](https://github.com/edoardob90/pandoc-docker-action/commit/cde7bce) Update action.yml and entrypoint script (simpler)
 * ⏺️ Created new tag v4 in [edoardob90/pandoc-docker-action](https://github.com/edoardob90/pandoc-docker-action)
@@ -26,9 +33,6 @@ I'm Edoardo, and in just a few bullet points:
 * ⏺️ Created new repository  [edoardob90/astro-paper-blog](https://github.com/edoardob90/astro-paper-blog)
 * 🔃 Opened [#2 Refactor](https://github.com/edoardob90/dayone-to-obsidian/pull/2) in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian)
   * 4 files changed `++182 --186`
-* ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `refactor`
-  * [#34781db](https://github.com/edoardob90/dayone-to-obsidian/commit/34781db) Update README.md
-* ⏺️ Created new branch refactor in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian)
 
 
 ---
