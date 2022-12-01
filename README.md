@@ -14,6 +14,8 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ⏺️ Created new branch main in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022)
+* ⏺️ Created new repository  [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022)
 * ⏺️ Created new tag v1.0 in [edoardob90/pico](https://github.com/edoardob90/pico)
 * ➡️ Pushed 1 commit in [edoardob90/pico](https://github.com/edoardob90/pico) on branch `master`
   * [#ca95b76](https://github.com/edoardob90/pico/commit/ca95b76) A few personal customizations
@@ -30,9 +32,6 @@ Notably:
   * [#fd2fad1](https://github.com/edoardob90/pandoc-docker-action/commit/fd2fad1) Update pandoc image
 * 🍽️ Forked [anpigon/obsidian-book-search-plugin](https://github.com/anpigon/obsidian-book-search-plugin) to [edoardob90/obsidian-book-search-plugin](https://github.com/edoardob90/obsidian-book-search-plugin)
 * ⏺️ Created new branch main in [edoardob90/astro-paper-blog](https://github.com/edoardob90/astro-paper-blog)
-* ⏺️ Created new repository  [edoardob90/astro-paper-blog](https://github.com/edoardob90/astro-paper-blog)
-* 🔃 Opened [#2 Refactor](https://github.com/edoardob90/dayone-to-obsidian/pull/2) in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian)
-  * 4 files changed `++182 --186`
 
 
 ---
