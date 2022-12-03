@@ -15,24 +15,24 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#d767cc6](https://github.com/edoardob90/aoc2022/commit/d767cc6) Day 2 (complete)
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#d822dd2](https://github.com/edoardob90/aoc2022/commit/d822dd2) Day 2 (complete)
+* ⏺️ Created new branch main in [edoardob90/pico](https://github.com/edoardob90/pico)
+* ➡️ Pushed 1 commit in [edoardob90/pico](https://github.com/edoardob90/pico) on branch `main`
+  * [#5c1c250](https://github.com/edoardob90/pico/commit/5c1c250) Fix font sizes (too small on mobile)
+* ⏺️ Created new tag v1.1 in [edoardob90/pico](https://github.com/edoardob90/pico)
+* ➡️ Pushed 4 commits in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#b4b15e8](https://github.com/edoardob90/aoc2022/commit/b4b15e8) Merge branch &#39;main&#39; of github.com:edoardob90/aoc2022
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#a315152](https://github.com/edoardob90/aoc2022/commit/a315152) Update README.md
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#bfa8676](https://github.com/edoardob90/aoc2022/commit/bfa8676) Day 1 ✅
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#11b710c](https://github.com/edoardob90/aoc2022/commit/11b710c) Update README.md
 * ➡️ Pushed 2 commits in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#c74367d](https://github.com/edoardob90/aoc2022/commit/c74367d) Update main.yml to use the fixed Pandoc action
   * [#24df458](https://github.com/edoardob90/aoc2022/commit/24df458) Remove wrong folder
-* ➡️ Pushed 1 commit in [edoardob90/pandoc-docker-action](https://github.com/edoardob90/pandoc-docker-action) on branch `main`
-  * [#1c8cb6e](https://github.com/edoardob90/pandoc-docker-action/commit/1c8cb6e) Fix Dockerfile
-* ⏺️ Created new tag v5.1 in [edoardob90/pandoc-docker-action](https://github.com/edoardob90/pandoc-docker-action)
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#c270583](https://github.com/edoardob90/aoc2022/commit/c270583) Update Docker action and normalize date formatting
-* ⏺️ Created new tag v5 in [edoardob90/pandoc-docker-action](https://github.com/edoardob90/pandoc-docker-action)
-* ➡️ Pushed 1 commit in [edoardob90/pandoc-docker-action](https://github.com/edoardob90/pandoc-docker-action) on branch `main`
-  * [#88b6f5e](https://github.com/edoardob90/pandoc-docker-action/commit/88b6f5e) Fix entrypoint error; normalize date formatting
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#4e37540](https://github.com/edoardob90/aoc2022/commit/4e37540) Update main.yml
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#96bcdde](https://github.com/edoardob90/aoc2022/commit/96bcdde) Fix script permissions
 
 
 ---
