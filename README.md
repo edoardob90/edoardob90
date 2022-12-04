@@ -15,6 +15,8 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#40cb906](https://github.com/edoardob90/aoc2022/commit/40cb906) Day 3 (complete)
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#d767cc6](https://github.com/edoardob90/aoc2022/commit/d767cc6) Day 2 (complete)
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#d822dd2](https://github.com/edoardob90/aoc2022/commit/d822dd2) Day 2 (complete)
@@ -30,9 +32,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#bfa8676](https://github.com/edoardob90/aoc2022/commit/bfa8676) Day 1 ✅
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#11b710c](https://github.com/edoardob90/aoc2022/commit/11b710c) Update README.md
-* ➡️ Pushed 2 commits in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#c74367d](https://github.com/edoardob90/aoc2022/commit/c74367d) Update main.yml to use the fixed Pandoc action
-  * [#24df458](https://github.com/edoardob90/aoc2022/commit/24df458) Remove wrong folder
 
 
 ---
