@@ -15,6 +15,10 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#bdf366b](https://github.com/edoardob90/aoc2022/commit/bdf366b) Day 4 (complete)
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#91a808a](https://github.com/edoardob90/aoc2022/commit/91a808a) Add prompts&#39; part 2
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#40cb906](https://github.com/edoardob90/aoc2022/commit/40cb906) Day 3 (complete)
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#d767cc6](https://github.com/edoardob90/aoc2022/commit/d767cc6) Day 2 (complete)
@@ -28,10 +32,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#b4b15e8](https://github.com/edoardob90/aoc2022/commit/b4b15e8) Merge branch &#39;main&#39; of github.com:edoardob90/aoc2022
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#a315152](https://github.com/edoardob90/aoc2022/commit/a315152) Update README.md
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#bfa8676](https://github.com/edoardob90/aoc2022/commit/bfa8676) Day 1 ✅
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#11b710c](https://github.com/edoardob90/aoc2022/commit/11b710c) Update README.md
 
 
 ---
