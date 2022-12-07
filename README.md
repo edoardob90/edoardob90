@@ -15,6 +15,14 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#612f52d](https://github.com/edoardob90/aoc2022/commit/612f52d) Typo in update_calendar.sh
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#a733d7c](https://github.com/edoardob90/aoc2022/commit/a733d7c) Update update_calendar.sh
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#8d15143](https://github.com/edoardob90/aoc2022/commit/8d15143) Day 6 (complete)
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#e7fce02](https://github.com/edoardob90/aoc2022/commit/e7fce02) Day 6 (complete)
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#6db905b](https://github.com/edoardob90/aoc2022/commit/6db905b) Day 5 (complete). Unexpectedly tough
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#f6177d6](https://github.com/edoardob90/aoc2022/commit/f6177d6) Day 5 (complete). Unexpectedly tough
@@ -26,12 +34,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#40cb906](https://github.com/edoardob90/aoc2022/commit/40cb906) Day 3 (complete)
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#d767cc6](https://github.com/edoardob90/aoc2022/commit/d767cc6) Day 2 (complete)
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#d822dd2](https://github.com/edoardob90/aoc2022/commit/d822dd2) Day 2 (complete)
-* ⏺️ Created new branch main in [edoardob90/pico](https://github.com/edoardob90/pico)
-* ➡️ Pushed 1 commit in [edoardob90/pico](https://github.com/edoardob90/pico) on branch `main`
-  * [#5c1c250](https://github.com/edoardob90/pico/commit/5c1c250) Fix font sizes (too small on mobile)
-* ⏺️ Created new tag v1.1 in [edoardob90/pico](https://github.com/edoardob90/pico)
 
 
 ---
