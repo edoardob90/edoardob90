@@ -15,6 +15,8 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#38d1945](https://github.com/edoardob90/aoc2022/commit/38d1945) Day 8 (full, with WL)
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#f62f3b1](https://github.com/edoardob90/aoc2022/commit/f62f3b1) Day 7 (typo &amp; blog post link)
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#4257d66](https://github.com/edoardob90/aoc2022/commit/4257d66) Day 7 (complete, but got very stuck)
@@ -32,8 +34,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#f6177d6](https://github.com/edoardob90/aoc2022/commit/f6177d6) Day 5 (complete). Unexpectedly tough
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#bdf366b](https://github.com/edoardob90/aoc2022/commit/bdf366b) Day 4 (complete)
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#91a808a](https://github.com/edoardob90/aoc2022/commit/91a808a) Add prompts&#39; part 2
 
 
 ---
