@@ -15,6 +15,11 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#5eee904](https://github.com/edoardob90/aoc2022/commit/5eee904) Day 9: link to blog post
+* ➡️ Pushed 2 commits in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#d453fec](https://github.com/edoardob90/aoc2022/commit/d453fec) Day 9 (complete)
+  * [#f3d4835](https://github.com/edoardob90/aoc2022/commit/f3d4835) Day 8: add Wolfram script
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#38d1945](https://github.com/edoardob90/aoc2022/commit/38d1945) Day 8 (full, with WL)
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#f62f3b1](https://github.com/edoardob90/aoc2022/commit/f62f3b1) Day 7 (typo &amp; blog post link)
@@ -30,10 +35,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#e7fce02](https://github.com/edoardob90/aoc2022/commit/e7fce02) Day 6 (complete)
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#6db905b](https://github.com/edoardob90/aoc2022/commit/6db905b) Day 5 (complete). Unexpectedly tough
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#f6177d6](https://github.com/edoardob90/aoc2022/commit/f6177d6) Day 5 (complete). Unexpectedly tough
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#bdf366b](https://github.com/edoardob90/aoc2022/commit/bdf366b) Day 4 (complete)
 
 
 ---
