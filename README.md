@@ -15,6 +15,15 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#647e476](https://github.com/edoardob90/aoc2022/commit/647e476) Day 10, blog post
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#5024125](https://github.com/edoardob90/aoc2022/commit/5024125) Day 10, part 2
+* ➡️ Pushed 2 commits in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#33467d2](https://github.com/edoardob90/aoc2022/commit/33467d2) Day 10, part 2
+  * [#41bd633](https://github.com/edoardob90/aoc2022/commit/41bd633) Day 10, part 1
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#a1eda06](https://github.com/edoardob90/aoc2022/commit/a1eda06) Rename folder for sorting
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#5eee904](https://github.com/edoardob90/aoc2022/commit/5eee904) Day 9: link to blog post
 * ➡️ Pushed 2 commits in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#d453fec](https://github.com/edoardob90/aoc2022/commit/d453fec) Day 9 (complete)
@@ -27,14 +36,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#4257d66](https://github.com/edoardob90/aoc2022/commit/4257d66) Day 7 (complete, but got very stuck)
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#612f52d](https://github.com/edoardob90/aoc2022/commit/612f52d) Typo in update_calendar.sh
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#a733d7c](https://github.com/edoardob90/aoc2022/commit/a733d7c) Update update_calendar.sh
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#8d15143](https://github.com/edoardob90/aoc2022/commit/8d15143) Day 6 (complete)
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#e7fce02](https://github.com/edoardob90/aoc2022/commit/e7fce02) Day 6 (complete)
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#6db905b](https://github.com/edoardob90/aoc2022/commit/6db905b) Day 5 (complete). Unexpectedly tough
 
 
 ---
