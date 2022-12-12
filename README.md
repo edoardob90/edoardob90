@@ -15,6 +15,10 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#0513502](https://github.com/edoardob90/aoc2022/commit/0513502) Day 11, part 2 🤯
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#168bb08](https://github.com/edoardob90/aoc2022/commit/168bb08) Day 11, part 1
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#647e476](https://github.com/edoardob90/aoc2022/commit/647e476) Day 10, blog post
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#5024125](https://github.com/edoardob90/aoc2022/commit/5024125) Day 10, part 2
@@ -32,10 +36,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#38d1945](https://github.com/edoardob90/aoc2022/commit/38d1945) Day 8 (full, with WL)
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#f62f3b1](https://github.com/edoardob90/aoc2022/commit/f62f3b1) Day 7 (typo &amp; blog post link)
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#4257d66](https://github.com/edoardob90/aoc2022/commit/4257d66) Day 7 (complete, but got very stuck)
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#612f52d](https://github.com/edoardob90/aoc2022/commit/612f52d) Typo in update_calendar.sh
 
 
 ---
