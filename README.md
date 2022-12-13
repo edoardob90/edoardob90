@@ -15,6 +15,12 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#bf8c5a3](https://github.com/edoardob90/aoc2022/commit/bf8c5a3) Day 11: cleanup
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#586deb9](https://github.com/edoardob90/aoc2022/commit/586deb9) Day 11: cleanup
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#de97ac6](https://github.com/edoardob90/finance-tracker-bot/commit/de97ac6) Update dependencies
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#0513502](https://github.com/edoardob90/aoc2022/commit/0513502) Day 11, part 2 🤯
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#168bb08](https://github.com/edoardob90/aoc2022/commit/168bb08) Day 11, part 1
@@ -29,13 +35,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#a1eda06](https://github.com/edoardob90/aoc2022/commit/a1eda06) Rename folder for sorting
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#5eee904](https://github.com/edoardob90/aoc2022/commit/5eee904) Day 9: link to blog post
-* ➡️ Pushed 2 commits in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#d453fec](https://github.com/edoardob90/aoc2022/commit/d453fec) Day 9 (complete)
-  * [#f3d4835](https://github.com/edoardob90/aoc2022/commit/f3d4835) Day 8: add Wolfram script
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#38d1945](https://github.com/edoardob90/aoc2022/commit/38d1945) Day 8 (full, with WL)
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#f62f3b1](https://github.com/edoardob90/aoc2022/commit/f62f3b1) Day 7 (typo &amp; blog post link)
 
 
 ---
