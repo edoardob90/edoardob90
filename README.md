@@ -15,6 +15,10 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#dd0b040](https://github.com/edoardob90/aoc2022/commit/dd0b040) Update README.md
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#f91869a](https://github.com/edoardob90/aoc2022/commit/f91869a) Day 13, complete
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#bf8c5a3](https://github.com/edoardob90/aoc2022/commit/bf8c5a3) Day 11: cleanup
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#586deb9](https://github.com/edoardob90/aoc2022/commit/586deb9) Day 11: cleanup
@@ -31,10 +35,6 @@ I'm Edoardo, and in just a few bullet points:
 * ➡️ Pushed 2 commits in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#33467d2](https://github.com/edoardob90/aoc2022/commit/33467d2) Day 10, part 2
   * [#41bd633](https://github.com/edoardob90/aoc2022/commit/41bd633) Day 10, part 1
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#a1eda06](https://github.com/edoardob90/aoc2022/commit/a1eda06) Rename folder for sorting
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#5eee904](https://github.com/edoardob90/aoc2022/commit/5eee904) Day 9: link to blog post
 
 
 ---
