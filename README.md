@@ -15,6 +15,11 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#e2d2ca8](https://github.com/edoardob90/aoc2022/commit/e2d2ca8) Day 14, blog post
+* ➡️ Pushed 2 commits in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#c8fad10](https://github.com/edoardob90/aoc2022/commit/c8fad10) Fix bug in Day 6
+  * [#6443dc3](https://github.com/edoardob90/aoc2022/commit/6443dc3) Update blog URL
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#dd0b040](https://github.com/edoardob90/aoc2022/commit/dd0b040) Update README.md
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#f91869a](https://github.com/edoardob90/aoc2022/commit/f91869a) Day 13, complete
@@ -30,11 +35,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#168bb08](https://github.com/edoardob90/aoc2022/commit/168bb08) Day 11, part 1
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#647e476](https://github.com/edoardob90/aoc2022/commit/647e476) Day 10, blog post
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#5024125](https://github.com/edoardob90/aoc2022/commit/5024125) Day 10, part 2
-* ➡️ Pushed 2 commits in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#33467d2](https://github.com/edoardob90/aoc2022/commit/33467d2) Day 10, part 2
-  * [#41bd633](https://github.com/edoardob90/aoc2022/commit/41bd633) Day 10, part 1
 
 
 ---
