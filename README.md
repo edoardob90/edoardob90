@@ -15,6 +15,18 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#fadab5d](https://github.com/edoardob90/aoc2022/commit/fadab5d) Update README and calendar workflow
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#5fbdf2c](https://github.com/edoardob90/aoc2022/commit/5fbdf2c) Day 15, complete
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#bbdf8b4](https://github.com/edoardob90/aoc2022/commit/bbdf8b4) Update README.md
+
+Default links are a tag search on my blog
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#2269bfd](https://github.com/edoardob90/aoc2022/commit/2269bfd) Update update_calendar.sh
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#ab6a5ee](https://github.com/edoardob90/aoc2022/commit/ab6a5ee) Update README.md
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#e2d2ca8](https://github.com/edoardob90/aoc2022/commit/e2d2ca8) Day 14, blog post
 * ➡️ Pushed 2 commits in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#c8fad10](https://github.com/edoardob90/aoc2022/commit/c8fad10) Fix bug in Day 6
@@ -25,16 +37,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#f91869a](https://github.com/edoardob90/aoc2022/commit/f91869a) Day 13, complete
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#bf8c5a3](https://github.com/edoardob90/aoc2022/commit/bf8c5a3) Day 11: cleanup
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#586deb9](https://github.com/edoardob90/aoc2022/commit/586deb9) Day 11: cleanup
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#de97ac6](https://github.com/edoardob90/finance-tracker-bot/commit/de97ac6) Update dependencies
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#0513502](https://github.com/edoardob90/aoc2022/commit/0513502) Day 11, part 2 🤯
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#168bb08](https://github.com/edoardob90/aoc2022/commit/168bb08) Day 11, part 1
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#647e476](https://github.com/edoardob90/aoc2022/commit/647e476) Day 10, blog post
 
 
 ---
