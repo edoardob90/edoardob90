@@ -14,6 +14,20 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#cc77cf1](https://github.com/edoardob90/dotfiles/commit/cc77cf1) Add default Fish plugins
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#f2fabbd](https://github.com/edoardob90/dotfiles/commit/f2fabbd) Templates will pick the correct shell/editor
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#de1795b](https://github.com/edoardob90/dotfiles/commit/de1795b) Templates will pick the correct shell/editor
+* ➡️ Pushed 2 commits in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#cc1c641](https://github.com/edoardob90/aoc2022/commit/cc1c641) Merge branch &#39;main&#39; of github.com:edoardob90/aoc2022
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#d55b5b3](https://github.com/edoardob90/dotfiles/commit/d55b5b3) Fix bug in run script
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#80e440f](https://github.com/edoardob90/dotfiles/commit/80e440f) Fix default shell in run scripts
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#921da27](https://github.com/edoardob90/dotfiles/commit/921da27) Remove nvim conf as template
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#fadab5d](https://github.com/edoardob90/aoc2022/commit/fadab5d) Update README and calendar workflow
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
@@ -22,21 +36,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#bbdf8b4](https://github.com/edoardob90/aoc2022/commit/bbdf8b4) Update README.md
 
 Default links are a tag search on my blog
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#2269bfd](https://github.com/edoardob90/aoc2022/commit/2269bfd) Update update_calendar.sh
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#ab6a5ee](https://github.com/edoardob90/aoc2022/commit/ab6a5ee) Update README.md
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#e2d2ca8](https://github.com/edoardob90/aoc2022/commit/e2d2ca8) Day 14, blog post
-* ➡️ Pushed 2 commits in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#c8fad10](https://github.com/edoardob90/aoc2022/commit/c8fad10) Fix bug in Day 6
-  * [#6443dc3](https://github.com/edoardob90/aoc2022/commit/6443dc3) Update blog URL
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#dd0b040](https://github.com/edoardob90/aoc2022/commit/dd0b040) Update README.md
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#f91869a](https://github.com/edoardob90/aoc2022/commit/f91869a) Day 13, complete
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#bf8c5a3](https://github.com/edoardob90/aoc2022/commit/bf8c5a3) Day 11: cleanup
 
 
 ---
