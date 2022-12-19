@@ -15,6 +15,12 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#08a1635](https://github.com/edoardob90/dotfiles/commit/08a1635) Update init.vim
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#2b794ff](https://github.com/edoardob90/aoc2022/commit/2b794ff) Update README.md
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#3c556e8](https://github.com/edoardob90/aoc2022/commit/3c556e8) Day 18 (complete) + langs used added to README
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#cc77cf1](https://github.com/edoardob90/dotfiles/commit/cc77cf1) Add default Fish plugins
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#f2fabbd](https://github.com/edoardob90/dotfiles/commit/f2fabbd) Templates will pick the correct shell/editor
@@ -28,14 +34,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#80e440f](https://github.com/edoardob90/dotfiles/commit/80e440f) Fix default shell in run scripts
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#921da27](https://github.com/edoardob90/dotfiles/commit/921da27) Remove nvim conf as template
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#fadab5d](https://github.com/edoardob90/aoc2022/commit/fadab5d) Update README and calendar workflow
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#5fbdf2c](https://github.com/edoardob90/aoc2022/commit/5fbdf2c) Day 15, complete
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#bbdf8b4](https://github.com/edoardob90/aoc2022/commit/bbdf8b4) Update README.md
-
-Default links are a tag search on my blog
 
 
 ---
