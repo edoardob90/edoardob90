@@ -14,6 +14,20 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#8365192](https://github.com/edoardob90/aoc2022/commit/8365192) Update README.md
+
+Fix internal link
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#3d6fd44](https://github.com/edoardob90/aoc2022/commit/3d6fd44) Day 21, Python solution
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#eed0246](https://github.com/edoardob90/aoc2022/commit/eed0246) Update README.md
+
+Add details on how to run the Wolfram solutions
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#4dd4cc7](https://github.com/edoardob90/aoc2022/commit/4dd4cc7) Day 21, complete
+* ➡️ Pushed 3 commits in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#82332cd](https://github.com/edoardob90/aoc2022/commit/82332cd) Merge branch &#39;main&#39; of github.com:edoardob90/aoc2022
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#08a1635](https://github.com/edoardob90/dotfiles/commit/08a1635) Update init.vim
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
@@ -24,16 +38,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#cc77cf1](https://github.com/edoardob90/dotfiles/commit/cc77cf1) Add default Fish plugins
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#f2fabbd](https://github.com/edoardob90/dotfiles/commit/f2fabbd) Templates will pick the correct shell/editor
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#de1795b](https://github.com/edoardob90/dotfiles/commit/de1795b) Templates will pick the correct shell/editor
-* ➡️ Pushed 2 commits in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#cc1c641](https://github.com/edoardob90/aoc2022/commit/cc1c641) Merge branch &#39;main&#39; of github.com:edoardob90/aoc2022
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#d55b5b3](https://github.com/edoardob90/dotfiles/commit/d55b5b3) Fix bug in run script
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#80e440f](https://github.com/edoardob90/dotfiles/commit/80e440f) Fix default shell in run scripts
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#921da27](https://github.com/edoardob90/dotfiles/commit/921da27) Remove nvim conf as template
 
 
 ---
