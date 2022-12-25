@@ -15,6 +15,8 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#5f74adc](https://github.com/edoardob90/aoc2022/commit/5f74adc) Day 23, complete but only works with input_2.txt
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#8365192](https://github.com/edoardob90/aoc2022/commit/8365192) Update README.md
 
 Fix internal link
@@ -36,8 +38,6 @@ Add details on how to run the Wolfram solutions
   * [#3c556e8](https://github.com/edoardob90/aoc2022/commit/3c556e8) Day 18 (complete) + langs used added to README
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#cc77cf1](https://github.com/edoardob90/dotfiles/commit/cc77cf1) Add default Fish plugins
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#f2fabbd](https://github.com/edoardob90/dotfiles/commit/f2fabbd) Templates will pick the correct shell/editor
 
 
 ---
