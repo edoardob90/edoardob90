@@ -14,6 +14,12 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 2 commits in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#3f76f90](https://github.com/edoardob90/aoc2022/commit/3f76f90) Merge branch &#39;main&#39; of github.com:edoardob90/aoc2022
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#05ab772](https://github.com/edoardob90/aoc2022/commit/05ab772) Update README.md
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#98b99f1](https://github.com/edoardob90/aoc2022/commit/98b99f1) Day 25 complete, but sadly not enough stars to close (yet)
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#5f74adc](https://github.com/edoardob90/aoc2022/commit/5f74adc) Day 23, complete but only works with input_2.txt
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
@@ -32,12 +38,6 @@ Add details on how to run the Wolfram solutions
   * [#82332cd](https://github.com/edoardob90/aoc2022/commit/82332cd) Merge branch &#39;main&#39; of github.com:edoardob90/aoc2022
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#08a1635](https://github.com/edoardob90/dotfiles/commit/08a1635) Update init.vim
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#2b794ff](https://github.com/edoardob90/aoc2022/commit/2b794ff) Update README.md
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#3c556e8](https://github.com/edoardob90/aoc2022/commit/3c556e8) Day 18 (complete) + langs used added to README
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#cc77cf1](https://github.com/edoardob90/dotfiles/commit/cc77cf1) Add default Fish plugins
 
 
 ---
