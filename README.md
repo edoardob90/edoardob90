@@ -14,6 +14,15 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#eae7a7a](https://github.com/edoardob90/aoc2022/commit/eae7a7a) Update 25.py comments
+* ➡️ Pushed 2 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#5ab496b](https://github.com/edoardob90/finance-tracker-bot/commit/5ab496b) feat: add predefined record categories
+
+In the /settings menu, the user can now set
+a list of predefined categories that will be suggested
+when entering the &#34;Reason&#34; of a new record
+  * [#8798c46](https://github.com/edoardob90/finance-tracker-bot/commit/8798c46) Update deps
 * ➡️ Pushed 2 commits in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#3f76f90](https://github.com/edoardob90/aoc2022/commit/3f76f90) Merge branch &#39;main&#39; of github.com:edoardob90/aoc2022
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
@@ -34,10 +43,6 @@ Fix internal link
 Add details on how to run the Wolfram solutions
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#4dd4cc7](https://github.com/edoardob90/aoc2022/commit/4dd4cc7) Day 21, complete
-* ➡️ Pushed 3 commits in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#82332cd](https://github.com/edoardob90/aoc2022/commit/82332cd) Merge branch &#39;main&#39; of github.com:edoardob90/aoc2022
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#08a1635](https://github.com/edoardob90/dotfiles/commit/08a1635) Update init.vim
 
 
 ---
