@@ -15,6 +15,10 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#b8a338d](https://github.com/edoardob90/aoc2022/commit/b8a338d) Update README.md
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#72f90fe](https://github.com/edoardob90/aoc2022/commit/72f90fe) Day 20, complete
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#eae7a7a](https://github.com/edoardob90/aoc2022/commit/eae7a7a) Update 25.py comments
 * ➡️ Pushed 2 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#5ab496b](https://github.com/edoardob90/finance-tracker-bot/commit/5ab496b) feat: add predefined record categories
@@ -37,12 +41,6 @@ when entering the &#34;Reason&#34; of a new record
 Fix internal link
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#3d6fd44](https://github.com/edoardob90/aoc2022/commit/3d6fd44) Day 21, Python solution
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#eed0246](https://github.com/edoardob90/aoc2022/commit/eed0246) Update README.md
-
-Add details on how to run the Wolfram solutions
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#4dd4cc7](https://github.com/edoardob90/aoc2022/commit/4dd4cc7) Day 21, complete
 
 
 ---
