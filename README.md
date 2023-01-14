@@ -14,6 +14,8 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 2 commits in [edoardob90/sp4e-2018](https://github.com/edoardob90/sp4e-2018) on branch `master`
+  * [#a070e26](https://github.com/edoardob90/sp4e-2018/commit/a070e26) Merge branch &#39;master&#39; of github.com:edoardob90/sp4e-2018
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#b8a338d](https://github.com/edoardob90/aoc2022/commit/b8a338d) Update README.md
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
@@ -39,8 +41,6 @@ when entering the &#34;Reason&#34; of a new record
   * [#8365192](https://github.com/edoardob90/aoc2022/commit/8365192) Update README.md
 
 Fix internal link
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#3d6fd44](https://github.com/edoardob90/aoc2022/commit/3d6fd44) Day 21, Python solution
 
 
 ---
