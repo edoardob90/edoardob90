@@ -4,8 +4,9 @@ I'm Edoardo, and in just a few bullet points:
 
 - 🔭 I’m currently working as a **high-performance computing expert** in Zürich 🇨🇭
 - 🌱 I’m currently learning **algorithmic thinking**
-- 👯 I’m looking to collaborate on some **programming challenge** (e.g., [Advent of Code](https://github.com/edoardob90/aoc2021)) or an **open-source project**
+- 👯 I’m looking to collaborate on some **programming challenge** (e.g., [Advent of Code](https://github.com/edoardob90/aoc2022)) or an **open-source project**
 - 📫 How to reach me: `hi@edobld.me`, [LinkedIn](https://linkedin.com/in/edobld), or [Twitter](https://twitter.com/eadweard90)
+- 🌐 My personal blog: [blog.edoardob.im](https://blog.edoardob.im)
 
 #### Languages I work(ed) with 👨‍💻
 
@@ -14,6 +15,8 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `refactor`
+  * [#9a7a1c3](https://github.com/edoardob90/dayone-to-obsidian/commit/9a7a1c3) Minor changes and README update
 * ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `refactor`
   * [#3176c42](https://github.com/edoardob90/dayone-to-obsidian/commit/3176c42) Fix bug in Entry class; remove unused code/imports
 * ➡️ Pushed 2 commits in [edoardob90/sp4e-2018](https://github.com/edoardob90/sp4e-2018) on branch `master`
@@ -37,8 +40,6 @@ when entering the &#34;Reason&#34; of a new record
   * [#05ab772](https://github.com/edoardob90/aoc2022/commit/05ab772) Update README.md
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#98b99f1](https://github.com/edoardob90/aoc2022/commit/98b99f1) Day 25 complete, but sadly not enough stars to close (yet)
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#5f74adc](https://github.com/edoardob90/aoc2022/commit/5f74adc) Day 23, complete but only works with input_2.txt
 
 
 ---
@@ -51,5 +52,4 @@ when entering the &#34;Reason&#34; of a new record
 - ⚡ Fun fact: ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 🌐 My webpage ...
 -->
