@@ -4,8 +4,9 @@ I'm Edoardo, and in just a few bullet points:
 
 - 🔭 I’m currently working as a **high-performance computing expert** in Zürich 🇨🇭
 - 🌱 I’m currently learning **algorithmic thinking**
-- 👯 I’m looking to collaborate on some **programming challenge** (e.g., [Advent of Code](https://github.com/edoardob90/aoc2021)) or an **open-source project**
+- 👯 I’m looking to collaborate on some **programming challenge** (e.g., [Advent of Code](https://github.com/edoardob90/aoc2022)) or an **open-source project**
 - 📫 How to reach me: `hi@edobld.me`, [LinkedIn](https://linkedin.com/in/edobld), or [Twitter](https://twitter.com/eadweard90)
+- 🌐 My personal blog: [blog.edoardob.im](https://blog.edoardob.im)
 
 #### Languages I work(ed) with 👨‍💻
 
@@ -25,5 +26,4 @@ I'm Edoardo, and in just a few bullet points:
 - ⚡ Fun fact: ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 🌐 My webpage ...
 -->
