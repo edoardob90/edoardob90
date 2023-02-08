@@ -15,6 +15,7 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* #️⃣ Opened [#13 Topics survey](https://github.com/empa-scientific-it/python-tutorial/issues/13) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `refactor`
   * [#9a7a1c3](https://github.com/edoardob90/dayone-to-obsidian/commit/9a7a1c3) Minor changes and README update
 * ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `refactor`
@@ -38,8 +39,6 @@ when entering the &#34;Reason&#34; of a new record
   * [#3f76f90](https://github.com/edoardob90/aoc2022/commit/3f76f90) Merge branch &#39;main&#39; of github.com:edoardob90/aoc2022
 * ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
   * [#05ab772](https://github.com/edoardob90/aoc2022/commit/05ab772) Update README.md
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#98b99f1](https://github.com/edoardob90/aoc2022/commit/98b99f1) Day 25 complete, but sadly not enough stars to close (yet)
 
 
 ---
