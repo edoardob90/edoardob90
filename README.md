@@ -15,6 +15,9 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 2 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/functions`
+  * [#2e4286a](https://github.com/empa-scientific-it/python-tutorial/commit/2e4286a) Add Markdown version of the notebook
+  * [#5b81ba8](https://github.com/empa-scientific-it/python-tutorial/commit/5b81ba8) Adjust exercises type (unique numeric answer)
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/functions`
   * [#a380cf3](https://github.com/empa-scientific-it/python-tutorial/commit/a380cf3) Add another exercise idea and fix nb formatting
 * 🔃 Opened [#15 Functions](https://github.com/empa-scientific-it/python-tutorial/pull/15) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
@@ -30,8 +33,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#3176c42](https://github.com/edoardob90/dayone-to-obsidian/commit/3176c42) Fix bug in Entry class; remove unused code/imports
 * ➡️ Pushed 2 commits in [edoardob90/sp4e-2018](https://github.com/edoardob90/sp4e-2018) on branch `master`
   * [#a070e26](https://github.com/edoardob90/sp4e-2018/commit/a070e26) Merge branch &#39;master&#39; of github.com:edoardob90/sp4e-2018
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#b8a338d](https://github.com/edoardob90/aoc2022/commit/b8a338d) Update README.md
 
 
 ---
