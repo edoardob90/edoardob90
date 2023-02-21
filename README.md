@@ -16,6 +16,8 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `refactor`
+  * [#33aa3c1](https://github.com/edoardob90/dayone-to-obsidian/commit/33aa3c1) Update README.md
+* ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `refactor`
   * [#a12f31c](https://github.com/edoardob90/dayone-to-obsidian/commit/a12f31c) Update README
 
 Add link to online YAML to TOML converter
@@ -45,7 +47,6 @@ leave an external link to DayOne.
   * 2 files changed `++669 --6`
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/functions`
   * [#44b46d8](https://github.com/empa-scientific-it/python-tutorial/commit/44b46d8) Adds the &#39;Basics&#39; stuff on functions, plus a few exercises ideas
-* ⏺️ Created new branch new-material/functions in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
 ---
