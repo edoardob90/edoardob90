@@ -15,6 +15,14 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 2 commits in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `droplet-evaporation`
+  * [#7e817dd](https://github.com/empa-scientific-it/particles-montecarlo/commit/7e817dd) Add test for evaporation
+  * [#64eaf92](https://github.com/empa-scientific-it/particles-montecarlo/commit/64eaf92) Reorganize tests
+* ➡️ Pushed 1 commit in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `main`
+  * [#64eaf92](https://github.com/empa-scientific-it/particles-montecarlo/commit/64eaf92) Reorganize tests
+* ⏺️ Created new branch setup-testing in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo)
+* ➡️ Pushed 1 commit in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `boundary-interaction`
+  * [#eb90441](https://github.com/empa-scientific-it/particles-montecarlo/commit/eb90441) Reorganize tests
 * 🔃 Closed [#4 Fixing boundary condition implementation](https://github.com/empa-scientific-it/particles-montecarlo/pull/4) in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo)
   * 2 files changed `++454 --473`
 * ➡️ Pushed 4 commits in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `droplet-evaporation`
@@ -35,27 +43,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#35a2853](https://github.com/empa-scientific-it/particles-montecarlo/commit/35a2853) Add GoogleTest config
   * [#0e211f9](https://github.com/empa-scientific-it/particles-montecarlo/commit/0e211f9) Cleanup main.cc from unused headers
 * #️⃣ Opened [#11 Setup CMake to include GoogleTest (in the `main` branch)](https://github.com/empa-scientific-it/particles-montecarlo/issues/11) in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo)
-* ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `refactor`
-  * [#33aa3c1](https://github.com/edoardob90/dayone-to-obsidian/commit/33aa3c1) Update README.md
-* ➡️ Pushed 1 commit in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `refactor`
-  * [#a12f31c](https://github.com/edoardob90/dayone-to-obsidian/commit/a12f31c) Update README
-
-Add link to online YAML to TOML converter
-* ➡️ Pushed 4 commits in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian) on branch `refactor`
-  * [#8133bec](https://github.com/edoardob90/dayone-to-obsidian/commit/8133bec) Adjust Obsidian links format; datetime added to processed journals
-
-When converting a link from DayOne to Obsidian, if the UUID is not found
-leave an external link to DayOne.
-  * [#4d66a4f](https://github.com/edoardob90/dayone-to-obsidian/commit/4d66a4f) Update README and deps
-  * [#1282ef5](https://github.com/edoardob90/dayone-to-obsidian/commit/1282ef5) Fix a bug with handling extra metadata
-  * [#918c682](https://github.com/edoardob90/dayone-to-obsidian/commit/918c682) Customized version
-
-* Update to Python 3.11
-* Change config to TOML
-* Change metadata formatting
-* Add custom YAML fields
-* Add option to ignore metadata fields
-* #️⃣ Opened [#5 DayOne to Obsidian links not working when across journals](https://github.com/edoardob90/dayone-to-obsidian/issues/5) in [edoardob90/dayone-to-obsidian](https://github.com/edoardob90/dayone-to-obsidian)
 
 
 ---
