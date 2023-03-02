@@ -15,6 +15,8 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* 🔍 Reviewed [#18 New feature: quiz](https://github.com/empa-scientific-it/python-tutorial/pull/18) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#18 New feature: quiz](https://github.com/empa-scientific-it/python-tutorial/pull/18) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 2 commits in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `droplet-evaporation`
   * [#7e817dd](https://github.com/empa-scientific-it/particles-montecarlo/commit/7e817dd) Add test for evaporation
   * [#64eaf92](https://github.com/empa-scientific-it/particles-montecarlo/commit/64eaf92) Reorganize tests
@@ -39,10 +41,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#35a2853](https://github.com/empa-scientific-it/particles-montecarlo/commit/35a2853) Add GoogleTest config
   * [#0e211f9](https://github.com/empa-scientific-it/particles-montecarlo/commit/0e211f9) Cleanup main.cc from unused headers
 * #️⃣ Closed [#11 Setup CMake to include GoogleTest (in the `main` branch)](https://github.com/empa-scientific-it/particles-montecarlo/issues/11) in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo)
-* ➡️ Pushed 2 commits in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `main`
-  * [#35a2853](https://github.com/empa-scientific-it/particles-montecarlo/commit/35a2853) Add GoogleTest config
-  * [#0e211f9](https://github.com/empa-scientific-it/particles-montecarlo/commit/0e211f9) Cleanup main.cc from unused headers
-* #️⃣ Opened [#11 Setup CMake to include GoogleTest (in the `main` branch)](https://github.com/empa-scientific-it/particles-montecarlo/issues/11) in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo)
 
 
 ---
