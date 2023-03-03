@@ -15,32 +15,38 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* 🔍 Reviewed [#18 New feature: quiz](https://github.com/empa-scientific-it/python-tutorial/pull/18) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔍 Reviewed [#18 New feature: quiz](https://github.com/empa-scientific-it/python-tutorial/pull/18) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 2 commits in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `droplet-evaporation`
-  * [#7e817dd](https://github.com/empa-scientific-it/particles-montecarlo/commit/7e817dd) Add test for evaporation
-  * [#64eaf92](https://github.com/empa-scientific-it/particles-montecarlo/commit/64eaf92) Reorganize tests
+* #️⃣ Closed [#12 Pre-commit](https://github.com/empa-scientific-it/python-tutorial/issues/12) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* #️⃣ Closed [#10 Multithreading in Python](https://github.com/empa-scientific-it/python-tutorial/issues/10) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔃 Opened [#19 Object-oriented programming](https://github.com/empa-scientific-it/python-tutorial/pull/19) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 2 files changed `++314 --0`
+* ⏺️ Created new branch new-material/oop in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* #️⃣ Closed [#3 Implement boundary interaction](https://github.com/empa-scientific-it/particles-montecarlo/issues/3) in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo)
 * ➡️ Pushed 1 commit in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `main`
-  * [#64eaf92](https://github.com/empa-scientific-it/particles-montecarlo/commit/64eaf92) Reorganize tests
-* ⏺️ Created new branch setup-testing in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo)
-* ➡️ Pushed 1 commit in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `boundary-interaction`
-  * [#eb90441](https://github.com/empa-scientific-it/particles-montecarlo/commit/eb90441) Reorganize tests
-* 🔃 Closed [#4 Fixing boundary condition implementation](https://github.com/empa-scientific-it/particles-montecarlo/pull/4) in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo)
-  * 2 files changed `++454 --473`
-* ➡️ Pushed 4 commits in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `droplet-evaporation`
-  * [#d33c6d0](https://github.com/empa-scientific-it/particles-montecarlo/commit/d33c6d0) Setup testing
-  * [#95c720b](https://github.com/empa-scientific-it/particles-montecarlo/commit/95c720b) Merge branch &#39;main&#39; into droplet-evaporation
+  * [#a0f9d33](https://github.com/empa-scientific-it/particles-montecarlo/commit/a0f9d33) Implement boundary interaction (#6)
+
+* Implements velocity flip and position correction
+
+* Patch: CMakeLists.txt and main.cc
+
+* Throw error if particle outside the box
+
+* Missing &#39;}&#39;
+
+* Add boilerplate for testing boundary interaction
+
+* Reorganize tests
+
+* Boundary interaction unit tests
+* 🔃 Merged [#6 Implement boundary interaction](https://github.com/empa-scientific-it/particles-montecarlo/pull/6) in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo)
+  * 4 files changed `++146 --23`
+* ➡️ Pushed 2 commits in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `boundary-interaction`
+  * [#868f898](https://github.com/empa-scientific-it/particles-montecarlo/commit/868f898) Merge branch &#39;main&#39; into boundary-interaction
 
 # Conflicts:
-#	cpp/CMakeLists.txt
-  * [#35a2853](https://github.com/empa-scientific-it/particles-montecarlo/commit/35a2853) Add GoogleTest config
-  * [#0e211f9](https://github.com/empa-scientific-it/particles-montecarlo/commit/0e211f9) Cleanup main.cc from unused headers
-* ➡️ Pushed 4 commits in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `boundary-interaction`
-  * [#3a1da9b](https://github.com/empa-scientific-it/particles-montecarlo/commit/3a1da9b) Add boilerplate for testing boundary interaction
-  * [#a5e2709](https://github.com/empa-scientific-it/particles-montecarlo/commit/a5e2709) Merge branch &#39;main&#39; into boundary-interaction
-  * [#35a2853](https://github.com/empa-scientific-it/particles-montecarlo/commit/35a2853) Add GoogleTest config
-  * [#0e211f9](https://github.com/empa-scientific-it/particles-montecarlo/commit/0e211f9) Cleanup main.cc from unused headers
-* #️⃣ Closed [#11 Setup CMake to include GoogleTest (in the `main` branch)](https://github.com/empa-scientific-it/particles-montecarlo/issues/11) in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo)
+#	cpp/tests/CMakeLists.txt
+* ➡️ Pushed 1 commit in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `boundary-interaction`
+  * [#e5a296b](https://github.com/empa-scientific-it/particles-montecarlo/commit/e5a296b) Boundary interaction unit tests
+* 🔍 Reviewed [#18 New feature: quiz](https://github.com/empa-scientific-it/python-tutorial/pull/18) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
 ---
