@@ -15,6 +15,7 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* 🔍 Reviewed [#18 New feature: quiz](https://github.com/empa-scientific-it/python-tutorial/pull/18) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * #️⃣ Closed [#12 Pre-commit](https://github.com/empa-scientific-it/python-tutorial/issues/12) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * #️⃣ Closed [#10 Multithreading in Python](https://github.com/empa-scientific-it/python-tutorial/issues/10) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * 🔃 Opened [#19 Object-oriented programming](https://github.com/empa-scientific-it/python-tutorial/pull/19) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
@@ -46,7 +47,6 @@ I'm Edoardo, and in just a few bullet points:
 #	cpp/tests/CMakeLists.txt
 * ➡️ Pushed 1 commit in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `boundary-interaction`
   * [#e5a296b](https://github.com/empa-scientific-it/particles-montecarlo/commit/e5a296b) Boundary interaction unit tests
-* 🔍 Reviewed [#18 New feature: quiz](https://github.com/empa-scientific-it/python-tutorial/pull/18) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
 ---
