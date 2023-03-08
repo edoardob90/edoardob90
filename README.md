@@ -15,6 +15,10 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `droplet-evaporation`
+  * [#91939f3](https://github.com/empa-scientific-it/particles-montecarlo/commit/91939f3) Add physical constants (header-only)
+* ➡️ Pushed 1 commit in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `droplet-evaporation`
+  * [#9571658](https://github.com/empa-scientific-it/particles-montecarlo/commit/9571658) Add compute src
 * 🔍 Reviewed [#18 New feature: quiz](https://github.com/empa-scientific-it/python-tutorial/pull/18) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * #️⃣ Closed [#12 Pre-commit](https://github.com/empa-scientific-it/python-tutorial/issues/12) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * #️⃣ Closed [#10 Multithreading in Python](https://github.com/empa-scientific-it/python-tutorial/issues/10) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
@@ -40,13 +44,6 @@ I'm Edoardo, and in just a few bullet points:
 * Boundary interaction unit tests
 * 🔃 Merged [#6 Implement boundary interaction](https://github.com/empa-scientific-it/particles-montecarlo/pull/6) in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo)
   * 4 files changed `++146 --23`
-* ➡️ Pushed 2 commits in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `boundary-interaction`
-  * [#868f898](https://github.com/empa-scientific-it/particles-montecarlo/commit/868f898) Merge branch &#39;main&#39; into boundary-interaction
-
-# Conflicts:
-#	cpp/tests/CMakeLists.txt
-* ➡️ Pushed 1 commit in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `boundary-interaction`
-  * [#e5a296b](https://github.com/empa-scientific-it/particles-montecarlo/commit/e5a296b) Boundary interaction unit tests
 
 
 ---
