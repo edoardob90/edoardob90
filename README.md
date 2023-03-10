@@ -15,6 +15,13 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* #️⃣ Opened [#7 Error handler to manage exceptions and notify the admin](https://github.com/edoardob90/telegram-chatgpt/issues/7) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+* #️⃣ Opened [#6 Fallback handler for unrecognized commands](https://github.com/edoardob90/telegram-chatgpt/issues/6) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+* #️⃣ Opened [#5 `/admin` menu](https://github.com/edoardob90/telegram-chatgpt/issues/5) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+* #️⃣ Opened [#4 `/settings` menu](https://github.com/edoardob90/telegram-chatgpt/issues/4) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+* #️⃣ Opened [#3 Inline query handler](https://github.com/edoardob90/telegram-chatgpt/issues/3) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+* #️⃣ Opened [#2 Handle chat history exceeding max number of tokens per request (4096)](https://github.com/edoardob90/telegram-chatgpt/issues/2) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+* #️⃣ Opened [#1 Features &amp; Fixes](https://github.com/edoardob90/telegram-chatgpt/issues/1) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
 * ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
   * [#ec73868](https://github.com/edoardob90/telegram-chatgpt/commit/ec73868) Custom escape_markdown function to handle code blocks
 * ➡️ Pushed 2 commits in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
@@ -28,15 +35,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#e40e2d8](https://github.com/edoardob90/telegram-chatgpt/commit/e40e2d8) Restricts /auth and /admin commands to be run in private chats only
   * [#e77fed6](https://github.com/edoardob90/telegram-chatgpt/commit/e77fed6) Add banned users list and admin user
   * [#9bafb75](https://github.com/edoardob90/telegram-chatgpt/commit/9bafb75) Implement a simple way of authorizing users
-* ⏺️ Created new tag v0.1.0 in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-* ⏺️ Created new branch main in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-* ⏺️ Created new repository  [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-* ➡️ Pushed 1 commit in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `droplet-evaporation`
-  * [#91939f3](https://github.com/empa-scientific-it/particles-montecarlo/commit/91939f3) Add physical constants (header-only)
-* ➡️ Pushed 1 commit in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `droplet-evaporation`
-  * [#9571658](https://github.com/empa-scientific-it/particles-montecarlo/commit/9571658) Add compute src
-* 🔍 Reviewed [#18 New feature: quiz](https://github.com/empa-scientific-it/python-tutorial/pull/18) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* #️⃣ Closed [#12 Pre-commit](https://github.com/empa-scientific-it/python-tutorial/issues/12) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
 ---
