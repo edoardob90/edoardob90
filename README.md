@@ -15,6 +15,12 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
+  * [#e690740](https://github.com/edoardob90/telegram-chatgpt/commit/e690740) Fix a bug to handlers groups
+
+The bug prevented the correct behavior of the fallback handler for unknown commands
+* ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
+  * [#1ea2ae0](https://github.com/edoardob90/telegram-chatgpt/commit/1ea2ae0) Clean-up
 * #️⃣ Opened [#9 Integrate the Wolfram Alpha API](https://github.com/edoardob90/telegram-chatgpt/issues/9) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
 * #️⃣ Closed [#6 Fallback handler for unrecognized commands](https://github.com/edoardob90/telegram-chatgpt/issues/6) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
 * ➡️ Pushed 2 commits in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
@@ -29,8 +35,6 @@ Add handler for unknown commands
 * ⏺️ Created new branch unknown-commands in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
 * #️⃣ Opened [#7 Error handler to manage exceptions and notify the admin](https://github.com/edoardob90/telegram-chatgpt/issues/7) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
 * #️⃣ Opened [#6 Fallback handler for unrecognized commands](https://github.com/edoardob90/telegram-chatgpt/issues/6) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-* #️⃣ Opened [#5 `/admin` menu](https://github.com/edoardob90/telegram-chatgpt/issues/5) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-* #️⃣ Opened [#4 `/settings` menu](https://github.com/edoardob90/telegram-chatgpt/issues/4) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
 
 
 ---
