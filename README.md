@@ -16,25 +16,35 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
-  * [#e690740](https://github.com/edoardob90/telegram-chatgpt/commit/e690740) Fix a bug to handlers groups
-
-The bug prevented the correct behavior of the fallback handler for unknown commands
+  * [#4fd0286](https://github.com/edoardob90/telegram-chatgpt/commit/4fd0286) Fix help message string
+* #️⃣ Closed [#10 Integrate Whisper API](https://github.com/edoardob90/telegram-chatgpt/issues/10) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
 * ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
-  * [#1ea2ae0](https://github.com/edoardob90/telegram-chatgpt/commit/1ea2ae0) Clean-up
-* #️⃣ Opened [#9 Integrate the Wolfram Alpha API](https://github.com/edoardob90/telegram-chatgpt/issues/9) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-* #️⃣ Closed [#6 Fallback handler for unrecognized commands](https://github.com/edoardob90/telegram-chatgpt/issues/6) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-* ➡️ Pushed 2 commits in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
-  * [#c0dd3d9](https://github.com/edoardob90/telegram-chatgpt/commit/c0dd3d9) Merge pull request #8 from edoardob90/unknown-commands
+  * [#989684c](https://github.com/edoardob90/telegram-chatgpt/commit/989684c) Integrate Whisper API (#12)
 
-Add handler for unknown commands
-  * [#d593e7b](https://github.com/edoardob90/telegram-chatgpt/commit/d593e7b) Add handler for unknown commands
-* 🔃 Merged [#8 Add handler for unknown commands](https://github.com/edoardob90/telegram-chatgpt/pull/8) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-  * 1 file changed `++8 --0`
-* 🔃 Opened [#8 Add handler for unknown commands](https://github.com/edoardob90/telegram-chatgpt/pull/8) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-  * 1 file changed `++8 --0`
-* ⏺️ Created new branch unknown-commands in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-* #️⃣ Opened [#7 Error handler to manage exceptions and notify the admin](https://github.com/edoardob90/telegram-chatgpt/issues/7) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-* #️⃣ Opened [#6 Fallback handler for unrecognized commands](https://github.com/edoardob90/telegram-chatgpt/issues/6) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+* Handle API requests for audio translations
+
+* User can ask a question with a voice message
+
+* Upgrade deps
+
+* Transcribe (not translate) voice messages
+
+* Make async requests
+* 🔃 Merged [#12 Integrate Whisper API](https://github.com/edoardob90/telegram-chatgpt/pull/12) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+  * 5 files changed `++113 --45`
+* ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `whisper`
+  * [#83ec9f4](https://github.com/edoardob90/telegram-chatgpt/commit/83ec9f4) Transcribe (not translate) voice messages; make async requests
+* 🔃 Opened [#12 Integrate Whisper API](https://github.com/edoardob90/telegram-chatgpt/pull/12) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+  * 5 files changed `++110 --42`
+* ⏺️ Created new branch whisper in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+* #️⃣ Closed [#7 Error handler to manage exceptions and notify the admin](https://github.com/edoardob90/telegram-chatgpt/issues/7) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+* ➡️ Pushed 2 commits in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
+  * [#2745243](https://github.com/edoardob90/telegram-chatgpt/commit/2745243) Merge pull request #11 from edoardob90/error-handler
+
+Add error handler
+  * [#4ef6679](https://github.com/edoardob90/telegram-chatgpt/commit/4ef6679) Add error handler
+* 🔃 Merged [#11 Add error handler](https://github.com/edoardob90/telegram-chatgpt/pull/11) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+  * 1 file changed `++34 --0`
 
 
 ---
