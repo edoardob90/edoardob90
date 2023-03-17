@@ -15,6 +15,7 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* 🍽️ Forked [openai/evals](https://github.com/openai/evals) to [edoardob90/evals](https://github.com/edoardob90/evals)
 * ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
   * [#4fd0286](https://github.com/edoardob90/telegram-chatgpt/commit/4fd0286) Fix help message string
 * #️⃣ Closed [#10 Integrate Whisper API](https://github.com/edoardob90/telegram-chatgpt/issues/10) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
@@ -43,8 +44,6 @@ I'm Edoardo, and in just a few bullet points:
 
 Add error handler
   * [#4ef6679](https://github.com/edoardob90/telegram-chatgpt/commit/4ef6679) Add error handler
-* 🔃 Merged [#11 Add error handler](https://github.com/edoardob90/telegram-chatgpt/pull/11) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-  * 1 file changed `++34 --0`
 
 
 ---
