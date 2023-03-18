@@ -15,6 +15,16 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 5 commits in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `user-settings`
+  * [#bed34e4](https://github.com/edoardob90/telegram-chatgpt/commit/bed34e4) Merge branch &#39;main&#39; into user-settings
+
+# Conflicts:
+#	main.py
+#	openai_api.py
+#	poetry.lock
+* 🔃 Opened [#13 User settings](https://github.com/edoardob90/telegram-chatgpt/pull/13) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+  * 5 files changed `++539 --130`
+* ⏺️ Created new branch user-settings in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
 * 🍽️ Forked [openai/evals](https://github.com/openai/evals) to [edoardob90/evals](https://github.com/edoardob90/evals)
 * ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
   * [#4fd0286](https://github.com/edoardob90/telegram-chatgpt/commit/4fd0286) Fix help message string
@@ -37,13 +47,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#83ec9f4](https://github.com/edoardob90/telegram-chatgpt/commit/83ec9f4) Transcribe (not translate) voice messages; make async requests
 * 🔃 Opened [#12 Integrate Whisper API](https://github.com/edoardob90/telegram-chatgpt/pull/12) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
   * 5 files changed `++110 --42`
-* ⏺️ Created new branch whisper in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-* #️⃣ Closed [#7 Error handler to manage exceptions and notify the admin](https://github.com/edoardob90/telegram-chatgpt/issues/7) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-* ➡️ Pushed 2 commits in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
-  * [#2745243](https://github.com/edoardob90/telegram-chatgpt/commit/2745243) Merge pull request #11 from edoardob90/error-handler
-
-Add error handler
-  * [#4ef6679](https://github.com/edoardob90/telegram-chatgpt/commit/4ef6679) Add error handler
 
 
 ---
