@@ -15,6 +15,9 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* 🔃 Opened [#20 Add FAQs](https://github.com/empa-scientific-it/python-tutorial/pull/20) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 1 file changed `++13 --0`
+* ⏺️ Created new branch faq in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/functions`
   * [#8048d04](https://github.com/empa-scientific-it/python-tutorial/commit/8048d04) Adjust exercises text
 * 🍽️ Forked [satnaing/astro-paper](https://github.com/satnaing/astro-paper) to [edoardob90/astro-paper](https://github.com/edoardob90/astro-paper)
@@ -33,8 +36,6 @@ I'm Edoardo, and in just a few bullet points:
 * 🔃 Opened [#14 Chat type](https://github.com/edoardob90/telegram-chatgpt/pull/14) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
   * 1 file changed `++69 --36`
 * ⏺️ Created new branch chat-type in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-* ⏺️ Created new tag v0.2.0 in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-* #️⃣ Closed [#4 `/settings` menu](https://github.com/edoardob90/telegram-chatgpt/issues/4) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
 
 
 ---
