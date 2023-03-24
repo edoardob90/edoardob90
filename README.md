@@ -15,6 +15,10 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `faq`
+  * [#34be6a7](https://github.com/empa-scientific-it/python-tutorial/commit/34be6a7) Update FAQ.md
+* ➡️ Pushed 2 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/functions`
+  * [#7819810](https://github.com/empa-scientific-it/python-tutorial/commit/7819810) Merge branch &#39;main&#39; into new-material/functions
 * 🔃 Opened [#20 Add FAQs](https://github.com/empa-scientific-it/python-tutorial/pull/20) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
   * 1 file changed `++13 --0`
 * ⏺️ Created new branch faq in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
@@ -33,9 +37,6 @@ I'm Edoardo, and in just a few bullet points:
 * Customize a bit goodbye messages
 * 🔃 Merged [#14 Chat type](https://github.com/edoardob90/telegram-chatgpt/pull/14) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
   * 1 file changed `++69 --36`
-* 🔃 Opened [#14 Chat type](https://github.com/edoardob90/telegram-chatgpt/pull/14) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-  * 1 file changed `++69 --36`
-* ⏺️ Created new branch chat-type in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
 
 
 ---
