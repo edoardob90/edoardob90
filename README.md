@@ -15,6 +15,10 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#5f2f7ad](https://github.com/edoardob90/aoc2022/commit/5f2f7ad) Day 7, with class (P1 only)
+* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
+  * [#26748e7](https://github.com/edoardob90/aoc2022/commit/26748e7) Day 7, with class (P1 only)
 * ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
   * [#990e232](https://github.com/edoardob90/telegram-chatgpt/commit/990e232) Revert &#34;Enables multi-user conversations in group chat&#34;
 
@@ -43,9 +47,6 @@ Namely, more succint formatting of failure messages when running tests
   * [#4bf9e23](https://github.com/empa-scientific-it/python-tutorial/commit/4bf9e23) Update FAQ.md
 
 Co-authored-by: Aliaksandr Yakutovich &lt;yakutovicha@gmail.com&gt;
-* 🔃 Opened [#1 Forbidden push](https://github.com/edoardob90/test-repo/pull/1) in [edoardob90/test-repo](https://github.com/edoardob90/test-repo)
-  * 1 file changed `++2 --0`
-* ⏺️ Created new branch readme in [edoardob90/test-repo](https://github.com/edoardob90/test-repo)
 
 
 ---
