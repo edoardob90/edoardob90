@@ -15,38 +15,24 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#5f2f7ad](https://github.com/edoardob90/aoc2022/commit/5f2f7ad) Day 7, with class (P1 only)
-* ➡️ Pushed 1 commit in [edoardob90/aoc2022](https://github.com/edoardob90/aoc2022) on branch `main`
-  * [#26748e7](https://github.com/edoardob90/aoc2022/commit/26748e7) Day 7, with class (P1 only)
-* ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
-  * [#990e232](https://github.com/edoardob90/telegram-chatgpt/commit/990e232) Revert &#34;Enables multi-user conversations in group chat&#34;
-
-This reverts commit d3fbe5eea29f840e36e583a087d1e1ef8841bcf6.
-* ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
-  * [#d3fbe5e](https://github.com/edoardob90/telegram-chatgpt/commit/d3fbe5e) Enables multi-user conversations in group chat
-
-This is done by setting `per_user=False` of a ConversationHandler. It means that conversations are only unique by chat id
-* ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
-  * [#d771aaf](https://github.com/edoardob90/telegram-chatgpt/commit/d771aaf) Adjust logging levels of verbose modules
+* 🔃 Opened [#26 Control flow](https://github.com/empa-scientific-it/python-tutorial/pull/26) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 3 files changed `++844 --6`
+* ⏺️ Created new branch new-material/control-flow in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `testsuite`
-  * [#54fde12](https://github.com/empa-scientific-it/python-tutorial/commit/54fde12) Minor changes
-
-* Removed unused imports
-* Rewrote a few lines more compactly
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `testsuite`
-  * [#8470359](https://github.com/empa-scientific-it/python-tutorial/commit/8470359) Update notebook with magic example
-* 🔃 Opened [#22 Simple IPython test-suite with cell magics](https://github.com/empa-scientific-it/python-tutorial/pull/22) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 5 files changed `++236 --0`
+  * [#0ed14ee](https://github.com/empa-scientific-it/python-tutorial/commit/0ed14ee) Merge branch &#39;testsuite-v2&#39; into testsuite
 * ➡️ Pushed 2 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `testsuite`
-  * [#a314b8a](https://github.com/empa-scientific-it/python-tutorial/commit/a314b8a) A few minor changes
-
-Namely, more succint formatting of failure messages when running tests
-  * [#598a951](https://github.com/empa-scientific-it/python-tutorial/commit/598a951) More cleanup and formatting
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `faq`
-  * [#4bf9e23](https://github.com/empa-scientific-it/python-tutorial/commit/4bf9e23) Update FAQ.md
-
-Co-authored-by: Aliaksandr Yakutovich &lt;yakutovicha@gmail.com&gt;
+  * [#7028139](https://github.com/empa-scientific-it/python-tutorial/commit/7028139) Merge branch &#39;testsuite-v2&#39; into testsuite
+* #️⃣ Closed [#7 Implement droplet evaporation](https://github.com/empa-scientific-it/particles-montecarlo/issues/7) in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo)
+* 🔃 Opened [#13 Velocity integrator](https://github.com/empa-scientific-it/particles-montecarlo/pull/13) in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo)
+  * 6 files changed `++104 --2`
+* 🔃 Closed [#10 Implement droplet evaporation](https://github.com/empa-scientific-it/particles-montecarlo/pull/10) in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo)
+  * 6 files changed `++87 --2`
+* ➡️ Pushed 1 commit in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `velocity-integrator`
+  * [#58aba48](https://github.com/empa-scientific-it/particles-montecarlo/commit/58aba48) Setup of ComputeIntegration
+* ➡️ Pushed 1 commit in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `velocity-integrator`
+  * [#1a59a92](https://github.com/empa-scientific-it/particles-montecarlo/commit/1a59a92) Minor changes
+* ➡️ Pushed 1 commit in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `droplet-evaporation`
+  * [#1a59a92](https://github.com/empa-scientific-it/particles-montecarlo/commit/1a59a92) Minor changes
 
 
 ---
