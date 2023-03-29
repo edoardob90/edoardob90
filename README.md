@@ -15,6 +15,15 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* 🔍 Reviewed [#23 Add instructions on how to run the tutorial locally.](https://github.com/empa-scientific-it/python-tutorial/pull/23) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
+  * [#0866726](https://github.com/edoardob90/telegram-chatgpt/commit/0866726) Improved error handling if request is rate-limited
+
+These can be either API limits or monthly billing limits
+* ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
+  * [#2626604](https://github.com/edoardob90/telegram-chatgpt/commit/2626604) Add GPT-4 model
+
+Requires the API key enabled to access the limited beta
 * 🔃 Opened [#26 Control flow](https://github.com/empa-scientific-it/python-tutorial/pull/26) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
   * 3 files changed `++844 --6`
 * ⏺️ Created new branch new-material/control-flow in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
@@ -27,12 +36,6 @@ I'm Edoardo, and in just a few bullet points:
   * 6 files changed `++104 --2`
 * 🔃 Closed [#10 Implement droplet evaporation](https://github.com/empa-scientific-it/particles-montecarlo/pull/10) in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo)
   * 6 files changed `++87 --2`
-* ➡️ Pushed 1 commit in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `velocity-integrator`
-  * [#58aba48](https://github.com/empa-scientific-it/particles-montecarlo/commit/58aba48) Setup of ComputeIntegration
-* ➡️ Pushed 1 commit in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `velocity-integrator`
-  * [#1a59a92](https://github.com/empa-scientific-it/particles-montecarlo/commit/1a59a92) Minor changes
-* ➡️ Pushed 1 commit in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo) on branch `droplet-evaporation`
-  * [#1a59a92](https://github.com/empa-scientific-it/particles-montecarlo/commit/1a59a92) Minor changes
 
 
 ---
