@@ -15,6 +15,21 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* 🔃 Merged [#23 Add instructions on how to run the tutorial locally.](https://github.com/empa-scientific-it/python-tutorial/pull/23) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 2 files changed `++34 --6`
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
+  * [#c60ea07](https://github.com/empa-scientific-it/python-tutorial/commit/c60ea07) Instructions on how to run the tutorial locally (#23)
+
+* Add instructions on how to run the tutorial locally.
+
+* Use pip as the main packages installer
+
+* Update README
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/functions`
+  * [#520bc07](https://github.com/empa-scientific-it/python-tutorial/commit/520bc07) Remove Markdown notebook
+* ⏺️ Created new branch pytest in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#23 Add instructions on how to run the tutorial locally.](https://github.com/empa-scientific-it/python-tutorial/pull/23) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#23 Add instructions on how to run the tutorial locally.](https://github.com/empa-scientific-it/python-tutorial/pull/23) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * 🔍 Reviewed [#23 Add instructions on how to run the tutorial locally.](https://github.com/empa-scientific-it/python-tutorial/pull/23) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
   * [#0866726](https://github.com/edoardob90/telegram-chatgpt/commit/0866726) Improved error handling if request is rate-limited
@@ -26,16 +41,6 @@ These can be either API limits or monthly billing limits
 Requires the API key enabled to access the limited beta
 * 🔃 Opened [#26 Control flow](https://github.com/empa-scientific-it/python-tutorial/pull/26) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
   * 3 files changed `++844 --6`
-* ⏺️ Created new branch new-material/control-flow in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `testsuite`
-  * [#0ed14ee](https://github.com/empa-scientific-it/python-tutorial/commit/0ed14ee) Merge branch &#39;testsuite-v2&#39; into testsuite
-* ➡️ Pushed 2 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `testsuite`
-  * [#7028139](https://github.com/empa-scientific-it/python-tutorial/commit/7028139) Merge branch &#39;testsuite-v2&#39; into testsuite
-* #️⃣ Closed [#7 Implement droplet evaporation](https://github.com/empa-scientific-it/particles-montecarlo/issues/7) in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo)
-* 🔃 Opened [#13 Velocity integrator](https://github.com/empa-scientific-it/particles-montecarlo/pull/13) in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo)
-  * 6 files changed `++104 --2`
-* 🔃 Closed [#10 Implement droplet evaporation](https://github.com/empa-scientific-it/particles-montecarlo/pull/10) in [empa-scientific-it/particles-montecarlo](https://github.com/empa-scientific-it/particles-montecarlo)
-  * 6 files changed `++87 --2`
 
 
 ---
