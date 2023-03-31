@@ -15,6 +15,16 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `pytest`
+  * [#dbaed1a](https://github.com/empa-scientific-it/python-tutorial/commit/dbaed1a) Add pytest dependency
+* ➡️ Pushed 7 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `pytest`
+  * [#8437058](https://github.com/empa-scientific-it/python-tutorial/commit/8437058) Merge branch &#39;main&#39; into pytest
+* 🔃 Closed [#22 Simple IPython test-suite with cell magics](https://github.com/empa-scientific-it/python-tutorial/pull/22) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 5 files changed `++276 --0`
+* 🔃 Opened [#27 Pytest-based testing](https://github.com/empa-scientific-it/python-tutorial/pull/27) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 6 files changed `++279 --0`
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `pytest`
+  * [#2a467a1](https://github.com/empa-scientific-it/python-tutorial/commit/2a467a1) Complete transition to pytest
 * 🔃 Merged [#23 Add instructions on how to run the tutorial locally.](https://github.com/empa-scientific-it/python-tutorial/pull/23) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
   * 2 files changed `++34 --6`
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
@@ -29,18 +39,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#520bc07](https://github.com/empa-scientific-it/python-tutorial/commit/520bc07) Remove Markdown notebook
 * ⏺️ Created new branch pytest in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * 🔍 Reviewed [#23 Add instructions on how to run the tutorial locally.](https://github.com/empa-scientific-it/python-tutorial/pull/23) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔍 Reviewed [#23 Add instructions on how to run the tutorial locally.](https://github.com/empa-scientific-it/python-tutorial/pull/23) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔍 Reviewed [#23 Add instructions on how to run the tutorial locally.](https://github.com/empa-scientific-it/python-tutorial/pull/23) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
-  * [#0866726](https://github.com/edoardob90/telegram-chatgpt/commit/0866726) Improved error handling if request is rate-limited
-
-These can be either API limits or monthly billing limits
-* ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
-  * [#2626604](https://github.com/edoardob90/telegram-chatgpt/commit/2626604) Add GPT-4 model
-
-Requires the API key enabled to access the limited beta
-* 🔃 Opened [#26 Control flow](https://github.com/empa-scientific-it/python-tutorial/pull/26) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 3 files changed `++844 --6`
 
 
 ---
