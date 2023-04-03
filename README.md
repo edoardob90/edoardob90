@@ -15,6 +15,12 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `pytest`
+  * [#73bf604](https://github.com/empa-scientific-it/python-tutorial/commit/73bf604) Change cell magic name to &#39;ipytest&#39;
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `pytest`
+  * [#623d851](https://github.com/empa-scientific-it/python-tutorial/commit/623d851) Change cell magic name to &#39;ipytest&#39;
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `pytest`
+  * [#611f35b](https://github.com/empa-scientific-it/python-tutorial/commit/611f35b) Change cell magic name to &#39;ipytest&#39;
 * ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
   * [#c4b7d21](https://github.com/edoardob90/telegram-chatgpt/commit/c4b7d21) Hash content of verify questions (#16)
 
@@ -38,11 +44,6 @@ I'm Edoardo, and in just a few bullet points:
 
 * IPython output of all cell&#39;s statements
 * Naming convention: test function candidates&#39; names must start with `solution_`
-* 🔍 Reviewed [#27 Pytest-based testing](https://github.com/empa-scientific-it/python-tutorial/pull/27) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `pytest`
-  * [#226c54c](https://github.com/empa-scientific-it/python-tutorial/commit/226c54c) Cleanup
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `pytest`
-  * [#dbaed1a](https://github.com/empa-scientific-it/python-tutorial/commit/dbaed1a) Add pytest dependency
 
 
 ---
