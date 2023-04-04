@@ -15,6 +15,74 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
+  * [#31849bf](https://github.com/edoardob90/telegram-chatgpt/commit/31849bf) Update deps
+* #️⃣ Closed [#21 Added branch for testing of solutions](https://github.com/empa-scientific-it/python-tutorial/issues/21) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔃 Merged [#27 Pytest-based testing](https://github.com/empa-scientific-it/python-tutorial/pull/27) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 6 files changed `++217 --0`
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
+  * [#d7d0ae2](https://github.com/empa-scientific-it/python-tutorial/commit/d7d0ae2) Pytest-based testing (#27)
+
+* Added testing tools.
+
+* Added pip requirements.
+
+* Removed wrong commit.
+
+* Added docstrings.
+
+* Added colored error messages.
+
+* Pre-move.
+
+* Cleaned up.
+
+* More cleanup and formatting
+
+* A few minor changes
+
+Namely, more succint formatting of failure messages when running tests
+
+* Update notebook with magic example
+
+* Minor changes
+
+* Removed unused imports
+* Rewrote a few lines more compactly
+
+* Added output capturing.
+
+* Testsuite v2
+
+* Restore standard IPython output
+* Format test results with alert boxes
+* Suppress side-effects when running the tests
+
+* First attempt with pytest
+
+* Complete transition to pytest
+
+* Add pytest dependency
+
+* Cleanup
+
+* Simplify things
+
+* Some renaimings
+
+* Cell magic is a class to hold state between calls
+
+* IPython output of all cell&#39;s statements
+* Naming convention: test function candidates&#39; names must start with `solution_`
+
+* Minor changes, remove notebook output
+
+* Change cell magic name to &#39;ipytest&#39;
+
+---------
+
+Co-authored-by: Simone Baffelli &lt;simone.baffelli@empa.ch&gt;
+Co-authored-by: Aliaksandr Yakutovich &lt;yakutovicha@gmail.com&gt;
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `pytest`
   * [#73bf604](https://github.com/empa-scientific-it/python-tutorial/commit/73bf604) Change cell magic name to &#39;ipytest&#39;
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `pytest`
@@ -31,19 +99,6 @@ I'm Edoardo, and in just a few bullet points:
   * 3 files changed `++30 --9`
 * ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `hashed-secrets`
   * [#c3df01c](https://github.com/edoardob90/telegram-chatgpt/commit/c3df01c) Updates .gitignore
-* 🔃 Opened [#16 Hash content of verify questions](https://github.com/edoardob90/telegram-chatgpt/pull/16) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-  * 3 files changed `++29 --9`
-* ⏺️ Created new branch hashed-secrets in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `pytest`
-  * [#a9dd1f8](https://github.com/empa-scientific-it/python-tutorial/commit/a9dd1f8) Cell magic is a class to hold state between calls
-
-* IPython output of all cell&#39;s statements
-* Naming convention: test function candidates&#39; names must start with `solution_`
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `pytest`
-  * [#578a794](https://github.com/empa-scientific-it/python-tutorial/commit/578a794) Cell magic is a class to hold state between calls
-
-* IPython output of all cell&#39;s statements
-* Naming convention: test function candidates&#39; names must start with `solution_`
 
 
 ---
