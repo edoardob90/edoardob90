@@ -15,34 +15,34 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `functional-programming`
+  * [#5f875f6](https://github.com/empa-scientific-it/python-tutorial/commit/5f875f6) Fix conflicts in tutorial/tests/testsuite.py
+* ➡️ Pushed 31 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/functions`
+  * [#39bfe28](https://github.com/empa-scientific-it/python-tutorial/commit/39bfe28) Merge branch &#39;main&#39; of github.com:empa-scientific-it/python-tutorial
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#99833c1](https://github.com/empa-scientific-it/python-tutorial/commit/99833c1) More robust lookup of test module file (#31)
+  * [#10c2245](https://github.com/empa-scientific-it/python-tutorial/commit/10c2245) Update FAQ (#36)
 
-* Fixes VS Code behavior
+* Added information on how to run tests.
 
-* Add type hints
+* Minor changes to FAQs
 
-* Imports at the top
-* #️⃣ Closed [#30 Ipynbname does not work locally](https://github.com/empa-scientific-it/python-tutorial/issues/30) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔃 Merged [#31 More robust lookup of test module file](https://github.com/empa-scientific-it/python-tutorial/pull/31) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 2 files changed `++40 --5`
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/30-ipynbname-does-not-work-locally`
-  * [#a695e89](https://github.com/empa-scientific-it/python-tutorial/commit/a695e89) Imports at the top
-* 🔃 Closed [#25 Python environment](https://github.com/empa-scientific-it/python-tutorial/pull/25) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 6 files changed `++280 --8`
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/30-ipynbname-does-not-work-locally`
-  * [#9711215](https://github.com/empa-scientific-it/python-tutorial/commit/9711215) Add type hints
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#9d038f7](https://github.com/empa-scientific-it/python-tutorial/commit/9d038f7) Replace `lstrip` with string slicing (#29)
+---------
 
-* Replace lstrip with string slicing.
-
-* Use `str.removeprefix` instead of slicing
-* 🔃 Merged [#29 Replace `lstrip` with string slicing.](https://github.com/empa-scientific-it/python-tutorial/pull/29) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 1 file changed `++1 --2`
-* 🔍 Reviewed [#29 Replace `lstrip` with string slicing.](https://github.com/empa-scientific-it/python-tutorial/pull/29) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔃 Opened [#17 Handles model&#39;s tokens limit](https://github.com/edoardob90/telegram-chatgpt/pull/17) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-  * 3 files changed `++65 --49`
+Co-authored-by: Simone Baffelli &lt;simone.baffelli@empa.ch&gt;
+Co-authored-by: edoardob90 &lt;edoardob90@gmail.com&gt;
+* 🔃 Merged [#36 Faq](https://github.com/empa-scientific-it/python-tutorial/pull/36) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 1 file changed `++22 --1`
+* 🔍 Reviewed [#36 Faq](https://github.com/empa-scientific-it/python-tutorial/pull/36) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#35 Faq](https://github.com/empa-scientific-it/python-tutorial/pull/35) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 4 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `FAQ`
+  * [#ca269e7](https://github.com/empa-scientific-it/python-tutorial/commit/ca269e7) Minor changes to FAQs
+  * [#ec03143](https://github.com/empa-scientific-it/python-tutorial/commit/ec03143) Merge branch &#39;FAQ&#39; of github.com:empa-scientific-it/python-tutorial into FAQ
+  * [#34be6a7](https://github.com/empa-scientific-it/python-tutorial/commit/34be6a7) Update FAQ.md
+  * [#0809647](https://github.com/empa-scientific-it/python-tutorial/commit/0809647) Add FAQs
+* ⏺️ Created new branch faq in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔃 Opened [#33 Fix testsuite and user namespace bug](https://github.com/empa-scientific-it/python-tutorial/pull/33) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 3 files changed `++44 --51`
+* ⏺️ Created new branch fix/testsuite-bug in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
 ---
