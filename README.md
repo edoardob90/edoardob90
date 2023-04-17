@@ -15,24 +15,24 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/control-flow`
-  * [#04ae91a](https://github.com/empa-scientific-it/python-tutorial/commit/04ae91a) Nerd fix
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/control-flow`
-  * [#69d343d](https://github.com/empa-scientific-it/python-tutorial/commit/69d343d) Remove unused function
-* ➡️ Pushed 3 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/control-flow`
-  * [#f537236](https://github.com/empa-scientific-it/python-tutorial/commit/f537236) Merge branch &#39;main&#39; into new-material/control-flow
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/control-flow`
-  * [#0a3624a](https://github.com/empa-scientific-it/python-tutorial/commit/0a3624a) Add reference solutions
-* 🔍 Reviewed [#17 Functional programming](https://github.com/empa-scientific-it/python-tutorial/pull/17) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `functional-programming`
-  * [#23881a4](https://github.com/empa-scientific-it/python-tutorial/commit/23881a4) Notebook cosmetics
-* #️⃣ Closed [#5 Functions](https://github.com/empa-scientific-it/python-tutorial/issues/5) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#63662a7](https://github.com/empa-scientific-it/python-tutorial/commit/63662a7) New material: functions (#15)
-* 🔃 Merged [#15 Functions](https://github.com/empa-scientific-it/python-tutorial/pull/15) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 9 files changed `++12454 --11`
+  * [#dda634f](https://github.com/empa-scientific-it/python-tutorial/commit/dda634f) Add missing data files (#45)
+* 🔃 Merged [#45 Add missing data files](https://github.com/empa-scientific-it/python-tutorial/pull/45) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 2 files changed `++400 --0`
+* 🔃 Opened [#45 Add missing data files](https://github.com/empa-scientific-it/python-tutorial/pull/45) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 2 files changed `++400 --0`
+* ⏺️ Created new branch fix/add-data in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* #️⃣ Closed [#7 Control flow](https://github.com/empa-scientific-it/python-tutorial/issues/7) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#97a5aa3](https://github.com/empa-scientific-it/python-tutorial/commit/97a5aa3) Bugfix: getting test module name from VS Code (#40)
+  * [#25df696](https://github.com/empa-scientific-it/python-tutorial/commit/25df696) Control flow (#26)
+* 🔃 Merged [#26 Control flow](https://github.com/empa-scientific-it/python-tutorial/pull/26) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 5 files changed `++1960 --0`
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/control-flow`
+  * [#83ba9ff](https://github.com/empa-scientific-it/python-tutorial/commit/83ba9ff) Corrections plus bonus exercise
+* ➡️ Pushed 2 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/control-flow`
+  * [#ea11cc3](https://github.com/empa-scientific-it/python-tutorial/commit/ea11cc3) Exceptions, try-except
+  * [#174075a](https://github.com/empa-scientific-it/python-tutorial/commit/174075a) Done with loops and conditionals
+* 🔍 Reviewed [#44 Move info on unpacking from functions to basic datatypes.](https://github.com/empa-scientific-it/python-tutorial/pull/44) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
 ---
