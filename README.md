@@ -15,25 +15,24 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* #️⃣ Closed [#51 Remove `:::` annotations from notebooks so they look nicer.](https://github.com/empa-scientific-it/python-tutorial/issues/51) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#49a172d](https://github.com/empa-scientific-it/python-tutorial/commit/49a172d) Fix and cleanup notebooks with slides (#52)
-* 🔃 Merged [#52 Fix and cleanup slides](https://github.com/empa-scientific-it/python-tutorial/pull/52) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 6 files changed `++2794 --260`
-* ➡️ Pushed 2 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/cleanup-slides`
-  * [#c46f90f](https://github.com/empa-scientific-it/python-tutorial/commit/c46f90f) Add a quiz on functions
-  * [#0b39998](https://github.com/empa-scientific-it/python-tutorial/commit/0b39998) Keep slides notebook
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/cleanup-slides`
-  * [#ab7ea6a](https://github.com/empa-scientific-it/python-tutorial/commit/ab7ea6a) Finish cleaning up slides
-* #️⃣ Closed [#48 Rephrase exercise 1 in control flow](https://github.com/empa-scientific-it/python-tutorial/issues/48) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔃 Opened [#54 Autoload IPython test magic](https://github.com/empa-scientific-it/python-tutorial/pull/54) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * [#9e84eb8](https://github.com/empa-scientific-it/python-tutorial/commit/9e84eb8) Add the OOP link to index notebook (#61)
+* 🔃 Merged [#61 Add the OOP link to the `index.ipynb`](https://github.com/empa-scientific-it/python-tutorial/pull/61) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 1 file changed `++3 --1`
+* 🔍 Reviewed [#61 Add the OOP link to the `index.ipynb`](https://github.com/empa-scientific-it/python-tutorial/pull/61) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔃 Merged [#54 Autoload IPython test magic](https://github.com/empa-scientific-it/python-tutorial/pull/54) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
   * 4 files changed `++1253 --0`
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `update/autoload-test-magic`
-  * [#d645e8f](https://github.com/empa-scientific-it/python-tutorial/commit/d645e8f) Fix IPYTHONDIR env var
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `update/autoload-test-magic`
-  * [#a22a513](https://github.com/empa-scientific-it/python-tutorial/commit/a22a513) Move environment file
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `update/autoload-test-magic`
-  * [#9a7961e](https://github.com/empa-scientific-it/python-tutorial/commit/9a7961e) Update postBuild
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
+  * [#196a536](https://github.com/empa-scientific-it/python-tutorial/commit/196a536) Autoload IPython test magic on Binder (#54)
+* #️⃣ Closed [#8 Object Oriented Programming](https://github.com/empa-scientific-it/python-tutorial/issues/8) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
+  * [#f183817](https://github.com/empa-scientific-it/python-tutorial/commit/f183817) Object-oriented programming (#19)
+* 🔃 Merged [#19 Object-oriented programming](https://github.com/empa-scientific-it/python-tutorial/pull/19) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 6 files changed `++1754 --0`
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/oop`
+  * [#d87af41](https://github.com/empa-scientific-it/python-tutorial/commit/d87af41) Updated following comments
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/oop`
+  * [#ffa678b](https://github.com/empa-scientific-it/python-tutorial/commit/ffa678b) Fix typos
 
 
 ---
