@@ -5,7 +5,7 @@ I'm Edoardo, and in just a few bullet points:
 - 🔭 I’m currently working as a **high-performance computing expert** in Zürich 🇨🇭
 - 🌱 I’m currently learning **algorithmic thinking**
 - 👯 I’m looking to collaborate on some **programming challenge** (e.g., [Advent of Code](https://github.com/edoardob90/aoc2022)) or an **open-source project**
-- 📫 How to reach me: `hi@edobld.me`, [LinkedIn](https://linkedin.com/in/edobld), or [Twitter](https://twitter.com/eadweard90)
+- 📫 How to reach me: `hi@edobld.me`, [LinkedIn](https://linkedin.com/in/edobld), or [Twitter](https://twitter.com/edobld)
 - 🌐 My personal blog: [blog.edoardob.im](https://blog.edoardob.im)
 
 #### Languages I work(ed) with 👨‍💻
@@ -15,6 +15,9 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* 🔃 Opened [#71 Bugfix to OOP exercise test](https://github.com/empa-scientific-it/python-tutorial/pull/71) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 1 file changed `++7 --4`
+* ⏺️ Created new branch fix/bug-exercise-n-body in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * #️⃣ Opened [#68 Improve feedback on exercises](https://github.com/empa-scientific-it/python-tutorial/issues/68) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * 🔍 Reviewed [#60 New material: python modules and packages](https://github.com/empa-scientific-it/python-tutorial/pull/60) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/python-packages`
@@ -26,8 +29,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#0aeb623](https://github.com/empa-scientific-it/python-tutorial/commit/0aeb623) Update README.md
 * 🔃 Opened [#65 Extend Readme on how-to run tutorial locally](https://github.com/empa-scientific-it/python-tutorial/pull/65) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
   * 1 file changed `++34 --6`
-* ⏺️ Created new branch update/readme in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* #️⃣ Closed [#41 Load testuite in every notebook](https://github.com/empa-scientific-it/python-tutorial/issues/41) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
 ---
