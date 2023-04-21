@@ -15,20 +15,22 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* 🔃 Opened [#71 Bugfix to OOP exercise test](https://github.com/empa-scientific-it/python-tutorial/pull/71) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 1 file changed `++7 --4`
-* ⏺️ Created new branch fix/bug-exercise-n-body in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* #️⃣ Opened [#68 Improve feedback on exercises](https://github.com/empa-scientific-it/python-tutorial/issues/68) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔍 Reviewed [#60 New material: python modules and packages](https://github.com/empa-scientific-it/python-tutorial/pull/60) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/python-packages`
-  * [#eb405ea](https://github.com/empa-scientific-it/python-tutorial/commit/eb405ea) Tiny adjustements (TOC and header line)
-* 🔍 Reviewed [#60 New material: python modules and packages](https://github.com/empa-scientific-it/python-tutorial/pull/60) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔍 Reviewed [#60 New material: python modules and packages](https://github.com/empa-scientific-it/python-tutorial/pull/60) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* #️⃣ Opened [#18 Add a &#34;Back&#34; button to settings](https://github.com/edoardob90/telegram-chatgpt/issues/18) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `update/readme`
-  * [#0aeb623](https://github.com/empa-scientific-it/python-tutorial/commit/0aeb623) Update README.md
-* 🔃 Opened [#65 Extend Readme on how-to run tutorial locally](https://github.com/empa-scientific-it/python-tutorial/pull/65) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 1 file changed `++34 --6`
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
+  * [#ca44cf8](https://github.com/empa-scientific-it/python-tutorial/commit/ca44cf8) Update build-docker-image.yml
+* 🔃 Opened [#80 Automatically build Docker image from the repository](https://github.com/empa-scientific-it/python-tutorial/pull/80) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 1 file changed `++16 --0`
+* ⏺️ Created new branch feature/build-docker-image in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/repo2docker`
+  * [#0e6db31](https://github.com/empa-scientific-it/python-tutorial/commit/0e6db31) Rename main.yml to build_docker.yml
+* ⏺️ Created new branch feature/repo2docker in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔃 Opened [#79 Set CSS width of labels to &#39;max-content&#39;](https://github.com/empa-scientific-it/python-tutorial/pull/79) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 1 file changed `++1 --1`
+* ⏺️ Created new branch fix/quiz-labels-max-width in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔃 Opened [#78 Fix quiz on functions](https://github.com/empa-scientific-it/python-tutorial/pull/78) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 2 files changed `++22 --29`
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/quiz-on-functions`
+  * [#1b58e31](https://github.com/empa-scientific-it/python-tutorial/commit/1b58e31) Add suggestions to all options
+* ⏺️ Created new branch fix/quiz-on-functions in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
 ---
