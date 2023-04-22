@@ -15,6 +15,10 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/bug-exercise-n-body`
+  * [#bd6e88b](https://github.com/empa-scientific-it/python-tutorial/commit/bd6e88b) Change assertion test and problem&#39;s requirement
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
+  * [#8a1e789](https://github.com/empa-scientific-it/python-tutorial/commit/8a1e789) Add steps to run with Docker
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
   * [#ca44cf8](https://github.com/empa-scientific-it/python-tutorial/commit/ca44cf8) Update build-docker-image.yml
 * 🔃 Opened [#80 Automatically build Docker image from the repository](https://github.com/empa-scientific-it/python-tutorial/pull/80) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
@@ -28,9 +32,6 @@ I'm Edoardo, and in just a few bullet points:
 * ⏺️ Created new branch fix/quiz-labels-max-width in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * 🔃 Opened [#78 Fix quiz on functions](https://github.com/empa-scientific-it/python-tutorial/pull/78) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
   * 2 files changed `++22 --29`
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/quiz-on-functions`
-  * [#1b58e31](https://github.com/empa-scientific-it/python-tutorial/commit/1b58e31) Add suggestions to all options
-* ⏺️ Created new branch fix/quiz-on-functions in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
 ---
