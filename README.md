@@ -15,22 +15,18 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* #️⃣ Opened [#81 Naming: enumerate notebooks](https://github.com/empa-scientific-it/python-tutorial/issues/81) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/bug-exercise-n-body`
-  * [#bd6e88b](https://github.com/empa-scientific-it/python-tutorial/commit/bd6e88b) Change assertion test and problem&#39;s requirement
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
-  * [#8a1e789](https://github.com/empa-scientific-it/python-tutorial/commit/8a1e789) Add steps to run with Docker
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
-  * [#ca44cf8](https://github.com/empa-scientific-it/python-tutorial/commit/ca44cf8) Update build-docker-image.yml
-* 🔃 Opened [#80 Automatically build Docker image from the repository](https://github.com/empa-scientific-it/python-tutorial/pull/80) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 1 file changed `++16 --0`
-* ⏺️ Created new branch feature/build-docker-image in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/repo2docker`
-  * [#0e6db31](https://github.com/empa-scientific-it/python-tutorial/commit/0e6db31) Rename main.yml to build_docker.yml
-* ⏺️ Created new branch feature/repo2docker in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔃 Opened [#79 Set CSS width of labels to &#39;max-content&#39;](https://github.com/empa-scientific-it/python-tutorial/pull/79) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 1 file changed `++1 --1`
-* ⏺️ Created new branch fix/quiz-labels-max-width in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔃 Opened [#93 Explain input args to solution functions](https://github.com/empa-scientific-it/python-tutorial/pull/93) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 1 file changed `++22 --27`
+* ⏺️ Created new branch update/intro-explain-input-is-available in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#92 Fix/64](https://github.com/empa-scientific-it/python-tutorial/pull/92) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#92 Fix/64](https://github.com/empa-scientific-it/python-tutorial/pull/92) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#91 Fixed test of exercise2.](https://github.com/empa-scientific-it/python-tutorial/pull/91) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#91 Fixed test of exercise2.](https://github.com/empa-scientific-it/python-tutorial/pull/91) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#90 Fix/55](https://github.com/empa-scientific-it/python-tutorial/pull/90) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#90 Fix/55](https://github.com/empa-scientific-it/python-tutorial/pull/90) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ⏺️ Created new tag v0.1 in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔃 Closed [#89 Fix toc and annotations](https://github.com/empa-scientific-it/python-tutorial/pull/89) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 2 files changed `++44 --88`
 
 
 ---
