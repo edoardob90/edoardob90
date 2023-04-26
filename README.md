@@ -15,18 +15,26 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* 🔃 Opened [#93 Explain input args to solution functions](https://github.com/empa-scientific-it/python-tutorial/pull/93) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 1 file changed `++22 --27`
-* ⏺️ Created new branch update/intro-explain-input-is-available in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔍 Reviewed [#92 Fix/64](https://github.com/empa-scientific-it/python-tutorial/pull/92) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔍 Reviewed [#92 Fix/64](https://github.com/empa-scientific-it/python-tutorial/pull/92) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔍 Reviewed [#91 Fixed test of exercise2.](https://github.com/empa-scientific-it/python-tutorial/pull/91) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔍 Reviewed [#91 Fixed test of exercise2.](https://github.com/empa-scientific-it/python-tutorial/pull/91) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔍 Reviewed [#90 Fix/55](https://github.com/empa-scientific-it/python-tutorial/pull/90) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔍 Reviewed [#90 Fix/55](https://github.com/empa-scientific-it/python-tutorial/pull/90) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ⏺️ Created new tag v0.1 in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔃 Closed [#89 Fix toc and annotations](https://github.com/empa-scientific-it/python-tutorial/pull/89) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 2 files changed `++44 --88`
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `update/intro-explain-input-is-available`
+  * [#848eb4c](https://github.com/empa-scientific-it/python-tutorial/commit/848eb4c) Remove annotations; copy notebook with slides
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `update/intro-explain-input-is-available`
+  * [#5d1eeb8](https://github.com/empa-scientific-it/python-tutorial/commit/5d1eeb8) Apply suggestions from code review
+
+Co-authored-by: Aliaksandr Yakutovich &lt;yakutovicha@gmail.com&gt;
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
+  * [#9e128de](https://github.com/empa-scientific-it/python-tutorial/commit/9e128de) Quiz on functions: update correct answer to 2nd question (#95)
+* 🔃 Merged [#95 Quiz on functions: update the correct answer to question 2](https://github.com/empa-scientific-it/python-tutorial/pull/95) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 1 file changed `++1 --1`
+* 🔍 Reviewed [#95 Quiz on functions: update the correct answer to question 2](https://github.com/empa-scientific-it/python-tutorial/pull/95) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `update/intro-explain-input-is-available`
+  * [#c413962](https://github.com/empa-scientific-it/python-tutorial/commit/c413962) Add intro slides
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `update/intro-explain-input-is-available`
+  * [#74034cd](https://github.com/empa-scientific-it/python-tutorial/commit/74034cd) How hands-on will be carried out
+* #️⃣ Closed [#74 Functions Quiz Q2: Expected Answer Inconsistent with Tutorial](https://github.com/empa-scientific-it/python-tutorial/issues/74) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔃 Merged [#78 Fix quiz on functions](https://github.com/empa-scientific-it/python-tutorial/pull/78) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 2 files changed `++22 --29`
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
+  * [#9859dfc](https://github.com/empa-scientific-it/python-tutorial/commit/9859dfc) Fix quiz on Functions (#78)
 
 
 ---
