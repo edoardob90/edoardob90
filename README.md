@@ -15,26 +15,25 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `update/intro-explain-input-is-available`
-  * [#848eb4c](https://github.com/empa-scientific-it/python-tutorial/commit/848eb4c) Remove annotations; copy notebook with slides
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `update/intro-explain-input-is-available`
-  * [#5d1eeb8](https://github.com/empa-scientific-it/python-tutorial/commit/5d1eeb8) Apply suggestions from code review
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#e325d0d](https://github.com/edoardob90/dotfiles/commit/e325d0d) Remove SSH keys from BW
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#caabe5d](https://github.com/edoardob90/dotfiles/commit/caabe5d) Update VS Code settings
+* ➡️ Pushed 2 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#7eaab7c](https://github.com/edoardob90/dotfiles/commit/7eaab7c) Merge branch &#39;main&#39; of github.com:edoardob90/dotfiles
+* 🔍 Reviewed [#97 Fix exercise 3 on strings.](https://github.com/empa-scientific-it/python-tutorial/pull/97) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
+  * [#fbe6c25](https://github.com/empa-scientific-it/python-tutorial/commit/fbe6c25) Updates to Functional programming (#92)
 
+Co-authored-by: Simone Baffelli &lt;simone.baffelli@empa.ch&gt;
+Co-authored-by: Edoardo Baldi &lt;edoardob90@gmail.com&gt;
 Co-authored-by: Aliaksandr Yakutovich &lt;yakutovicha@gmail.com&gt;
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#9e128de](https://github.com/empa-scientific-it/python-tutorial/commit/9e128de) Quiz on functions: update correct answer to 2nd question (#95)
-* 🔃 Merged [#95 Quiz on functions: update the correct answer to question 2](https://github.com/empa-scientific-it/python-tutorial/pull/95) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 1 file changed `++1 --1`
-* 🔍 Reviewed [#95 Quiz on functions: update the correct answer to question 2](https://github.com/empa-scientific-it/python-tutorial/pull/95) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `update/intro-explain-input-is-available`
-  * [#c413962](https://github.com/empa-scientific-it/python-tutorial/commit/c413962) Add intro slides
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `update/intro-explain-input-is-available`
-  * [#74034cd](https://github.com/empa-scientific-it/python-tutorial/commit/74034cd) How hands-on will be carried out
-* #️⃣ Closed [#74 Functions Quiz Q2: Expected Answer Inconsistent with Tutorial](https://github.com/empa-scientific-it/python-tutorial/issues/74) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔃 Merged [#78 Fix quiz on functions](https://github.com/empa-scientific-it/python-tutorial/pull/78) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 2 files changed `++22 --29`
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#9859dfc](https://github.com/empa-scientific-it/python-tutorial/commit/9859dfc) Fix quiz on Functions (#78)
+* #️⃣ Closed [#64 Functional programming: specify whether letters are capitalised or not.](https://github.com/empa-scientific-it/python-tutorial/issues/64) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔃 Merged [#92 Fix/64](https://github.com/empa-scientific-it/python-tutorial/pull/92) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 1 file changed `++5 --2`
+* 🔍 Reviewed [#92 Fix/64](https://github.com/empa-scientific-it/python-tutorial/pull/92) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#98 Request participants to use Binder only.](https://github.com/empa-scientific-it/python-tutorial/pull/98) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#98 Request participants to use Binder only.](https://github.com/empa-scientific-it/python-tutorial/pull/98) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
 ---
