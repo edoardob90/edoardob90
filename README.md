@@ -15,6 +15,10 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [empa-scientific-it/empa-data-engineer](https://github.com/empa-scientific-it/empa-data-engineer) on branch `main`
+  * [#d13b1d3](https://github.com/empa-scientific-it/empa-data-engineer/commit/d13b1d3) Add bonus solution to problem 2
+* ➡️ Pushed 1 commit in [empa-scientific-it/empa-data-engineer](https://github.com/empa-scientific-it/empa-data-engineer) on branch `main`
+  * [#8468240](https://github.com/empa-scientific-it/empa-data-engineer/commit/8468240) Fix typo in 3rd problem text
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#e325d0d](https://github.com/edoardob90/dotfiles/commit/e325d0d) Remove SSH keys from BW
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
@@ -32,8 +36,6 @@ Co-authored-by: Aliaksandr Yakutovich &lt;yakutovicha@gmail.com&gt;
 * 🔃 Merged [#92 Fix/64](https://github.com/empa-scientific-it/python-tutorial/pull/92) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
   * 1 file changed `++5 --2`
 * 🔍 Reviewed [#92 Fix/64](https://github.com/empa-scientific-it/python-tutorial/pull/92) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔍 Reviewed [#98 Request participants to use Binder only.](https://github.com/empa-scientific-it/python-tutorial/pull/98) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔍 Reviewed [#98 Request participants to use Binder only.](https://github.com/empa-scientific-it/python-tutorial/pull/98) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
 ---
