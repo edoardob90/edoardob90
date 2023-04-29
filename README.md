@@ -15,6 +15,17 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#198af0f](https://github.com/edoardob90/dotfiles/commit/198af0f) Fish: add pyenv setup
+* #️⃣ Closed [#73 OOP Exercise &#34;The N-body Problem&#34; Part 2: Sign Error in Description](https://github.com/empa-scientific-it/python-tutorial/issues/73) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
+  * [#e0c40dd](https://github.com/empa-scientific-it/python-tutorial/commit/e0c40dd) Bugfix to exercise in object-oriented programming (#71)
+* 🔃 Merged [#71 Bugfix to OOP exercise test](https://github.com/empa-scientific-it/python-tutorial/pull/71) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 2 files changed `++37 --27`
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#5cbeb27](https://github.com/edoardob90/dotfiles/commit/5cbeb27) Fish conf.d files order
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#85326df](https://github.com/edoardob90/dotfiles/commit/85326df) Add Brew config on macOS-arm64
 * ➡️ Pushed 1 commit in [empa-scientific-it/empa-data-engineer](https://github.com/empa-scientific-it/empa-data-engineer) on branch `main`
   * [#d13b1d3](https://github.com/empa-scientific-it/empa-data-engineer/commit/d13b1d3) Add bonus solution to problem 2
 * ➡️ Pushed 1 commit in [empa-scientific-it/empa-data-engineer](https://github.com/empa-scientific-it/empa-data-engineer) on branch `main`
@@ -23,19 +34,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#e325d0d](https://github.com/edoardob90/dotfiles/commit/e325d0d) Remove SSH keys from BW
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#caabe5d](https://github.com/edoardob90/dotfiles/commit/caabe5d) Update VS Code settings
-* ➡️ Pushed 2 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#7eaab7c](https://github.com/edoardob90/dotfiles/commit/7eaab7c) Merge branch &#39;main&#39; of github.com:edoardob90/dotfiles
-* 🔍 Reviewed [#97 Fix exercise 3 on strings.](https://github.com/empa-scientific-it/python-tutorial/pull/97) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#fbe6c25](https://github.com/empa-scientific-it/python-tutorial/commit/fbe6c25) Updates to Functional programming (#92)
-
-Co-authored-by: Simone Baffelli &lt;simone.baffelli@empa.ch&gt;
-Co-authored-by: Edoardo Baldi &lt;edoardob90@gmail.com&gt;
-Co-authored-by: Aliaksandr Yakutovich &lt;yakutovicha@gmail.com&gt;
-* #️⃣ Closed [#64 Functional programming: specify whether letters are capitalised or not.](https://github.com/empa-scientific-it/python-tutorial/issues/64) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔃 Merged [#92 Fix/64](https://github.com/empa-scientific-it/python-tutorial/pull/92) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 1 file changed `++5 --2`
-* 🔍 Reviewed [#92 Fix/64](https://github.com/empa-scientific-it/python-tutorial/pull/92) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
 ---
