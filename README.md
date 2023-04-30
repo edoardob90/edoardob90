@@ -15,6 +15,12 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
+  * [#628f274](https://github.com/edoardob90/telegram-chatgpt/commit/628f274) Update README.md
+* ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
+  * [#13df9d2](https://github.com/edoardob90/telegram-chatgpt/commit/13df9d2) Add reference on where to host this bot
+* #️⃣ Opened [#20 Telegram API: handle messages longer than 4096 chars](https://github.com/edoardob90/telegram-chatgpt/issues/20) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+* #️⃣ Opened [#19 Add a chat history](https://github.com/edoardob90/telegram-chatgpt/issues/19) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#198af0f](https://github.com/edoardob90/dotfiles/commit/198af0f) Fish: add pyenv setup
 * #️⃣ Closed [#73 OOP Exercise &#34;The N-body Problem&#34; Part 2: Sign Error in Description](https://github.com/empa-scientific-it/python-tutorial/issues/73) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
@@ -26,14 +32,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#5cbeb27](https://github.com/edoardob90/dotfiles/commit/5cbeb27) Fish conf.d files order
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#85326df](https://github.com/edoardob90/dotfiles/commit/85326df) Add Brew config on macOS-arm64
-* ➡️ Pushed 1 commit in [empa-scientific-it/empa-data-engineer](https://github.com/empa-scientific-it/empa-data-engineer) on branch `main`
-  * [#d13b1d3](https://github.com/empa-scientific-it/empa-data-engineer/commit/d13b1d3) Add bonus solution to problem 2
-* ➡️ Pushed 1 commit in [empa-scientific-it/empa-data-engineer](https://github.com/empa-scientific-it/empa-data-engineer) on branch `main`
-  * [#8468240](https://github.com/empa-scientific-it/empa-data-engineer/commit/8468240) Fix typo in 3rd problem text
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#e325d0d](https://github.com/edoardob90/dotfiles/commit/e325d0d) Remove SSH keys from BW
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#caabe5d](https://github.com/edoardob90/dotfiles/commit/caabe5d) Update VS Code settings
 
 
 ---
