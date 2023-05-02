@@ -15,23 +15,24 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* #️⃣ Closed [#99 Extend introduction notebook.](https://github.com/empa-scientific-it/python-tutorial/issues/99) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
+  * [#f6fa0c0](https://github.com/empa-scientific-it/python-tutorial/commit/f6fa0c0) Extend introduction notebook (#100)
+
+Co-authored-by: edoardob90 &lt;edoardob90@gmail.com&gt;
+* 🔃 Merged [#100 Extend introduction notebook](https://github.com/empa-scientific-it/python-tutorial/pull/100) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 10 files changed `++381 --66`
+* 🔍 Reviewed [#100 Extend introduction notebook](https://github.com/empa-scientific-it/python-tutorial/pull/100) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `extend/intro-notebook`
+  * [#a5d5a5d](https://github.com/empa-scientific-it/python-tutorial/commit/a5d5a5d) Small changes to intro nb
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `extend/intro-notebook`
+  * [#0f26cf8](https://github.com/empa-scientific-it/python-tutorial/commit/0f26cf8) Small changes to intro nb
 * ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
   * [#628f274](https://github.com/edoardob90/telegram-chatgpt/commit/628f274) Update README.md
 * ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
   * [#13df9d2](https://github.com/edoardob90/telegram-chatgpt/commit/13df9d2) Add reference on where to host this bot
 * #️⃣ Opened [#20 Telegram API: handle messages longer than 4096 chars](https://github.com/edoardob90/telegram-chatgpt/issues/20) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
 * #️⃣ Opened [#19 Add a chat history](https://github.com/edoardob90/telegram-chatgpt/issues/19) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#198af0f](https://github.com/edoardob90/dotfiles/commit/198af0f) Fish: add pyenv setup
-* #️⃣ Closed [#73 OOP Exercise &#34;The N-body Problem&#34; Part 2: Sign Error in Description](https://github.com/empa-scientific-it/python-tutorial/issues/73) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#e0c40dd](https://github.com/empa-scientific-it/python-tutorial/commit/e0c40dd) Bugfix to exercise in object-oriented programming (#71)
-* 🔃 Merged [#71 Bugfix to OOP exercise test](https://github.com/empa-scientific-it/python-tutorial/pull/71) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 2 files changed `++37 --27`
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#5cbeb27](https://github.com/edoardob90/dotfiles/commit/5cbeb27) Fish conf.d files order
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#85326df](https://github.com/edoardob90/dotfiles/commit/85326df) Add Brew config on macOS-arm64
 
 
 ---
