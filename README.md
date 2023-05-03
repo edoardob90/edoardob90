@@ -15,24 +15,23 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* #️⃣ Closed [#99 Extend introduction notebook.](https://github.com/empa-scientific-it/python-tutorial/issues/99) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* #️⃣ Closed [#59 Add a quick introduction to Jupyter?](https://github.com/empa-scientific-it/python-tutorial/issues/59) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔃 Merged [#104 Control flow: add some intermediate exercises](https://github.com/empa-scientific-it/python-tutorial/pull/104) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 2 files changed `++379 --44`
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#f6fa0c0](https://github.com/empa-scientific-it/python-tutorial/commit/f6fa0c0) Extend introduction notebook (#100)
-
-Co-authored-by: edoardob90 &lt;edoardob90@gmail.com&gt;
-* 🔃 Merged [#100 Extend introduction notebook](https://github.com/empa-scientific-it/python-tutorial/pull/100) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 10 files changed `++381 --66`
-* 🔍 Reviewed [#100 Extend introduction notebook](https://github.com/empa-scientific-it/python-tutorial/pull/100) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `extend/intro-notebook`
-  * [#a5d5a5d](https://github.com/empa-scientific-it/python-tutorial/commit/a5d5a5d) Small changes to intro nb
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `extend/intro-notebook`
-  * [#0f26cf8](https://github.com/empa-scientific-it/python-tutorial/commit/0f26cf8) Small changes to intro nb
+  * [#4186517](https://github.com/empa-scientific-it/python-tutorial/commit/4186517) Control flow: add some intermediate exercises (#104)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `update/control-flow-exercises`
+  * [#e84b9b1](https://github.com/empa-scientific-it/python-tutorial/commit/e84b9b1) Small fixes
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `update/control-flow-exercises`
+  * [#e71e21a](https://github.com/empa-scientific-it/python-tutorial/commit/e71e21a) Small fixes
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `update/control-flow-exercises`
+  * [#4820eb2](https://github.com/empa-scientific-it/python-tutorial/commit/4820eb2) Small fixes
+* 🔃 Opened [#104 Control flow: add some intermediate exercises](https://github.com/empa-scientific-it/python-tutorial/pull/104) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 2 files changed `++374 --43`
+* ⏺️ Created new branch update/control-flow-exercises in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
-  * [#628f274](https://github.com/edoardob90/telegram-chatgpt/commit/628f274) Update README.md
-* ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
-  * [#13df9d2](https://github.com/edoardob90/telegram-chatgpt/commit/13df9d2) Add reference on where to host this bot
-* #️⃣ Opened [#20 Telegram API: handle messages longer than 4096 chars](https://github.com/edoardob90/telegram-chatgpt/issues/20) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-* #️⃣ Opened [#19 Add a chat history](https://github.com/edoardob90/telegram-chatgpt/issues/19) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+  * [#ce91477](https://github.com/edoardob90/telegram-chatgpt/commit/ce91477) Fix pyproject.toml
+* #️⃣ Opened [#103 Exercise on floats comparison: bug in reference solution](https://github.com/empa-scientific-it/python-tutorial/issues/103) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
 ---
