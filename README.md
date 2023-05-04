@@ -15,23 +15,27 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* #️⃣ Closed [#59 Add a quick introduction to Jupyter?](https://github.com/empa-scientific-it/python-tutorial/issues/59) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔃 Merged [#104 Control flow: add some intermediate exercises](https://github.com/empa-scientific-it/python-tutorial/pull/104) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 2 files changed `++379 --44`
+* 🔃 Opened [#22 Fix settings buttons that contained unpaired Markdown chars](https://github.com/edoardob90/telegram-chatgpt/pull/22) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+  * 1 file changed `++5 --4`
+* ⏺️ Created new branch fix/settings-menu in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+* #️⃣ Opened [#21 Settings buttons &#34;Presence penalty&#34; or &#34;Frequency penalty&#34; raise a Telegram API error](https://github.com/edoardob90/telegram-chatgpt/issues/21) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#4186517](https://github.com/empa-scientific-it/python-tutorial/commit/4186517) Control flow: add some intermediate exercises (#104)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `update/control-flow-exercises`
-  * [#e84b9b1](https://github.com/empa-scientific-it/python-tutorial/commit/e84b9b1) Small fixes
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `update/control-flow-exercises`
-  * [#e71e21a](https://github.com/empa-scientific-it/python-tutorial/commit/e71e21a) Small fixes
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `update/control-flow-exercises`
-  * [#4820eb2](https://github.com/empa-scientific-it/python-tutorial/commit/4820eb2) Small fixes
-* 🔃 Opened [#104 Control flow: add some intermediate exercises](https://github.com/empa-scientific-it/python-tutorial/pull/104) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 2 files changed `++374 --43`
-* ⏺️ Created new branch update/control-flow-exercises in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
-  * [#ce91477](https://github.com/edoardob90/telegram-chatgpt/commit/ce91477) Fix pyproject.toml
-* #️⃣ Opened [#103 Exercise on floats comparison: bug in reference solution](https://github.com/empa-scientific-it/python-tutorial/issues/103) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * [#da295f8](https://github.com/empa-scientific-it/python-tutorial/commit/da295f8) Add intermediate exercises to I/O and functional programming (#105)
+
+Co-authored-by: edoardob90 &lt;edoardob90@gmail.com&gt;
+* 🔃 Merged [#105 Input-output and functional programming: add intermediate exercises](https://github.com/empa-scientific-it/python-tutorial/pull/105) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 5 files changed `++782 --148`
+* 🔍 Reviewed [#105 Input-output and functional programming: add intermediate exercises](https://github.com/empa-scientific-it/python-tutorial/pull/105) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 2 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/57`
+  * [#ac6b882](https://github.com/empa-scientific-it/python-tutorial/commit/ac6b882) Small adjustments to FP notebook
+  * [#4324bb5](https://github.com/empa-scientific-it/python-tutorial/commit/4324bb5) Small adjustments to I/O notebook
+* #️⃣ Closed [#76 Remove reload_ext command since the ipytest magic is loaded automatically](https://github.com/empa-scientific-it/python-tutorial/issues/76) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
+  * [#8cc7962](https://github.com/empa-scientific-it/python-tutorial/commit/8cc7962) Fix typos and add clarifications in functions&#39; notebook (#107)
+
+Co-authored-by: edoardob90 &lt;edoardob90@gmail.com&gt;
+* 🔃 Merged [#107 Fix a typo and add clarification in the functions notebook.](https://github.com/empa-scientific-it/python-tutorial/pull/107) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 1 file changed `++46 --29`
 
 
 ---
