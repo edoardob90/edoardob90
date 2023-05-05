@@ -15,27 +15,27 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* 🔃 Opened [#22 Fix settings buttons that contained unpaired Markdown chars](https://github.com/edoardob90/telegram-chatgpt/pull/22) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-  * 1 file changed `++5 --4`
-* ⏺️ Created new branch fix/settings-menu in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-* #️⃣ Opened [#21 Settings buttons &#34;Presence penalty&#34; or &#34;Frequency penalty&#34; raise a Telegram API error](https://github.com/edoardob90/telegram-chatgpt/issues/21) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+* ➡️ Pushed 1 commit in [empa-scientific-it/empa-data-engineer](https://github.com/empa-scientific-it/empa-data-engineer) on branch `main`
+  * [#ba4c31b](https://github.com/empa-scientific-it/empa-data-engineer/commit/ba4c31b) Small adjustments
+* #️⃣ Closed [#109 I/O: fix test to `solution_read_write_file`](https://github.com/empa-scientific-it/python-tutorial/issues/109) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#da295f8](https://github.com/empa-scientific-it/python-tutorial/commit/da295f8) Add intermediate exercises to I/O and functional programming (#105)
+  * [#af22df4](https://github.com/empa-scientific-it/python-tutorial/commit/af22df4) Fix tests of input-output exercises (#108)
 
 Co-authored-by: edoardob90 &lt;edoardob90@gmail.com&gt;
-* 🔃 Merged [#105 Input-output and functional programming: add intermediate exercises](https://github.com/empa-scientific-it/python-tutorial/pull/105) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 5 files changed `++782 --148`
-* 🔍 Reviewed [#105 Input-output and functional programming: add intermediate exercises](https://github.com/empa-scientific-it/python-tutorial/pull/105) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 2 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/57`
-  * [#ac6b882](https://github.com/empa-scientific-it/python-tutorial/commit/ac6b882) Small adjustments to FP notebook
-  * [#4324bb5](https://github.com/empa-scientific-it/python-tutorial/commit/4324bb5) Small adjustments to I/O notebook
-* #️⃣ Closed [#76 Remove reload_ext command since the ipytest magic is loaded automatically](https://github.com/empa-scientific-it/python-tutorial/issues/76) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+Co-authored-by: Simone Baffelli &lt;simone.baffelli@gmail.com&gt;
+* 🔃 Merged [#108 Fix tests to I/O exercises](https://github.com/empa-scientific-it/python-tutorial/pull/108) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 2 files changed `++63 --44`
+* 🔍 Reviewed [#108 Fix tests to I/O exercises](https://github.com/empa-scientific-it/python-tutorial/pull/108) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* #️⃣ Closed [#69 Add .gitignore](https://github.com/empa-scientific-it/python-tutorial/issues/69) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#8cc7962](https://github.com/empa-scientific-it/python-tutorial/commit/8cc7962) Fix typos and add clarifications in functions&#39; notebook (#107)
+  * [#86b6571](https://github.com/empa-scientific-it/python-tutorial/commit/86b6571) Add information about .gitignore (#110)
 
-Co-authored-by: edoardob90 &lt;edoardob90@gmail.com&gt;
-* 🔃 Merged [#107 Fix a typo and add clarification in the functions notebook.](https://github.com/empa-scientific-it/python-tutorial/pull/107) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 1 file changed `++46 --29`
+Co-authored-by: Edoardo Baldi &lt;edoardob90@gmail.com&gt;
+* 🔃 Merged [#110 Add information about `.gitignore`](https://github.com/empa-scientific-it/python-tutorial/pull/110) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 1 file changed `++13 --5`
+* 🔍 Reviewed [#110 Add information about `.gitignore`](https://github.com/empa-scientific-it/python-tutorial/pull/110) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `update/add-info-about-gitignore`
+  * [#0b7b675](https://github.com/empa-scientific-it/python-tutorial/commit/0b7b675) Apply suggestions from code review
 
 
 ---
