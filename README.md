@@ -16,6 +16,8 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/weekly-python](https://github.com/edoardob90/weekly-python) on branch `main`
+  * [#6f63383](https://github.com/edoardob90/weekly-python/commit/6f63383) Exercise 2: better version
+* ➡️ Pushed 1 commit in [edoardob90/weekly-python](https://github.com/edoardob90/weekly-python) on branch `main`
   * [#dae40a2](https://github.com/edoardob90/weekly-python/commit/dae40a2) Exercise 2
 * ⏺️ Created new branch main in [edoardob90/weekly-python](https://github.com/edoardob90/weekly-python)
 * ⏺️ Created new repository  [edoardob90/weekly-python](https://github.com/edoardob90/weekly-python)
@@ -47,7 +49,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#fe10fe6](https://github.com/empa-scientific-it/mmm2023/commit/fe10fe6) Adds final Dockerfile
 * ⏺️ Created new branch master in [empa-scientific-it/mmm2023](https://github.com/empa-scientific-it/mmm2023)
 * ⏺️ Created new branch main in [empa-scientific-it/mmm2023](https://github.com/empa-scientific-it/mmm2023)
-* ⏺️ Created new repository  [empa-scientific-it/mmm2023](https://github.com/empa-scientific-it/mmm2023)
 
 
 ---
