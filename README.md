@@ -15,6 +15,14 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* #️⃣ Opened [#23 Validate settings parameters](https://github.com/edoardob90/telegram-chatgpt/issues/23) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+* #️⃣ Closed [#21 Settings buttons &#34;Presence penalty&#34; or &#34;Frequency penalty&#34; raise a Telegram API error](https://github.com/edoardob90/telegram-chatgpt/issues/21) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+* ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
+  * [#18db3cf](https://github.com/edoardob90/telegram-chatgpt/commit/18db3cf) Fix settings buttons with unpaired Markdown chars (#22)
+* 🔃 Merged [#22 Fix settings buttons that contained unpaired Markdown chars](https://github.com/edoardob90/telegram-chatgpt/pull/22) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
+  * 1 file changed `++5 --4`
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#28277f9](https://github.com/edoardob90/dotfiles/commit/28277f9) Update Kitty conf: kbindings and theme
 * ➡️ Pushed 1 commit in [edoardob90/weekly-python](https://github.com/edoardob90/weekly-python) on branch `main`
   * [#6f63383](https://github.com/edoardob90/weekly-python/commit/6f63383) Exercise 2: better version
 * ➡️ Pushed 1 commit in [edoardob90/weekly-python](https://github.com/edoardob90/weekly-python) on branch `main`
@@ -23,32 +31,6 @@ I'm Edoardo, and in just a few bullet points:
 * ⏺️ Created new repository  [edoardob90/weekly-python](https://github.com/edoardob90/weekly-python)
 * ➡️ Pushed 1 commit in [empa-scientific-it/mmm2023](https://github.com/empa-scientific-it/mmm2023) on branch `main`
   * [#9ddf142](https://github.com/empa-scientific-it/mmm2023/commit/9ddf142) Update README.md
-* ➡️ Pushed 1 commit in [empa-scientific-it/mmm2023](https://github.com/empa-scientific-it/mmm2023) on branch `main`
-  * [#c327a59](https://github.com/empa-scientific-it/mmm2023/commit/c327a59) Update README.md
-* ➡️ Pushed 2 commits in [empa-scientific-it/mmm2023](https://github.com/empa-scientific-it/mmm2023) on branch `main`
-  * [#8619020](https://github.com/empa-scientific-it/mmm2023/commit/8619020) Update
-  * [#9ab8bdb](https://github.com/empa-scientific-it/mmm2023/commit/9ab8bdb) Remove nglview script
-* ➡️ Pushed 18 commits in [empa-scientific-it/mmm2023](https://github.com/empa-scientific-it/mmm2023) on branch `main`
-  * [#6c0f3f1](https://github.com/empa-scientific-it/mmm2023/commit/6c0f3f1) Dockerfile for 2023 course
-  * [#4ac5d2c](https://github.com/empa-scientific-it/mmm2023/commit/4ac5d2c) Update README.md
-  * [#c3252d9](https://github.com/empa-scientific-it/mmm2023/commit/c3252d9) Removes a test Dockerfile
-  * [#341fdbe](https://github.com/empa-scientific-it/mmm2023/commit/341fdbe) Again the README
-  * [#c6f3a26](https://github.com/empa-scientific-it/mmm2023/commit/c6f3a26) Merge branch &#39;master&#39; of github.com:edoardob90/mmm2020
-  * [#2db4909](https://github.com/empa-scientific-it/mmm2023/commit/2db4909) Update README.md
-  * [#1b6d702](https://github.com/empa-scientific-it/mmm2023/commit/1b6d702) Update README.md
-  * [#ce73752](https://github.com/empa-scientific-it/mmm2023/commit/ce73752) Update README.md
-  * [#1fc59e6](https://github.com/empa-scientific-it/mmm2023/commit/1fc59e6) Updates README
-  * [#2b3e4de](https://github.com/empa-scientific-it/mmm2023/commit/2b3e4de) Updates README
-  * [#f91d24d](https://github.com/empa-scientific-it/mmm2023/commit/f91d24d) Merge branch &#39;master&#39; of github.com:edoardob90/mmm2020
-  * [#e299d93](https://github.com/empa-scientific-it/mmm2023/commit/e299d93) Updates README for nglview fix
-  * [#86f2581](https://github.com/empa-scientific-it/mmm2023/commit/86f2581) Updates README for nglview fix
-  * [#2caa760](https://github.com/empa-scientific-it/mmm2023/commit/2caa760) Small script to fix nglview with Lab
-  * [#9370d8d](https://github.com/empa-scientific-it/mmm2023/commit/9370d8d) Fixes nglview with Jupyter Lab
-  * [#0c71186](https://github.com/empa-scientific-it/mmm2023/commit/0c71186) Adds volumes
-  * [#de6ad3c](https://github.com/empa-scientific-it/mmm2023/commit/de6ad3c) Adds a quick README
-  * [#fe10fe6](https://github.com/empa-scientific-it/mmm2023/commit/fe10fe6) Adds final Dockerfile
-* ⏺️ Created new branch master in [empa-scientific-it/mmm2023](https://github.com/empa-scientific-it/mmm2023)
-* ⏺️ Created new branch main in [empa-scientific-it/mmm2023](https://github.com/empa-scientific-it/mmm2023)
 
 
 ---
