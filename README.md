@@ -15,6 +15,7 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* #️⃣ Opened [#119 Feedback summary from beginners tutorial 2023](https://github.com/empa-scientific-it/python-tutorial/issues/119) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [empa-scientific-it/empa-data-engineer](https://github.com/empa-scientific-it/empa-data-engineer) on branch `main`
   * [#76e6d18](https://github.com/empa-scientific-it/empa-data-engineer/commit/76e6d18) Ex 3: add some comments
 * ➡️ Pushed 8 commits in [edoardob90/astro-blog](https://github.com/edoardob90/astro-blog) on branch `main`
@@ -50,7 +51,6 @@ fix #52
   * [#6f63383](https://github.com/edoardob90/weekly-python/commit/6f63383) Exercise 2: better version
 * ➡️ Pushed 1 commit in [edoardob90/weekly-python](https://github.com/edoardob90/weekly-python) on branch `main`
   * [#dae40a2](https://github.com/edoardob90/weekly-python/commit/dae40a2) Exercise 2
-* ⏺️ Created new branch main in [edoardob90/weekly-python](https://github.com/edoardob90/weekly-python)
 
 
 ---
