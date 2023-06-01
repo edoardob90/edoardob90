@@ -15,6 +15,12 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#197feb0](https://github.com/edoardob90/dotfiles/commit/197feb0) Add encrypted ssh config
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#7c6fa39](https://github.com/edoardob90/dotfiles/commit/7c6fa39) Add: alacritty config
+* ➡️ Pushed 3 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#225015e](https://github.com/edoardob90/dotfiles/commit/225015e) Merge branch &#39;main&#39; of github.com:edoardob90/dotfiles
 * #️⃣ Opened [#119 Feedback summary from beginners tutorial 2023](https://github.com/empa-scientific-it/python-tutorial/issues/119) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [empa-scientific-it/empa-data-engineer](https://github.com/empa-scientific-it/empa-data-engineer) on branch `main`
   * [#76e6d18](https://github.com/empa-scientific-it/empa-data-engineer/commit/76e6d18) Ex 3: add some comments
@@ -45,12 +51,6 @@ fix #52
   * [#18db3cf](https://github.com/edoardob90/telegram-chatgpt/commit/18db3cf) Fix settings buttons with unpaired Markdown chars (#22)
 * 🔃 Merged [#22 Fix settings buttons that contained unpaired Markdown chars](https://github.com/edoardob90/telegram-chatgpt/pull/22) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
   * 1 file changed `++5 --4`
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#28277f9](https://github.com/edoardob90/dotfiles/commit/28277f9) Update Kitty conf: kbindings and theme
-* ➡️ Pushed 1 commit in [edoardob90/weekly-python](https://github.com/edoardob90/weekly-python) on branch `main`
-  * [#6f63383](https://github.com/edoardob90/weekly-python/commit/6f63383) Exercise 2: better version
-* ➡️ Pushed 1 commit in [edoardob90/weekly-python](https://github.com/edoardob90/weekly-python) on branch `main`
-  * [#dae40a2](https://github.com/edoardob90/weekly-python/commit/dae40a2) Exercise 2
 
 
 ---
