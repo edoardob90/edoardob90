@@ -16,6 +16,8 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#5410bcf](https://github.com/edoardob90/dotfiles/commit/5410bcf) Fix Fish shell script for pyenv
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#197feb0](https://github.com/edoardob90/dotfiles/commit/197feb0) Add encrypted ssh config
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#7c6fa39](https://github.com/edoardob90/dotfiles/commit/7c6fa39) Add: alacritty config
@@ -49,8 +51,6 @@ fix #52
 * #️⃣ Closed [#21 Settings buttons &#34;Presence penalty&#34; or &#34;Frequency penalty&#34; raise a Telegram API error](https://github.com/edoardob90/telegram-chatgpt/issues/21) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
 * ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
   * [#18db3cf](https://github.com/edoardob90/telegram-chatgpt/commit/18db3cf) Fix settings buttons with unpaired Markdown chars (#22)
-* 🔃 Merged [#22 Fix settings buttons that contained unpaired Markdown chars](https://github.com/edoardob90/telegram-chatgpt/pull/22) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-  * 1 file changed `++5 --4`
 
 
 ---
