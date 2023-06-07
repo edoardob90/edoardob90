@@ -15,6 +15,13 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 2 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#7341bd5](https://github.com/edoardob90/dotfiles/commit/7341bd5) yabai: remove window radius
+  * [#4e26606](https://github.com/edoardob90/dotfiles/commit/4e26606) Update Brewfile
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#a60c00e](https://github.com/edoardob90/dotfiles/commit/a60c00e) Add yabai + skhd configs
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#2a006d6](https://github.com/edoardob90/dotfiles/commit/2a006d6) kitty conf: hide window decoration by default
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#5410bcf](https://github.com/edoardob90/dotfiles/commit/5410bcf) Fix Fish shell script for pyenv
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
@@ -47,10 +54,6 @@ fix #52
 * fix: build error astro@2.1.4 &amp;&amp; update astro@2.1.5
 
 * fix: remove @scripts from tsconfig.json
-* #️⃣ Opened [#23 Validate settings parameters](https://github.com/edoardob90/telegram-chatgpt/issues/23) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-* #️⃣ Closed [#21 Settings buttons &#34;Presence penalty&#34; or &#34;Frequency penalty&#34; raise a Telegram API error](https://github.com/edoardob90/telegram-chatgpt/issues/21) in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt)
-* ➡️ Pushed 1 commit in [edoardob90/telegram-chatgpt](https://github.com/edoardob90/telegram-chatgpt) on branch `main`
-  * [#18db3cf](https://github.com/edoardob90/telegram-chatgpt/commit/18db3cf) Fix settings buttons with unpaired Markdown chars (#22)
 
 
 ---
