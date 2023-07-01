@@ -16,6 +16,8 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#995660d](https://github.com/edoardob90/dotfiles/commit/995660d) Add pipenv conf
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#82601f9](https://github.com/edoardob90/dotfiles/commit/82601f9) Rename scripts and setup &#39;fisher&#39; plugin manager
 * ➡️ Pushed 2 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#ee08e3c](https://github.com/edoardob90/dotfiles/commit/ee08e3c) Rename scripts and setup &#39;fisher&#39; plugin manager
@@ -36,8 +38,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#197feb0](https://github.com/edoardob90/dotfiles/commit/197feb0) Add encrypted ssh config
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#7c6fa39](https://github.com/edoardob90/dotfiles/commit/7c6fa39) Add: alacritty config
-* ➡️ Pushed 3 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#225015e](https://github.com/edoardob90/dotfiles/commit/225015e) Merge branch &#39;main&#39; of github.com:edoardob90/dotfiles
 
 
 ---
