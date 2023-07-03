@@ -2,7 +2,7 @@
 
 I'm Edoardo, and in just a few bullet points:
 
-- 🔭 I’m working as a **research software engineer** in the Swiss Federal Labs of Materials Science in Zürich 🇨🇭
+- 🔭 I’m working as a **research software engineer** at the Swiss Federal Labs of Materials Science in Zürich 🇨🇭
 - 🌱 I’m currently learning **algorithmic thinking**
 - 👯 I’m looking to collaborate on some **programming challenge** (e.g., [Advent of Code](https://github.com/edoardob90/aoc2022)) or an **open-source project**
 - 📫 How to reach me: `hi@edobld.me`, [LinkedIn](https://linkedin.com/in/edobld), or [Twitter](https://twitter.com/edobld)
