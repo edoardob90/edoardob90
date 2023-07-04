@@ -15,6 +15,7 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* 🍽️ Forked [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) to [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#995660d](https://github.com/edoardob90/dotfiles/commit/995660d) Add pipenv conf
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
@@ -36,8 +37,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#5410bcf](https://github.com/edoardob90/dotfiles/commit/5410bcf) Fix Fish shell script for pyenv
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#197feb0](https://github.com/edoardob90/dotfiles/commit/197feb0) Add encrypted ssh config
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#7c6fa39](https://github.com/edoardob90/dotfiles/commit/7c6fa39) Add: alacritty config
 
 
 ---
