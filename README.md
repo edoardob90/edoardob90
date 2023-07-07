@@ -15,6 +15,8 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* 🔃 Closed [#53 Always show pytest output](https://github.com/empa-scientific-it/python-tutorial/pull/53) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 9 files changed `++341 --107`
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
   * [#d0b9dff](https://github.com/empa-scientific-it/python-tutorial/commit/d0b9dff) Update README
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
@@ -85,7 +87,6 @@ Co-authored-by: Aliaksandr Yakutovich &lt;yakutovicha@gmail.com&gt;
 
 Allow long text options by setting CSS width to &#39;max-content&#39;
 * ⏺️ Created new branch custom in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
-* 🍽️ Forked [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) to [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
 
 
 ---
