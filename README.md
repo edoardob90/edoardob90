@@ -15,6 +15,9 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/test-input-output`
+  * [#9c71725](https://github.com/empa-scientific-it/python-tutorial/commit/9c71725) Improve solution/test to exercise &#39;write_file&#39;
+* 🔍 Reviewed [#126 Fix bug and cleanup input/output](https://github.com/empa-scientific-it/python-tutorial/pull/126) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * 🔃 Opened [#126 Fix bug and cleanup input/output](https://github.com/empa-scientific-it/python-tutorial/pull/126) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
   * 3 files changed `++133 --89`
 * ⏺️ Created new branch fix/test-input-output in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
@@ -29,10 +32,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#979f271](https://github.com/empa-scientific-it/python-tutorial/commit/979f271) Change username and default image name
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
   * [#f920d8e](https://github.com/empa-scientific-it/python-tutorial/commit/f920d8e) Update permissions
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
-  * [#3ad6258](https://github.com/empa-scientific-it/python-tutorial/commit/3ad6258) Add &#39;write&#39; permissions for packages
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
-  * [#c8bf051](https://github.com/empa-scientific-it/python-tutorial/commit/c8bf051) Fix registry username
 
 
 ---
