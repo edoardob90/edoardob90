@@ -15,23 +15,23 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/test-input-output`
-  * [#9c71725](https://github.com/empa-scientific-it/python-tutorial/commit/9c71725) Improve solution/test to exercise &#39;write_file&#39;
-* 🔍 Reviewed [#126 Fix bug and cleanup input/output](https://github.com/empa-scientific-it/python-tutorial/pull/126) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔃 Opened [#126 Fix bug and cleanup input/output](https://github.com/empa-scientific-it/python-tutorial/pull/126) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 3 files changed `++133 --89`
-* ⏺️ Created new branch fix/test-input-output in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* #️⃣ Opened [#125 Show the proposed solutions to exercises](https://github.com/empa-scientific-it/python-tutorial/issues/125) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔃 Closed [#53 Always show pytest output](https://github.com/empa-scientific-it/python-tutorial/pull/53) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 9 files changed `++341 --107`
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
-  * [#d0b9dff](https://github.com/empa-scientific-it/python-tutorial/commit/d0b9dff) Update README
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
-  * [#d8810fb](https://github.com/empa-scientific-it/python-tutorial/commit/d8810fb) Update action yml
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
-  * [#979f271](https://github.com/empa-scientific-it/python-tutorial/commit/979f271) Change username and default image name
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
-  * [#f920d8e](https://github.com/empa-scientific-it/python-tutorial/commit/f920d8e) Update permissions
+* 🔍 Reviewed [#127 Formatting cell output and catching syntax errors](https://github.com/empa-scientific-it/python-tutorial/pull/127) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `improve-test-output`
+  * [#07c2e1e](https://github.com/empa-scientific-it/python-tutorial/commit/07c2e1e) Reformatting
+* 🔍 Reviewed [#127 Formatting cell output and catching syntax errors](https://github.com/empa-scientific-it/python-tutorial/pull/127) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#127 Formatting cell output and catching syntax errors](https://github.com/empa-scientific-it/python-tutorial/pull/127) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#127 Formatting cell output and catching syntax errors](https://github.com/empa-scientific-it/python-tutorial/pull/127) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔃 Merged [#126 Fix bug and cleanup input/output](https://github.com/empa-scientific-it/python-tutorial/pull/126) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 3 files changed `++131 --88`
+* #️⃣ Closed [#120 Problem with tests in I/O module?](https://github.com/empa-scientific-it/python-tutorial/issues/120) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
+  * [#98d1107](https://github.com/empa-scientific-it/python-tutorial/commit/98d1107) Fix bug and cleanup input/output (#126)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
+  * [#c18d30b](https://github.com/empa-scientific-it/python-tutorial/commit/c18d30b) CLI tool to create TOC in notebooks (#94)
+
+Co-authored-by: edoardob90 &lt;edoardob90@gmail.com&gt;
+* 🔃 Merged [#94 Added tool to create TOC from command line.](https://github.com/empa-scientific-it/python-tutorial/pull/94) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 2 files changed `++91 --27`
 
 
 ---
