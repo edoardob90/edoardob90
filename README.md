@@ -15,30 +15,23 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 4 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
-  * [#7bb2eb9](https://github.com/edoardob90/chatgpt-telegram-bot/commit/7bb2eb9) Merge branch &#39;main&#39; into custom
-* ➡️ Pushed 3 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `main`
-  * [#672ab3e](https://github.com/edoardob90/chatgpt-telegram-bot/commit/672ab3e) Merge pull request #351 from stanislavlysenko0912/fix-reply
-
-(fix) Passing context
-  * [#4b15baf](https://github.com/edoardob90/chatgpt-telegram-bot/commit/4b15baf) Simplifying the code for the message reply
-  * [#8d40ae7](https://github.com/edoardob90/chatgpt-telegram-bot/commit/8d40ae7) (fix) Passing context
-* ➡️ Pushed 3 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `main`
-  * [#672ab3e](https://github.com/edoardob90/chatgpt-telegram-bot/commit/672ab3e) Merge pull request #351 from stanislavlysenko0912/fix-reply
-
-(fix) Passing context
-  * [#4b15baf](https://github.com/edoardob90/chatgpt-telegram-bot/commit/4b15baf) Simplifying the code for the message reply
-  * [#8d40ae7](https://github.com/edoardob90/chatgpt-telegram-bot/commit/8d40ae7) (fix) Passing context
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#1384773](https://github.com/edoardob90/dotfiles/commit/1384773) Update ssh config
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#1ea36ff](https://github.com/edoardob90/dotfiles/commit/1ea36ff) Fish: init pyenv-virtualenv
+* 🔍 Reviewed [#114 Fix exercises on objects.](https://github.com/empa-scientific-it/python-tutorial/pull/114) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#8ecacb0](https://github.com/empa-scientific-it/python-tutorial/commit/8ecacb0) Fix bug in test to I/O exercise 4 (#129)
-* 🔃 Merged [#129 Fix bug in test to ex. 4](https://github.com/empa-scientific-it/python-tutorial/pull/129) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 3 files changed `++10 --10`
-* 🔃 Opened [#129 Fix bug in test to ex. 4](https://github.com/empa-scientific-it/python-tutorial/pull/129) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 3 files changed `++10 --10`
-* ⏺️ Created new branch fix/bug-input-output in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * [#525b2e2](https://github.com/empa-scientific-it/python-tutorial/commit/525b2e2) Improve pytest output and error messages (#127)
+
+Co-authored-by: Simone Baffelli &lt;simone.baffelli@gmail.com&gt;
+Co-authored-by: Edoardo Baldi &lt;edoardo.baldi@empa.ch&gt;
+* #️⃣ Closed [#47 Improve test output](https://github.com/empa-scientific-it/python-tutorial/issues/47) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔃 Merged [#127 Formatting cell output and catching syntax errors](https://github.com/empa-scientific-it/python-tutorial/pull/127) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 2 files changed `++270 --54`
 * 🔍 Reviewed [#127 Formatting cell output and catching syntax errors](https://github.com/empa-scientific-it/python-tutorial/pull/127) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `improve-test-output`
-  * [#07c2e1e](https://github.com/empa-scientific-it/python-tutorial/commit/07c2e1e) Reformatting
+* 🔃 Opened [#131 Extend TOC CLI script](https://github.com/empa-scientific-it/python-tutorial/pull/131) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 1 file changed `++21 --13`
+* ⏺️ Created new branch fix/extend-toc-cli in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * 🔍 Reviewed [#127 Formatting cell output and catching syntax errors](https://github.com/empa-scientific-it/python-tutorial/pull/127) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
