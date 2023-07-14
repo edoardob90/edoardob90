@@ -15,24 +15,26 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#1384773](https://github.com/edoardob90/dotfiles/commit/1384773) Update ssh config
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#1ea36ff](https://github.com/edoardob90/dotfiles/commit/1ea36ff) Fish: init pyenv-virtualenv
-* 🔍 Reviewed [#114 Fix exercises on objects.](https://github.com/empa-scientific-it/python-tutorial/pull/114) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
+* ➡️ Pushed 2 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/extend-toc-cli`
+  * [#3103b4d](https://github.com/empa-scientific-it/python-tutorial/commit/3103b4d) Merge branch &#39;main&#39; into fix/extend-toc-cli
+* 🔍 Reviewed [#132 Add pre-commit hooks](https://github.com/empa-scientific-it/python-tutorial/pull/132) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
+  * [#4e50d2f](https://github.com/empa-scientific-it/python-tutorial/commit/4e50d2f) Update README.md
+* 🔍 Reviewed [#80 Automatically build Docker image from the repository](https://github.com/empa-scientific-it/python-tutorial/pull/80) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#80 Automatically build Docker image from the repository](https://github.com/empa-scientific-it/python-tutorial/pull/80) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#132 Add pre-commit hooks](https://github.com/empa-scientific-it/python-tutorial/pull/132) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#132 Add pre-commit hooks](https://github.com/empa-scientific-it/python-tutorial/pull/132) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 3 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/extend-toc-cli`
+  * [#4ed7294](https://github.com/empa-scientific-it/python-tutorial/commit/4ed7294) Add backlink to each header
+  * [#8d43e73](https://github.com/empa-scientific-it/python-tutorial/commit/8d43e73) Merge branch &#39;main&#39; into fix/extend-toc-cli
   * [#525b2e2](https://github.com/empa-scientific-it/python-tutorial/commit/525b2e2) Improve pytest output and error messages (#127)
 
 Co-authored-by: Simone Baffelli &lt;simone.baffelli@gmail.com&gt;
 Co-authored-by: Edoardo Baldi &lt;edoardo.baldi@empa.ch&gt;
-* #️⃣ Closed [#47 Improve test output](https://github.com/empa-scientific-it/python-tutorial/issues/47) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔃 Merged [#127 Formatting cell output and catching syntax errors](https://github.com/empa-scientific-it/python-tutorial/pull/127) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 2 files changed `++270 --54`
-* 🔍 Reviewed [#127 Formatting cell output and catching syntax errors](https://github.com/empa-scientific-it/python-tutorial/pull/127) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔃 Opened [#131 Extend TOC CLI script](https://github.com/empa-scientific-it/python-tutorial/pull/131) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 1 file changed `++21 --13`
-* ⏺️ Created new branch fix/extend-toc-cli in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔍 Reviewed [#127 Formatting cell output and catching syntax errors](https://github.com/empa-scientific-it/python-tutorial/pull/127) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#1384773](https://github.com/edoardob90/dotfiles/commit/1384773) Update ssh config
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#1ea36ff](https://github.com/edoardob90/dotfiles/commit/1ea36ff) Fish: init pyenv-virtualenv
 
 
 ---
