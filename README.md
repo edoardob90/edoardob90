@@ -15,6 +15,8 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ⏺️ Created new branch feature/log-level-config-option in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
+* ⏺️ Created new branch feature/auth-decorator in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
 * ➡️ Pushed 1 commit in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
   * [#65bec10](https://github.com/edoardob90/chatgpt-telegram-bot/commit/65bec10) Fix some merge mishaps
 * ➡️ Pushed 2 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
@@ -29,9 +31,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#ceaa8a5](https://github.com/edoardob90/chatgpt-telegram-bot/commit/ceaa8a5) Merge branch &#39;custom&#39; of github.com:edoardob90/chatgpt-telegram-bot into custom
 * ➡️ Pushed 2 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
   * [#cfbd21b](https://github.com/edoardob90/chatgpt-telegram-bot/commit/cfbd21b) Merge branch &#39;feature/change-model&#39; into custom
-* ⏺️ Created new branch feature/change-model in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
-* ➡️ Pushed 2 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/extend-toc-cli`
-  * [#3103b4d](https://github.com/empa-scientific-it/python-tutorial/commit/3103b4d) Merge branch &#39;main&#39; into fix/extend-toc-cli
 
 
 ---
