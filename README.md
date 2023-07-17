@@ -15,6 +15,12 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `feature/change-model-command`
+  * [#12a8e4b](https://github.com/edoardob90/chatgpt-telegram-bot/commit/12a8e4b) Better PEP-compliant formatting
+* ➡️ Pushed 1 commit in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
+  * [#dc79973](https://github.com/edoardob90/chatgpt-telegram-bot/commit/dc79973) Add missing f-string (plus formatting)
+* ➡️ Pushed 2 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
+  * [#445aeb3](https://github.com/edoardob90/chatgpt-telegram-bot/commit/445aeb3) Merge branch &#39;feature/log-level-config-option&#39; into custom
 * ⏺️ Created new branch feature/log-level-config-option in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
 * ⏺️ Created new branch feature/auth-decorator in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
 * ➡️ Pushed 1 commit in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
@@ -26,11 +32,6 @@ I'm Edoardo, and in just a few bullet points:
 * ➡️ Pushed 1 commit in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `feature/change-model-command`
   * [#9a07be5](https://github.com/edoardob90/chatgpt-telegram-bot/commit/9a07be5) Add command to change language model
 * ⏺️ Created new branch custom in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
-* ⏺️ Created new branch feature/change-model-command in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
-* ➡️ Pushed 2 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
-  * [#ceaa8a5](https://github.com/edoardob90/chatgpt-telegram-bot/commit/ceaa8a5) Merge branch &#39;custom&#39; of github.com:edoardob90/chatgpt-telegram-bot into custom
-* ➡️ Pushed 2 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
-  * [#cfbd21b](https://github.com/edoardob90/chatgpt-telegram-bot/commit/cfbd21b) Merge branch &#39;feature/change-model&#39; into custom
 
 
 ---
