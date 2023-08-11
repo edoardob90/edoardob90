@@ -15,6 +15,7 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* 🔍 Reviewed [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
   * [#458c37f](https://github.com/empa-scientific-it/cscs-keygen/commit/458c37f) Improve errors
 * ➡️ Pushed 3 commits in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
@@ -33,8 +34,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#65bec10](https://github.com/edoardob90/chatgpt-telegram-bot/commit/65bec10) Fix some merge mishaps
 * ➡️ Pushed 2 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
   * [#d57f2f6](https://github.com/edoardob90/chatgpt-telegram-bot/commit/d57f2f6) Merge branch &#39;feature/change-model-command&#39; into custom
-* ➡️ Pushed 1 commit in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `feature/change-model-command`
-  * [#2b60c84](https://github.com/edoardob90/chatgpt-telegram-bot/commit/2b60c84) Add command to change language model
 
 
 ---
