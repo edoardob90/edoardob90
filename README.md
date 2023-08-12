@@ -15,6 +15,10 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 7 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
+  * [#97ee6ed](https://github.com/empa-scientific-it/python-tutorial/commit/97ee6ed) Merge branch &#39;main&#39; into feature/build-docker-image
+* 🔍 Reviewed [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * 🔍 Reviewed [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
   * [#458c37f](https://github.com/empa-scientific-it/cscs-keygen/commit/458c37f) Improve errors
@@ -29,11 +33,6 @@ I'm Edoardo, and in just a few bullet points:
 * ➡️ Pushed 2 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
   * [#445aeb3](https://github.com/edoardob90/chatgpt-telegram-bot/commit/445aeb3) Merge branch &#39;feature/log-level-config-option&#39; into custom
 * ⏺️ Created new branch feature/log-level-config-option in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
-* ⏺️ Created new branch feature/auth-decorator in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
-* ➡️ Pushed 1 commit in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
-  * [#65bec10](https://github.com/edoardob90/chatgpt-telegram-bot/commit/65bec10) Fix some merge mishaps
-* ➡️ Pushed 2 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
-  * [#d57f2f6](https://github.com/edoardob90/chatgpt-telegram-bot/commit/d57f2f6) Merge branch &#39;feature/change-model-command&#39; into custom
 
 
 ---
