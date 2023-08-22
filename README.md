@@ -15,24 +15,28 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 7 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
-  * [#97ee6ed](https://github.com/empa-scientific-it/python-tutorial/commit/97ee6ed) Merge branch &#39;main&#39; into feature/build-docker-image
-* 🔍 Reviewed [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔍 Reviewed [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔍 Reviewed [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
-  * [#458c37f](https://github.com/empa-scientific-it/cscs-keygen/commit/458c37f) Improve errors
-* ➡️ Pushed 3 commits in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
-  * [#b86e22b](https://github.com/empa-scientific-it/cscs-keygen/commit/b86e22b) Minor changes
-  * [#b0a180c](https://github.com/empa-scientific-it/cscs-keygen/commit/b0a180c) Better type hinting
-  * [#0144f02](https://github.com/empa-scientific-it/cscs-keygen/commit/0144f02) Add dry-run, verbose/quiet options and logging
-* ➡️ Pushed 1 commit in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `feature/change-model-command`
-  * [#12a8e4b](https://github.com/edoardob90/chatgpt-telegram-bot/commit/12a8e4b) Better PEP-compliant formatting
-* ➡️ Pushed 1 commit in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
-  * [#dc79973](https://github.com/edoardob90/chatgpt-telegram-bot/commit/dc79973) Add missing f-string (plus formatting)
-* ➡️ Pushed 2 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
-  * [#445aeb3](https://github.com/edoardob90/chatgpt-telegram-bot/commit/445aeb3) Merge branch &#39;feature/log-level-config-option&#39; into custom
-* ⏺️ Created new branch feature/log-level-config-option in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
+* ➡️ Pushed 1 commit in [edoardob90/plugin-temml-math](https://github.com/edoardob90/plugin-temml-math) on branch `main`
+  * [#8e1f155](https://github.com/edoardob90/plugin-temml-math/commit/8e1f155) Rename
+* ➡️ Pushed 1 commit in [edoardob90/plugin-temml-math](https://github.com/edoardob90/plugin-temml-math) on branch `main`
+  * [#13195a4](https://github.com/edoardob90/plugin-temml-math/commit/13195a4) Update
+* ➡️ Pushed 1 commit in [edoardob90/plugin-temml-math](https://github.com/edoardob90/plugin-temml-math) on branch `main`
+  * [#3510e2b](https://github.com/edoardob90/plugin-temml-math/commit/3510e2b) Revert &#34;Fix script&#34;
+
+This reverts commit 7e2fc830aeb2f5d962207293db1f6cd6c82fe921.
+* ➡️ Pushed 1 commit in [edoardob90/plugin-temml-math](https://github.com/edoardob90/plugin-temml-math) on branch `main`
+  * [#8cb1a04](https://github.com/edoardob90/plugin-temml-math/commit/8cb1a04) Another bug
+* ➡️ Pushed 1 commit in [edoardob90/plugin-temml-math](https://github.com/edoardob90/plugin-temml-math) on branch `main`
+  * [#c87eb71](https://github.com/edoardob90/plugin-temml-math/commit/c87eb71) Bug
+* ➡️ Pushed 1 commit in [edoardob90/plugin-temml-math](https://github.com/edoardob90/plugin-temml-math) on branch `main`
+  * [#7e2fc83](https://github.com/edoardob90/plugin-temml-math/commit/7e2fc83) Fix script
+* ➡️ Pushed 1 commit in [edoardob90/plugin-temml-math](https://github.com/edoardob90/plugin-temml-math) on branch `main`
+  * [#0cbe3bd](https://github.com/edoardob90/plugin-temml-math/commit/0cbe3bd) Fix render script
+* ➡️ Pushed 1 commit in [edoardob90/plugin-temml-math](https://github.com/edoardob90/plugin-temml-math) on branch `main`
+  * [#9a1f2f9](https://github.com/edoardob90/plugin-temml-math/commit/9a1f2f9) Update plugin.json
+* ➡️ Pushed 1 commit in [edoardob90/plugin-temml-math](https://github.com/edoardob90/plugin-temml-math) on branch `main`
+  * [#894df9c](https://github.com/edoardob90/plugin-temml-math/commit/894df9c) First attempt
+* ➡️ Pushed 1 commit in [edoardob90/plugin-temml-math](https://github.com/edoardob90/plugin-temml-math) on branch `main`
+  * [#0487260](https://github.com/edoardob90/plugin-temml-math/commit/0487260) Create plugin.json
 
 
 ---
