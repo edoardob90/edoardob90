@@ -15,6 +15,11 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* 🔍 Reviewed [#4308 i18n(it): translated tutorial introduction](https://github.com/withastro/docs/pull/4308) in [withastro/docs](https://github.com/withastro/docs)
+* 🔍 Reviewed [#4308 i18n(it): translated tutorial introduction](https://github.com/withastro/docs/pull/4308) in [withastro/docs](https://github.com/withastro/docs)
+* 🍽️ Forked [withastro/docs](https://github.com/withastro/docs) to [edoardob90/astro-docs](https://github.com/edoardob90/astro-docs)
+* 🔍 Reviewed [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
   * [#e8e7301](https://github.com/edoardob90/chatgpt-telegram-bot/commit/e8e7301) Upgrade Pipfile
 * ➡️ Pushed 80 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
@@ -48,15 +53,6 @@ Show the command &#34;/image&#34; only if it is enabled in the configuration
 * ⏺️ Created new branch main in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
 * ➡️ Pushed 1 commit in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
   * [#dc2a419](https://github.com/edoardob90/chatgpt-telegram-bot/commit/dc2a419) Fix error with imported names
-* ➡️ Pushed 1 commit in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
-  * [#72e221a](https://github.com/edoardob90/chatgpt-telegram-bot/commit/72e221a) Upgrade Pipfile
-* ➡️ Pushed 1 commit in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
-  * [#7c74bff](https://github.com/edoardob90/chatgpt-telegram-bot/commit/7c74bff) Merge upstream updates (#1)
-* 🔃 Merged [#1 Merge upstream updates](https://github.com/edoardob90/chatgpt-telegram-bot/pull/1) in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
-  * 25 files changed `++1543 --203`
-* ➡️ Pushed 1 commit in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `main`
-  * [#ea3d08c](https://github.com/edoardob90/chatgpt-telegram-bot/commit/ea3d08c) Update bot/plugins/wolfram_alpha.py
-* 🔍 Reviewed [#1 Merge upstream updates](https://github.com/edoardob90/chatgpt-telegram-bot/pull/1) in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
 
 
 ---
