@@ -15,44 +15,25 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* 🔍 Reviewed [#4308 i18n(it): translated tutorial introduction](https://github.com/withastro/docs/pull/4308) in [withastro/docs](https://github.com/withastro/docs)
-* 🔍 Reviewed [#4308 i18n(it): translated tutorial introduction](https://github.com/withastro/docs/pull/4308) in [withastro/docs](https://github.com/withastro/docs)
-* 🍽️ Forked [withastro/docs](https://github.com/withastro/docs) to [edoardob90/astro-docs](https://github.com/edoardob90/astro-docs)
-* 🔍 Reviewed [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔍 Reviewed [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
-  * [#e8e7301](https://github.com/edoardob90/chatgpt-telegram-bot/commit/e8e7301) Upgrade Pipfile
-* ➡️ Pushed 80 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
-  * [#00cd509](https://github.com/edoardob90/chatgpt-telegram-bot/commit/00cd509) image type default value
-  * [#34dd823](https://github.com/edoardob90/chatgpt-telegram-bot/commit/34dd823) updated README.md
-  * [#37f279e](https://github.com/edoardob90/chatgpt-telegram-bot/commit/37f279e) added translate and image-search plugins
-  * [#0b0771a](https://github.com/edoardob90/chatgpt-telegram-bot/commit/0b0771a) small improvements
-  * [#cc9f33b](https://github.com/edoardob90/chatgpt-telegram-bot/commit/cc9f33b) decrease limit and handle null values
-  * [#fff035c](https://github.com/edoardob90/chatgpt-telegram-bot/commit/fff035c) check if a song is currently playing
-  * [#39542a9](https://github.com/edoardob90/chatgpt-telegram-bot/commit/39542a9) added missing argument
-  * [#5ea0e56](https://github.com/edoardob90/chatgpt-telegram-bot/commit/5ea0e56) fix broken import
-  * [#c1bfda4](https://github.com/edoardob90/chatgpt-telegram-bot/commit/c1bfda4) improvements and added initial spotify plugin
-  * [#d86cd38](https://github.com/edoardob90/chatgpt-telegram-bot/commit/d86cd38) update utils.py
-  * [#cf418a2](https://github.com/edoardob90/chatgpt-telegram-bot/commit/cf418a2) update README.md
-  * [#29ae491](https://github.com/edoardob90/chatgpt-telegram-bot/commit/29ae491) update README.md
-  * [#c34bd9f](https://github.com/edoardob90/chatgpt-telegram-bot/commit/c34bd9f) update README.md
-  * [#de3c6c5](https://github.com/edoardob90/chatgpt-telegram-bot/commit/de3c6c5) adjust imports
-  * [#302cdc0](https://github.com/edoardob90/chatgpt-telegram-bot/commit/302cdc0) various improvements and new plugins
-  * [#c9d9c75](https://github.com/edoardob90/chatgpt-telegram-bot/commit/c9d9c75) Update README.md
-  * [#23f0d66](https://github.com/edoardob90/chatgpt-telegram-bot/commit/23f0d66) reorganize folders
-  * [#b3d6f13](https://github.com/edoardob90/chatgpt-telegram-bot/commit/b3d6f13) Merge branch &#39;main&#39; into feature/support-functions
-  * [#0d0158e](https://github.com/edoardob90/chatgpt-telegram-bot/commit/0d0158e) extract latitude and longitude directly
-  * [#97f58b3](https://github.com/edoardob90/chatgpt-telegram-bot/commit/97f58b3) initial functions support and added weather func
-* ➡️ Pushed 4 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `main`
-  * [#0403e67](https://github.com/edoardob90/chatgpt-telegram-bot/commit/0403e67) Merge pull request #406 from Raixs/main
+* 🔃 Closed [#1 Forbidden push](https://github.com/edoardob90/test-repo/pull/1) in [edoardob90/test-repo](https://github.com/edoardob90/test-repo)
+  * 1 file changed `++2 --0`
+* #️⃣ Closed [#125 Show the proposed solutions to exercises](https://github.com/empa-scientific-it/python-tutorial/issues/125) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
+  * [#285620b](https://github.com/empa-scientific-it/python-tutorial/commit/285620b) Reveal reference solutions (#133)
 
-Show the command &#34;/image&#34; only if it is enabled in the configuration
-  * [#07e2bf9](https://github.com/edoardob90/chatgpt-telegram-bot/commit/07e2bf9) add comments
-  * [#70bd963](https://github.com/edoardob90/chatgpt-telegram-bot/commit/70bd963) Remove Imaging Data from the /stats Command
-  * [#4cff5b0](https://github.com/edoardob90/chatgpt-telegram-bot/commit/4cff5b0) Show /image only if it is enabled in settings
-* ⏺️ Created new branch main in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
-* ➡️ Pushed 1 commit in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
-  * [#dc2a419](https://github.com/edoardob90/chatgpt-telegram-bot/commit/dc2a419) Fix error with imported names
+Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
+Co-authored-by: Simone Baffelli &lt;simone.baffelli@empa.ch&gt;
+Co-authored-by: edoardob90 &lt;edoardob90@gmail.com&gt;
+* 🔃 Merged [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 12 files changed `++573 --324`
+* 🔍 Reviewed [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/reveal-solutions`
+  * [#229df5e](https://github.com/empa-scientific-it/python-tutorial/commit/229df5e) Ignore error in ipython_config file
+* 🔍 Reviewed [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/reveal-solutions`
+  * [#c810b57](https://github.com/empa-scientific-it/python-tutorial/commit/c810b57) Update binder/ipython_config.py
+* 🔍 Reviewed [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
 ---
