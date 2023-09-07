@@ -15,6 +15,15 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 2 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
+  * [#6d8b8fa](https://github.com/edoardob90/chatgpt-telegram-bot/commit/6d8b8fa) Merge branch &#39;main&#39; into custom
+* 🔃 Merged [#2 Merge upstream changes](https://github.com/edoardob90/chatgpt-telegram-bot/pull/2) in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
+  * 3 files changed `++4 --1`
+* ➡️ Pushed 1 commit in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `main`
+  * [#b046a58](https://github.com/edoardob90/chatgpt-telegram-bot/commit/b046a58) Merge upstream changes (#2)
+* 🔃 Opened [#2 Merge upstream changes](https://github.com/edoardob90/chatgpt-telegram-bot/pull/2) in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
+  * 3 files changed `++4 --1`
+* 🍽️ Forked [MattSLangford/Tiny-Theme-for-Micro.blog](https://github.com/MattSLangford/Tiny-Theme-for-Micro.blog) to [edoardob90/microblog-tiny-theme](https://github.com/edoardob90/microblog-tiny-theme)
 * 🔃 Closed [#1 Forbidden push](https://github.com/edoardob90/test-repo/pull/1) in [edoardob90/test-repo](https://github.com/edoardob90/test-repo)
   * 1 file changed `++2 --0`
 * #️⃣ Closed [#125 Show the proposed solutions to exercises](https://github.com/empa-scientific-it/python-tutorial/issues/125) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
@@ -26,13 +35,6 @@ Co-authored-by: Simone Baffelli &lt;simone.baffelli@empa.ch&gt;
 Co-authored-by: edoardob90 &lt;edoardob90@gmail.com&gt;
 * 🔃 Merged [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
   * 12 files changed `++573 --324`
-* 🔍 Reviewed [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/reveal-solutions`
-  * [#229df5e](https://github.com/empa-scientific-it/python-tutorial/commit/229df5e) Ignore error in ipython_config file
-* 🔍 Reviewed [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/reveal-solutions`
-  * [#c810b57](https://github.com/empa-scientific-it/python-tutorial/commit/c810b57) Update binder/ipython_config.py
-* 🔍 Reviewed [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * 🔍 Reviewed [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
