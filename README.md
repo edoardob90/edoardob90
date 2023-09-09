@@ -15,6 +15,11 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* 🔃 Opened [#421 Add command to change model](https://github.com/n3d1117/chatgpt-telegram-bot/pull/421) in [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)
+  * 6 files changed `++122 --44`
+* ➡️ Pushed 1 commit in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `feature/change-model-command`
+  * [#091a409](https://github.com/edoardob90/chatgpt-telegram-bot/commit/091a409) Fix formatting and imports
+* ⏺️ Created new branch feature/change-model-command in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
 * ➡️ Pushed 2 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
   * [#6d8b8fa](https://github.com/edoardob90/chatgpt-telegram-bot/commit/6d8b8fa) Merge branch &#39;main&#39; into custom
 * 🔃 Merged [#2 Merge upstream changes](https://github.com/edoardob90/chatgpt-telegram-bot/pull/2) in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
@@ -27,15 +32,6 @@ I'm Edoardo, and in just a few bullet points:
 * 🔃 Closed [#1 Forbidden push](https://github.com/edoardob90/test-repo/pull/1) in [edoardob90/test-repo](https://github.com/edoardob90/test-repo)
   * 1 file changed `++2 --0`
 * #️⃣ Closed [#125 Show the proposed solutions to exercises](https://github.com/empa-scientific-it/python-tutorial/issues/125) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#285620b](https://github.com/empa-scientific-it/python-tutorial/commit/285620b) Reveal reference solutions (#133)
-
-Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
-Co-authored-by: Simone Baffelli &lt;simone.baffelli@empa.ch&gt;
-Co-authored-by: edoardob90 &lt;edoardob90@gmail.com&gt;
-* 🔃 Merged [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 12 files changed `++573 --324`
-* 🔍 Reviewed [#133 Reveal reference solutions](https://github.com/empa-scientific-it/python-tutorial/pull/133) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
 ---
