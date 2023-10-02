@@ -16,28 +16,27 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
+  * [#fa6edf6](https://github.com/edoardob90/microblog-paperesque/commit/fa6edf6) Update archive
+* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
+  * [#1a124f9](https://github.com/edoardob90/microblog-paperesque/commit/1a124f9) Update terms
+* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
+  * [#05c7f4f](https://github.com/edoardob90/microblog-paperesque/commit/05c7f4f) Update list
+* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
+  * [#68bc457](https://github.com/edoardob90/microblog-paperesque/commit/68bc457) Update archive, taxonomy
+* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
+  * [#65b133c](https://github.com/edoardob90/microblog-paperesque/commit/65b133c) Rename taxonomy templates
+* ➡️ Pushed 2 commits in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
+  * [#5078eab](https://github.com/edoardob90/microblog-paperesque/commit/5078eab) Add taxonomy templates
+  * [#eb906e7](https://github.com/edoardob90/microblog-paperesque/commit/eb906e7) Update archive
+* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
+  * [#0c3d624](https://github.com/edoardob90/microblog-paperesque/commit/0c3d624) Add archive template plus microblog_head
+* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
   * [#f82485d](https://github.com/edoardob90/microblog-paperesque/commit/f82485d) Fix layouts not working with microblog_head
 * ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
   * [#622dce8](https://github.com/edoardob90/microblog-paperesque/commit/622dce8) Update footer nav links
 * ➡️ Pushed 2 commits in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
   * [#765993b](https://github.com/edoardob90/microblog-paperesque/commit/765993b) Update layouts, add Microblog tags
   * [#c051572](https://github.com/edoardob90/microblog-paperesque/commit/c051572) Update index
-* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
-  * [#ef0b04b](https://github.com/edoardob90/microblog-paperesque/commit/ef0b04b) Update single and single-article
-* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
-  * [#8161231](https://github.com/edoardob90/microblog-paperesque/commit/8161231) Update single-article
-* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
-  * [#df4595c](https://github.com/edoardob90/microblog-paperesque/commit/df4595c) Update list, single-page, right-links
-* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
-  * [#5678298](https://github.com/edoardob90/microblog-paperesque/commit/5678298) Update single, index, right-links
-* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
-  * [#3488c8e](https://github.com/edoardob90/microblog-paperesque/commit/3488c8e) Remove unused dirs
-* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
-  * [#a3c2fbf](https://github.com/edoardob90/microblog-paperesque/commit/a3c2fbf) Custom single template
-* ➡️ Pushed 3 commits in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
-  * [#6f900ec](https://github.com/edoardob90/microblog-paperesque/commit/6f900ec) Update single template
-  * [#aecb961](https://github.com/edoardob90/microblog-paperesque/commit/aecb961) Update index.html
-  * [#f50240e](https://github.com/edoardob90/microblog-paperesque/commit/f50240e) Add plugin.json; remove taxonomy directory
 
 
 ---
