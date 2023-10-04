@@ -15,27 +15,27 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
-  * [#e200c68](https://github.com/edoardob90/microblog-paperesque/commit/e200c68) Rewrite nav bar as a partial
-* ➡️ Pushed 2 commits in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
-  * [#7bbc688](https://github.com/edoardob90/microblog-paperesque/commit/7bbc688) Rewrite nav bar as a partial
-  * [#f808c70](https://github.com/edoardob90/microblog-paperesque/commit/f808c70) Update replies and related templates
-* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
-  * [#dd867dd](https://github.com/edoardob90/microblog-paperesque/commit/dd867dd) Update replies
-* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
-  * [#a89d80e](https://github.com/edoardob90/microblog-paperesque/commit/a89d80e) Update replies
-* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
-  * [#d107b9d](https://github.com/edoardob90/microblog-paperesque/commit/d107b9d) Change block &#34;content&#34; to &#34;main&#34;
-* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
-  * [#fa6edf6](https://github.com/edoardob90/microblog-paperesque/commit/fa6edf6) Update archive
-* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
-  * [#1a124f9](https://github.com/edoardob90/microblog-paperesque/commit/1a124f9) Update terms
-* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
-  * [#05c7f4f](https://github.com/edoardob90/microblog-paperesque/commit/05c7f4f) Update list
-* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
-  * [#68bc457](https://github.com/edoardob90/microblog-paperesque/commit/68bc457) Update archive, taxonomy
-* ➡️ Pushed 1 commit in [edoardob90/microblog-paperesque](https://github.com/edoardob90/microblog-paperesque) on branch `main`
-  * [#65b133c](https://github.com/edoardob90/microblog-paperesque/commit/65b133c) Rename taxonomy templates
+* 🔃 Opened [#139 Fix repo2docker version](https://github.com/empa-scientific-it/python-tutorial/pull/139) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 1 file changed `++1 --0`
+* ⏺️ Created new branch fix/build-docker-image-workflow in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔃 Closed [#138 Fix version of repo2docker](https://github.com/empa-scientific-it/python-tutorial/pull/138) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 2 files changed `++85 --6`
+* 🔃 Opened [#138 Fix version of repo2docker](https://github.com/empa-scientific-it/python-tutorial/pull/138) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 2 files changed `++85 --6`
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
+  * [#a49866d](https://github.com/empa-scientific-it/python-tutorial/commit/a49866d) Correct name of repo2docker package
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
+  * [#76eb66d](https://github.com/empa-scientific-it/python-tutorial/commit/76eb66d) Fix repo2docker version
+
+Hopefully fixes the error with Mamba when building the Docker container
+* ⏺️ Created new branch feature/build-docker-image in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* #️⃣ Closed [#136 ModuleNotFoundError Traceback](https://github.com/empa-scientific-it/python-tutorial/issues/136) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
+  * [#be74474](https://github.com/empa-scientific-it/python-tutorial/commit/be74474) Automatically build Docker image from the repository (#80)
+
+Co-authored-by: Simone Baffelli &lt;simone.baffelli@gmail.com&gt;
+* 🔃 Merged [#80 Automatically build Docker image from the repository](https://github.com/empa-scientific-it/python-tutorial/pull/80) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 2 files changed `++84 --6`
 
 
 ---
