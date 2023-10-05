@@ -15,6 +15,15 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
+  * [#0aadc7e](https://github.com/empa-scientific-it/cscs-keygen/commit/0aadc7e) Add subcommands
+* 🔃 Closed [#421 Add command to change model](https://github.com/n3d1117/chatgpt-telegram-bot/pull/421) in [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)
+  * 6 files changed `++122 --44`
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
+  * [#b59b378](https://github.com/empa-scientific-it/python-tutorial/commit/b59b378) [pre-commit.ci] pre-commit autoupdate (#137)
+* 🔃 Merged [#137 [pre-commit.ci] pre-commit autoupdate](https://github.com/empa-scientific-it/python-tutorial/pull/137) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 1 file changed `++6 --6`
+* 🔍 Reviewed [#137 [pre-commit.ci] pre-commit autoupdate](https://github.com/empa-scientific-it/python-tutorial/pull/137) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * 🔃 Opened [#139 Fix repo2docker version](https://github.com/empa-scientific-it/python-tutorial/pull/139) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
   * 1 file changed `++1 --0`
 * ⏺️ Created new branch fix/build-docker-image-workflow in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
@@ -24,18 +33,6 @@ I'm Edoardo, and in just a few bullet points:
   * 2 files changed `++85 --6`
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
   * [#a49866d](https://github.com/empa-scientific-it/python-tutorial/commit/a49866d) Correct name of repo2docker package
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `feature/build-docker-image`
-  * [#76eb66d](https://github.com/empa-scientific-it/python-tutorial/commit/76eb66d) Fix repo2docker version
-
-Hopefully fixes the error with Mamba when building the Docker container
-* ⏺️ Created new branch feature/build-docker-image in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* #️⃣ Closed [#136 ModuleNotFoundError Traceback](https://github.com/empa-scientific-it/python-tutorial/issues/136) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#be74474](https://github.com/empa-scientific-it/python-tutorial/commit/be74474) Automatically build Docker image from the repository (#80)
-
-Co-authored-by: Simone Baffelli &lt;simone.baffelli@gmail.com&gt;
-* 🔃 Merged [#80 Automatically build Docker image from the repository](https://github.com/empa-scientific-it/python-tutorial/pull/80) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 2 files changed `++84 --6`
 
 
 ---
