@@ -15,23 +15,26 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
+  * [#71f6877](https://github.com/edoardob90/microdotblog-theme-edobld/commit/71f6877) Update style, rename assets folder
+* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
+  * [#18652ac](https://github.com/edoardob90/microdotblog-theme-edobld/commit/18652ac) Update package-lock.json
+* ➡️ Pushed 3 commits in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
+  * [#4cce5d0](https://github.com/edoardob90/microdotblog-theme-edobld/commit/4cce5d0) Merge branch &#39;main&#39; of https://github.com/edoardob90/microdotblog-theme-edobld
+* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
+  * [#f551643](https://github.com/edoardob90/microdotblog-theme-edobld/commit/f551643) Create dependabot.yml
+* ➡️ Pushed 2 commits in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
+  * [#d8c1975](https://github.com/edoardob90/microdotblog-theme-edobld/commit/d8c1975) Add Tailwind GitHub workflow
+  * [#aa17e58](https://github.com/edoardob90/microdotblog-theme-edobld/commit/aa17e58) Update style
+* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
+  * [#9a95473](https://github.com/edoardob90/microdotblog-theme-edobld/commit/9a95473) Update styles
+* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
+  * [#242e371](https://github.com/edoardob90/microdotblog-theme-edobld/commit/242e371) Update readme.md
+* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
+  * [#62c74d8](https://github.com/edoardob90/microdotblog-theme-edobld/commit/62c74d8) Personal customizations
 * 🍽️ Forked [kottkrig/microdotblog-theme-johanl](https://github.com/kottkrig/microdotblog-theme-johanl) to [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld)
 * ➡️ Pushed 1 commit in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
   * [#c421a82](https://github.com/empa-scientific-it/cscs-keygen/commit/c421a82) Update requirements
-* ➡️ Pushed 1 commit in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
-  * [#cb2cc61](https://github.com/empa-scientific-it/cscs-keygen/commit/cb2cc61) Update deps
-* ➡️ Pushed 3 commits in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
-  * [#fb0a777](https://github.com/empa-scientific-it/cscs-keygen/commit/fb0a777) Merge branch &#39;creds-helper&#39; of github.com:empa-scientific-it/cscs-keygen into creds-helper
-* #️⃣ Reopened [#136 ModuleNotFoundError Traceback](https://github.com/empa-scientific-it/python-tutorial/issues/136) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔃 Opened [#140 Fix building Binder image](https://github.com/empa-scientific-it/python-tutorial/pull/140) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 1 file changed `++1 --1`
-* ⏺️ Created new branch fix/binder-image-build in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
-  * [#0aadc7e](https://github.com/empa-scientific-it/cscs-keygen/commit/0aadc7e) Add subcommands
-* 🔃 Closed [#421 Add command to change model](https://github.com/n3d1117/chatgpt-telegram-bot/pull/421) in [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)
-  * 6 files changed `++122 --44`
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#b59b378](https://github.com/empa-scientific-it/python-tutorial/commit/b59b378) [pre-commit.ci] pre-commit autoupdate (#137)
 
 
 ---
