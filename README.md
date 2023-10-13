@@ -15,6 +15,27 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 2 commits in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
+  * [#e2a92d5](https://github.com/edoardob90/microdotblog-theme-edobld/commit/e2a92d5) Merge branch &#39;main&#39; of https://github.com/edoardob90/microdotblog-theme-edobld
+* ➡️ Pushed 3 commits in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
+  * [#76b0fc9](https://github.com/edoardob90/microdotblog-theme-edobld/commit/76b0fc9) Merge branch &#39;main&#39; of https://github.com/edoardob90/microdotblog-theme-edobld
+* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
+  * [#e77dc57](https://github.com/edoardob90/microdotblog-theme-edobld/commit/e77dc57) Bump postcss-cli from 9.1.0 to 10.1.0 (#3)
+
+Bumps [postcss-cli](https://github.com/postcss/postcss-cli) from 9.1.0 to 10.1.0.
+- [Release notes](https://github.com/postcss/postcss-cli/releases)
+- [Changelog](https://github.com/postcss/postcss-cli/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/postcss/postcss-cli/compare/9.1.0...10.1.0)
+
+---
+updated-dependencies:
+- dependency-name: postcss-cli
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
 * ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
   * [#71f6877](https://github.com/edoardob90/microdotblog-theme-edobld/commit/71f6877) Update style, rename assets folder
 * ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
@@ -30,11 +51,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#9a95473](https://github.com/edoardob90/microdotblog-theme-edobld/commit/9a95473) Update styles
 * ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
   * [#242e371](https://github.com/edoardob90/microdotblog-theme-edobld/commit/242e371) Update readme.md
-* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
-  * [#62c74d8](https://github.com/edoardob90/microdotblog-theme-edobld/commit/62c74d8) Personal customizations
-* 🍽️ Forked [kottkrig/microdotblog-theme-johanl](https://github.com/kottkrig/microdotblog-theme-johanl) to [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld)
-* ➡️ Pushed 1 commit in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
-  * [#c421a82](https://github.com/empa-scientific-it/cscs-keygen/commit/c421a82) Update requirements
 
 
 ---
