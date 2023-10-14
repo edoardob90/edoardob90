@@ -15,42 +15,28 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 2 commits in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
-  * [#e2a92d5](https://github.com/edoardob90/microdotblog-theme-edobld/commit/e2a92d5) Merge branch &#39;main&#39; of https://github.com/edoardob90/microdotblog-theme-edobld
-* ➡️ Pushed 3 commits in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
-  * [#76b0fc9](https://github.com/edoardob90/microdotblog-theme-edobld/commit/76b0fc9) Merge branch &#39;main&#39; of https://github.com/edoardob90/microdotblog-theme-edobld
 * ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
-  * [#e77dc57](https://github.com/edoardob90/microdotblog-theme-edobld/commit/e77dc57) Bump postcss-cli from 9.1.0 to 10.1.0 (#3)
-
-Bumps [postcss-cli](https://github.com/postcss/postcss-cli) from 9.1.0 to 10.1.0.
-- [Release notes](https://github.com/postcss/postcss-cli/releases)
-- [Changelog](https://github.com/postcss/postcss-cli/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/postcss/postcss-cli/compare/9.1.0...10.1.0)
-
----
-updated-dependencies:
-- dependency-name: postcss-cli
-  dependency-type: direct:development
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
-* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
-  * [#71f6877](https://github.com/edoardob90/microdotblog-theme-edobld/commit/71f6877) Update style, rename assets folder
-* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
-  * [#18652ac](https://github.com/edoardob90/microdotblog-theme-edobld/commit/18652ac) Update package-lock.json
-* ➡️ Pushed 3 commits in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
-  * [#4cce5d0](https://github.com/edoardob90/microdotblog-theme-edobld/commit/4cce5d0) Merge branch &#39;main&#39; of https://github.com/edoardob90/microdotblog-theme-edobld
-* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
-  * [#f551643](https://github.com/edoardob90/microdotblog-theme-edobld/commit/f551643) Create dependabot.yml
-* ➡️ Pushed 2 commits in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
-  * [#d8c1975](https://github.com/edoardob90/microdotblog-theme-edobld/commit/d8c1975) Add Tailwind GitHub workflow
-  * [#aa17e58](https://github.com/edoardob90/microdotblog-theme-edobld/commit/aa17e58) Update style
-* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
-  * [#9a95473](https://github.com/edoardob90/microdotblog-theme-edobld/commit/9a95473) Update styles
-* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
-  * [#242e371](https://github.com/edoardob90/microdotblog-theme-edobld/commit/242e371) Update readme.md
+  * [#e1929f3](https://github.com/edoardob90/microdotblog-theme-edobld/commit/e1929f3) Add taxonomy term template
+* ➡️ Pushed 1 commit in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
+  * [#66f0c38](https://github.com/empa-scientific-it/cscs-keygen/commit/66f0c38) Remove duplicated line
+* ➡️ Pushed 1 commit in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
+  * [#e389c77](https://github.com/empa-scientific-it/cscs-keygen/commit/e389c77) Update README
+* ➡️ Pushed 2 commits in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
+  * [#721a1f1](https://github.com/empa-scientific-it/cscs-keygen/commit/721a1f1) Update README from &#39;main&#39;
+  * [#20b8c48](https://github.com/empa-scientific-it/cscs-keygen/commit/20b8c48) Update README.md
+* ➡️ Pushed 1 commit in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
+  * [#689dc84](https://github.com/empa-scientific-it/cscs-keygen/commit/689dc84) Bug: repeated line
+* 🔃 Opened [#141 Add issue templates](https://github.com/empa-scientific-it/python-tutorial/pull/141) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 2 files changed `++46 --0`
+* ⏺️ Created new branch issue-templates in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `issue-templates`
+  * [#2c61d00](https://github.com/empa-scientific-it/python-tutorial/commit/2c61d00) Add issue templates
+* ➡️ Pushed 3 commits in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
+  * [#3a603d3](https://github.com/empa-scientific-it/cscs-keygen/commit/3a603d3) Update pyproject
+  * [#d0fc82e](https://github.com/empa-scientific-it/cscs-keygen/commit/d0fc82e) Rename package
+  * [#3c3fcdc](https://github.com/empa-scientific-it/cscs-keygen/commit/3c3fcdc) Reformat script with mutliple commands
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#a34b8ef](https://github.com/edoardob90/dotfiles/commit/a34b8ef) Fix encrypted SSH config
 
 
 ---
