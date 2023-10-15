@@ -16,6 +16,20 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
+  * [#96ec0a4](https://github.com/edoardob90/microdotblog-theme-edobld/commit/96ec0a4) Small fix to post template
+* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
+  * [#729267d](https://github.com/edoardob90/microdotblog-theme-edobld/commit/729267d) Add support for plugins (#6)
+
+* Add support for plugins
+* Styling for reply buttons
+* 🔃 Merged [#6 Add support for plugins](https://github.com/edoardob90/microdotblog-theme-edobld/pull/6) in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld)
+  * 2 files changed `++26 --8`
+* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `add-plugins`
+  * [#a21e3c9](https://github.com/edoardob90/microdotblog-theme-edobld/commit/a21e3c9) Styling for reply buttons
+* 🔃 Opened [#6 Add support for plugins](https://github.com/edoardob90/microdotblog-theme-edobld/pull/6) in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld)
+  * 1 file changed `++24 --7`
+* ⏺️ Created new branch add-plugins in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld)
+* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
   * [#e1929f3](https://github.com/edoardob90/microdotblog-theme-edobld/commit/e1929f3) Add taxonomy term template
 * ➡️ Pushed 1 commit in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
   * [#66f0c38](https://github.com/empa-scientific-it/cscs-keygen/commit/66f0c38) Remove duplicated line
@@ -24,19 +38,6 @@ I'm Edoardo, and in just a few bullet points:
 * ➡️ Pushed 2 commits in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
   * [#721a1f1](https://github.com/empa-scientific-it/cscs-keygen/commit/721a1f1) Update README from &#39;main&#39;
   * [#20b8c48](https://github.com/empa-scientific-it/cscs-keygen/commit/20b8c48) Update README.md
-* ➡️ Pushed 1 commit in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
-  * [#689dc84](https://github.com/empa-scientific-it/cscs-keygen/commit/689dc84) Bug: repeated line
-* 🔃 Opened [#141 Add issue templates](https://github.com/empa-scientific-it/python-tutorial/pull/141) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 2 files changed `++46 --0`
-* ⏺️ Created new branch issue-templates in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `issue-templates`
-  * [#2c61d00](https://github.com/empa-scientific-it/python-tutorial/commit/2c61d00) Add issue templates
-* ➡️ Pushed 3 commits in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
-  * [#3a603d3](https://github.com/empa-scientific-it/cscs-keygen/commit/3a603d3) Update pyproject
-  * [#d0fc82e](https://github.com/empa-scientific-it/cscs-keygen/commit/d0fc82e) Rename package
-  * [#3c3fcdc](https://github.com/empa-scientific-it/cscs-keygen/commit/3c3fcdc) Reformat script with mutliple commands
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#a34b8ef](https://github.com/edoardob90/dotfiles/commit/a34b8ef) Fix encrypted SSH config
 
 
 ---
