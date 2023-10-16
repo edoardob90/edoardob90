@@ -15,29 +15,26 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
-  * [#96ec0a4](https://github.com/edoardob90/microdotblog-theme-edobld/commit/96ec0a4) Small fix to post template
-* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
-  * [#729267d](https://github.com/edoardob90/microdotblog-theme-edobld/commit/729267d) Add support for plugins (#6)
+* ➡️ Pushed 1 commit in [edoardob90/plugin-katex](https://github.com/edoardob90/plugin-katex) on branch `main`
+  * [#c838576](https://github.com/edoardob90/plugin-katex/commit/c838576) Fix
+* ➡️ Pushed 1 commit in [edoardob90/plugin-katex](https://github.com/edoardob90/plugin-katex) on branch `main`
+  * [#04f4e8a](https://github.com/edoardob90/plugin-katex/commit/04f4e8a) Reorder files
+* ➡️ Pushed 1 commit in [edoardob90/plugin-katex](https://github.com/edoardob90/plugin-katex) on branch `main`
+  * [#a539438](https://github.com/edoardob90/plugin-katex/commit/a539438) Rename folders
+* ➡️ Pushed 1 commit in [edoardob90/plugin-katex](https://github.com/edoardob90/plugin-katex) on branch `main`
+  * [#7a9c692](https://github.com/edoardob90/plugin-katex/commit/7a9c692) Fix css path
+* ➡️ Pushed 1 commit in [edoardob90/plugin-katex](https://github.com/edoardob90/plugin-katex) on branch `main`
+  * [#7657626](https://github.com/edoardob90/plugin-katex/commit/7657626) fonts: use absolute paths
+* ➡️ Pushed 1 commit in [edoardob90/plugin-katex](https://github.com/edoardob90/plugin-katex) on branch `main`
+  * [#7b6d840](https://github.com/edoardob90/plugin-katex/commit/7b6d840) Change fonts url path
+* ➡️ Pushed 1 commit in [edoardob90/plugin-katex](https://github.com/edoardob90/plugin-katex) on branch `main`
+  * [#0acad86](https://github.com/edoardob90/plugin-katex/commit/0acad86) Change fonts directory
 
-* Add support for plugins
-* Styling for reply buttons
-* 🔃 Merged [#6 Add support for plugins](https://github.com/edoardob90/microdotblog-theme-edobld/pull/6) in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld)
-  * 2 files changed `++26 --8`
-* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `add-plugins`
-  * [#a21e3c9](https://github.com/edoardob90/microdotblog-theme-edobld/commit/a21e3c9) Styling for reply buttons
-* 🔃 Opened [#6 Add support for plugins](https://github.com/edoardob90/microdotblog-theme-edobld/pull/6) in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld)
-  * 1 file changed `++24 --7`
-* ⏺️ Created new branch add-plugins in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld)
-* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
-  * [#e1929f3](https://github.com/edoardob90/microdotblog-theme-edobld/commit/e1929f3) Add taxonomy term template
-* ➡️ Pushed 1 commit in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
-  * [#66f0c38](https://github.com/empa-scientific-it/cscs-keygen/commit/66f0c38) Remove duplicated line
-* ➡️ Pushed 1 commit in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
-  * [#e389c77](https://github.com/empa-scientific-it/cscs-keygen/commit/e389c77) Update README
-* ➡️ Pushed 2 commits in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
-  * [#721a1f1](https://github.com/empa-scientific-it/cscs-keygen/commit/721a1f1) Update README from &#39;main&#39;
-  * [#20b8c48](https://github.com/empa-scientific-it/cscs-keygen/commit/20b8c48) Update README.md
+This is to prevent preloading all the fonts even when unnecessary
+* ➡️ Pushed 1 commit in [edoardob90/plugin-katex](https://github.com/edoardob90/plugin-katex) on branch `main`
+  * [#c2b9f24](https://github.com/edoardob90/plugin-katex/commit/c2b9f24) Simplify head
+* ⏺️ Created new branch main in [edoardob90/plugin-katex](https://github.com/edoardob90/plugin-katex)
+* ⏺️ Created new repository  [edoardob90/plugin-katex](https://github.com/edoardob90/plugin-katex)
 
 
 ---
