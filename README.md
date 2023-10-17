@@ -15,6 +15,14 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#9fcba80](https://github.com/edoardob90/finance-tracker-bot/commit/9fcba80) Remove unused deps
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#76f5306](https://github.com/edoardob90/finance-tracker-bot/commit/76f5306) Fix Python version to 3.11
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#38751b3](https://github.com/edoardob90/finance-tracker-bot/commit/38751b3) Remove Postgres dependencies
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#652c727](https://github.com/edoardob90/finance-tracker-bot/commit/652c727) fix: fallback to PicklePersistence
 * ➡️ Pushed 1 commit in [edoardob90/plugin-katex](https://github.com/edoardob90/plugin-katex) on branch `main`
   * [#c838576](https://github.com/edoardob90/plugin-katex/commit/c838576) Fix
 * ➡️ Pushed 1 commit in [edoardob90/plugin-katex](https://github.com/edoardob90/plugin-katex) on branch `main`
@@ -27,14 +35,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#7657626](https://github.com/edoardob90/plugin-katex/commit/7657626) fonts: use absolute paths
 * ➡️ Pushed 1 commit in [edoardob90/plugin-katex](https://github.com/edoardob90/plugin-katex) on branch `main`
   * [#7b6d840](https://github.com/edoardob90/plugin-katex/commit/7b6d840) Change fonts url path
-* ➡️ Pushed 1 commit in [edoardob90/plugin-katex](https://github.com/edoardob90/plugin-katex) on branch `main`
-  * [#0acad86](https://github.com/edoardob90/plugin-katex/commit/0acad86) Change fonts directory
-
-This is to prevent preloading all the fonts even when unnecessary
-* ➡️ Pushed 1 commit in [edoardob90/plugin-katex](https://github.com/edoardob90/plugin-katex) on branch `main`
-  * [#c2b9f24](https://github.com/edoardob90/plugin-katex/commit/c2b9f24) Simplify head
-* ⏺️ Created new branch main in [edoardob90/plugin-katex](https://github.com/edoardob90/plugin-katex)
-* ⏺️ Created new repository  [edoardob90/plugin-katex](https://github.com/edoardob90/plugin-katex)
 
 
 ---
