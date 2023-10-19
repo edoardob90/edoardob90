@@ -15,6 +15,7 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* #️⃣ Opened [#148 Careful to support only Python &gt; 3.10 language features](https://github.com/empa-scientific-it/python-tutorial/issues/148) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 5 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
   * [#edab68b](https://github.com/edoardob90/chatgpt-telegram-bot/commit/edab68b) Merge branch &#39;main&#39; into custom
 * ➡️ Pushed 4 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `main`
@@ -38,8 +39,6 @@ Add &#34;prompting&#34; to whisper
   * [#38751b3](https://github.com/edoardob90/finance-tracker-bot/commit/38751b3) Remove Postgres dependencies
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
   * [#652c727](https://github.com/edoardob90/finance-tracker-bot/commit/652c727) fix: fallback to PicklePersistence
-* ➡️ Pushed 1 commit in [edoardob90/plugin-katex](https://github.com/edoardob90/plugin-katex) on branch `main`
-  * [#c838576](https://github.com/edoardob90/plugin-katex/commit/c838576) Fix
 
 
 ---
