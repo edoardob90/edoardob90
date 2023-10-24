@@ -15,6 +15,14 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 3 commits in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
+  * [#a5bd67c](https://github.com/edoardob90/aoc-py-template/commit/a5bd67c) Add README and license
+  * [#c956a14](https://github.com/edoardob90/aoc-py-template/commit/c956a14) Setup template config and scripts
+  * [#8a93bc6](https://github.com/edoardob90/aoc-py-template/commit/8a93bc6) AoC copier template
+* ⏺️ Created new branch main in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template)
+* ⏺️ Created new repository  [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/extend-toc-cli`
+  * [#8977566](https://github.com/empa-scientific-it/python-tutorial/commit/8977566) Squash-merge branch &#39;main&#39;
 * #️⃣ Opened [#148 Careful to support only Python &gt; 3.10 language features](https://github.com/empa-scientific-it/python-tutorial/issues/148) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 5 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
   * [#edab68b](https://github.com/edoardob90/chatgpt-telegram-bot/commit/edab68b) Merge branch &#39;main&#39; into custom
@@ -31,14 +39,6 @@ Add &#34;prompting&#34; to whisper
   * 3 files changed `++4 --1`
 * 🔃 Opened [#3 Merge upstream changes](https://github.com/edoardob90/chatgpt-telegram-bot/pull/3) in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
   * 3 files changed `++4 --1`
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#9fcba80](https://github.com/edoardob90/finance-tracker-bot/commit/9fcba80) Remove unused deps
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#76f5306](https://github.com/edoardob90/finance-tracker-bot/commit/76f5306) Fix Python version to 3.11
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#38751b3](https://github.com/edoardob90/finance-tracker-bot/commit/38751b3) Remove Postgres dependencies
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
-  * [#652c727](https://github.com/edoardob90/finance-tracker-bot/commit/652c727) fix: fallback to PicklePersistence
 
 
 ---
