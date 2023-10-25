@@ -15,6 +15,8 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
+  * [#48fdd6c](https://github.com/edoardob90/aoc-py-template/commit/48fdd6c) Remove files
 * ➡️ Pushed 3 commits in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
   * [#a5bd67c](https://github.com/edoardob90/aoc-py-template/commit/a5bd67c) Add README and license
   * [#c956a14](https://github.com/edoardob90/aoc-py-template/commit/c956a14) Setup template config and scripts
@@ -36,8 +38,6 @@ Add &#34;prompting&#34; to whisper
 * ➡️ Pushed 1 commit in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `main`
   * [#b7923f0](https://github.com/edoardob90/chatgpt-telegram-bot/commit/b7923f0) Merge latest upstream changes (#3)
 * 🔃 Merged [#3 Merge latest upstream changes](https://github.com/edoardob90/chatgpt-telegram-bot/pull/3) in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
-  * 3 files changed `++4 --1`
-* 🔃 Opened [#3 Merge upstream changes](https://github.com/edoardob90/chatgpt-telegram-bot/pull/3) in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
   * 3 files changed `++4 --1`
 
 
