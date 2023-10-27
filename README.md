@@ -16,6 +16,10 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
+  * [#0fbb953](https://github.com/edoardob90/aoc-py-template/commit/0fbb953) Fix default dest dir
+* ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
+  * [#2f3d92d](https://github.com/edoardob90/aoc-py-template/commit/2f3d92d) Update
+* ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
   * [#48fdd6c](https://github.com/edoardob90/aoc-py-template/commit/48fdd6c) Remove files
 * ➡️ Pushed 3 commits in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
   * [#a5bd67c](https://github.com/edoardob90/aoc-py-template/commit/a5bd67c) Add README and license
@@ -35,10 +39,6 @@ Add &#34;prompting&#34; to whisper
   * [#3e41071](https://github.com/edoardob90/chatgpt-telegram-bot/commit/3e41071) align with the behavior of other variables
   * [#a4f1cea](https://github.com/edoardob90/chatgpt-telegram-bot/commit/a4f1cea) Merge branch &#39;n3d1117:main&#39; into main
   * [#84514ef](https://github.com/edoardob90/chatgpt-telegram-bot/commit/84514ef) Add directions to whisper
-* ➡️ Pushed 1 commit in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `main`
-  * [#b7923f0](https://github.com/edoardob90/chatgpt-telegram-bot/commit/b7923f0) Merge latest upstream changes (#3)
-* 🔃 Merged [#3 Merge latest upstream changes](https://github.com/edoardob90/chatgpt-telegram-bot/pull/3) in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot)
-  * 3 files changed `++4 --1`
 
 
 ---
