@@ -16,29 +16,25 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
-  * [#0fbb953](https://github.com/edoardob90/aoc-py-template/commit/0fbb953) Fix default dest dir
+  * [#96b11d1](https://github.com/edoardob90/aoc-py-template/commit/96b11d1) Fix image url
 * ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
-  * [#2f3d92d](https://github.com/edoardob90/aoc-py-template/commit/2f3d92d) Update
+  * [#f80b94a](https://github.com/edoardob90/aoc-py-template/commit/f80b94a) Use pre-built image on ghcr.io
+* ➡️ Pushed 1 commit in [edoardob90/aoc2023](https://github.com/edoardob90/aoc2023) on branch `main`
+  * [#cda2a0b](https://github.com/edoardob90/aoc2023/commit/cda2a0b) Use latest aoc-py-template image
 * ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
-  * [#48fdd6c](https://github.com/edoardob90/aoc-py-template/commit/48fdd6c) Remove files
-* ➡️ Pushed 3 commits in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
-  * [#a5bd67c](https://github.com/edoardob90/aoc-py-template/commit/a5bd67c) Add README and license
-  * [#c956a14](https://github.com/edoardob90/aoc-py-template/commit/c956a14) Setup template config and scripts
-  * [#8a93bc6](https://github.com/edoardob90/aoc-py-template/commit/8a93bc6) AoC copier template
-* ⏺️ Created new branch main in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template)
-* ⏺️ Created new repository  [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/extend-toc-cli`
-  * [#8977566](https://github.com/empa-scientific-it/python-tutorial/commit/8977566) Squash-merge branch &#39;main&#39;
-* #️⃣ Opened [#148 Careful to support only Python &gt; 3.10 language features](https://github.com/empa-scientific-it/python-tutorial/issues/148) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 5 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `custom`
-  * [#edab68b](https://github.com/edoardob90/chatgpt-telegram-bot/commit/edab68b) Merge branch &#39;main&#39; into custom
-* ➡️ Pushed 4 commits in [edoardob90/chatgpt-telegram-bot](https://github.com/edoardob90/chatgpt-telegram-bot) on branch `main`
-  * [#2ed7c15](https://github.com/edoardob90/chatgpt-telegram-bot/commit/2ed7c15) Merge pull request #418 from Raixs/main
-
-Add &#34;prompting&#34; to whisper
-  * [#3e41071](https://github.com/edoardob90/chatgpt-telegram-bot/commit/3e41071) align with the behavior of other variables
-  * [#a4f1cea](https://github.com/edoardob90/chatgpt-telegram-bot/commit/a4f1cea) Merge branch &#39;n3d1117:main&#39; into main
-  * [#84514ef](https://github.com/edoardob90/chatgpt-telegram-bot/commit/84514ef) Add directions to whisper
+  * [#2d39d7a](https://github.com/edoardob90/aoc-py-template/commit/2d39d7a) Fix image tag
+* ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
+  * [#ac61bd8](https://github.com/edoardob90/aoc-py-template/commit/ac61bd8) Update permissions
+* ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
+  * [#d3a28ca](https://github.com/edoardob90/aoc-py-template/commit/d3a28ca) Add workflow to build docker image
+* ➡️ Pushed 1 commit in [edoardob90/aoc2023](https://github.com/edoardob90/aoc2023) on branch `main`
+  * [#ebc0023](https://github.com/edoardob90/aoc2023/commit/ebc0023) Add GitHub workflow (#2)
+* 🔃 Merged [#2 Add GitHub workflow](https://github.com/edoardob90/aoc2023/pull/2) in [edoardob90/aoc2023](https://github.com/edoardob90/aoc2023)
+  * 1 file changed `++34 --0`
+* ➡️ Pushed 1 commit in [edoardob90/aoc2023](https://github.com/edoardob90/aoc2023) on branch `github-workflow`
+  * [#fba9829](https://github.com/edoardob90/aoc2023/commit/fba9829) Remove &#39;push&#39; event
+* 🔃 Opened [#2 Add GitHub workflow](https://github.com/edoardob90/aoc2023/pull/2) in [edoardob90/aoc2023](https://github.com/edoardob90/aoc2023)
+  * 1 file changed `++37 --0`
 
 
 ---
