@@ -15,6 +15,8 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/google-sheet-flask](https://github.com/edoardob90/google-sheet-flask) on branch `main`
+  * [#6d47e5d](https://github.com/edoardob90/google-sheet-flask/commit/6d47e5d) Initial big refactor
 * ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
   * [#96b11d1](https://github.com/edoardob90/aoc-py-template/commit/96b11d1) Fix image url
 * ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
@@ -33,8 +35,6 @@ I'm Edoardo, and in just a few bullet points:
   * 1 file changed `++34 --0`
 * ➡️ Pushed 1 commit in [edoardob90/aoc2023](https://github.com/edoardob90/aoc2023) on branch `github-workflow`
   * [#fba9829](https://github.com/edoardob90/aoc2023/commit/fba9829) Remove &#39;push&#39; event
-* 🔃 Opened [#2 Add GitHub workflow](https://github.com/edoardob90/aoc2023/pull/2) in [edoardob90/aoc2023](https://github.com/edoardob90/aoc2023)
-  * 1 file changed `++37 --0`
 
 
 ---
