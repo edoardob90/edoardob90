@@ -15,26 +15,25 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#95c84ae](https://github.com/edoardob90/dotfiles/commit/95c84ae) Add 1Password SSH agent config
+* ➡️ Pushed 2 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#2c80d76](https://github.com/edoardob90/dotfiles/commit/2c80d76) Update Fish config files
+  * [#ed68f2e](https://github.com/edoardob90/dotfiles/commit/ed68f2e) Update ssh config
+* 🔃 Opened [#152 Functions advanced](https://github.com/empa-scientific-it/python-tutorial/pull/152) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 1 file changed `++135 --0`
+* ⏺️ Created new branch new-material/functions-advanced in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
+  * [#bc2771f](https://github.com/empa-scientific-it/python-tutorial/commit/bc2771f) Disable mypy check (#150)
+* 🔃 Merged [#150 Temporary disable the mypy check.](https://github.com/empa-scientific-it/python-tutorial/pull/150) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 1 file changed `++9 --9`
+* 🔍 Reviewed [#150 Temporary disable the mypy check.](https://github.com/empa-scientific-it/python-tutorial/pull/150) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [edoardob90/google-sheet-flask](https://github.com/edoardob90/google-sheet-flask) on branch `main`
   * [#6d47e5d](https://github.com/edoardob90/google-sheet-flask/commit/6d47e5d) Initial big refactor
 * ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
   * [#96b11d1](https://github.com/edoardob90/aoc-py-template/commit/96b11d1) Fix image url
 * ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
   * [#f80b94a](https://github.com/edoardob90/aoc-py-template/commit/f80b94a) Use pre-built image on ghcr.io
-* ➡️ Pushed 1 commit in [edoardob90/aoc2023](https://github.com/edoardob90/aoc2023) on branch `main`
-  * [#cda2a0b](https://github.com/edoardob90/aoc2023/commit/cda2a0b) Use latest aoc-py-template image
-* ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
-  * [#2d39d7a](https://github.com/edoardob90/aoc-py-template/commit/2d39d7a) Fix image tag
-* ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
-  * [#ac61bd8](https://github.com/edoardob90/aoc-py-template/commit/ac61bd8) Update permissions
-* ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
-  * [#d3a28ca](https://github.com/edoardob90/aoc-py-template/commit/d3a28ca) Add workflow to build docker image
-* ➡️ Pushed 1 commit in [edoardob90/aoc2023](https://github.com/edoardob90/aoc2023) on branch `main`
-  * [#ebc0023](https://github.com/edoardob90/aoc2023/commit/ebc0023) Add GitHub workflow (#2)
-* 🔃 Merged [#2 Add GitHub workflow](https://github.com/edoardob90/aoc2023/pull/2) in [edoardob90/aoc2023](https://github.com/edoardob90/aoc2023)
-  * 1 file changed `++34 --0`
-* ➡️ Pushed 1 commit in [edoardob90/aoc2023](https://github.com/edoardob90/aoc2023) on branch `github-workflow`
-  * [#fba9829](https://github.com/edoardob90/aoc2023/commit/fba9829) Remove &#39;push&#39; event
 
 
 ---
