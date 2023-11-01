@@ -16,6 +16,18 @@ I'm Edoardo, and in just a few bullet points:
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#d946669](https://github.com/edoardob90/dotfiles/commit/d946669) Update 1Password SSH agent config
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#a988b77](https://github.com/edoardob90/dotfiles/commit/a988b77) Correct SSH agent settings in ssh_config
+* ➡️ Pushed 3 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#9d2de5a](https://github.com/edoardob90/dotfiles/commit/9d2de5a) Update Fish envs
+  * [#06cb459](https://github.com/edoardob90/dotfiles/commit/06cb459) Revert &#34;Update Fish envs&#34;
+
+This reverts commit 70382da4eaa48a3befa27947c73c6023bdf8acce.
+  * [#70382da](https://github.com/edoardob90/dotfiles/commit/70382da) Update Fish envs
+* ➡️ Pushed 1 commit in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `creds-helper`
+  * [#d2e5d7d](https://github.com/empa-scientific-it/cscs-keygen/commit/d2e5d7d) Small fixes
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#95c84ae](https://github.com/edoardob90/dotfiles/commit/95c84ae) Add 1Password SSH agent config
 * ➡️ Pushed 2 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#2c80d76](https://github.com/edoardob90/dotfiles/commit/2c80d76) Update Fish config files
@@ -27,13 +39,6 @@ I'm Edoardo, and in just a few bullet points:
   * [#bc2771f](https://github.com/empa-scientific-it/python-tutorial/commit/bc2771f) Disable mypy check (#150)
 * 🔃 Merged [#150 Temporary disable the mypy check.](https://github.com/empa-scientific-it/python-tutorial/pull/150) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
   * 1 file changed `++9 --9`
-* 🔍 Reviewed [#150 Temporary disable the mypy check.](https://github.com/empa-scientific-it/python-tutorial/pull/150) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [edoardob90/google-sheet-flask](https://github.com/edoardob90/google-sheet-flask) on branch `main`
-  * [#6d47e5d](https://github.com/edoardob90/google-sheet-flask/commit/6d47e5d) Initial big refactor
-* ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
-  * [#96b11d1](https://github.com/edoardob90/aoc-py-template/commit/96b11d1) Fix image url
-* ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
-  * [#f80b94a](https://github.com/edoardob90/aoc-py-template/commit/f80b94a) Use pre-built image on ghcr.io
 
 
 ---
