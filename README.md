@@ -15,6 +15,11 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 2 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#261d4f9](https://github.com/edoardob90/dotfiles/commit/261d4f9) ssh config: add a section for home machines
+  * [#c370c18](https://github.com/edoardob90/dotfiles/commit/c370c18) Update chezmoi config
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#bad456b](https://github.com/edoardob90/dotfiles/commit/bad456b) Update Fish aliases
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
   * [#d946669](https://github.com/edoardob90/dotfiles/commit/d946669) Update 1Password SSH agent config
 * ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
@@ -35,10 +40,6 @@ This reverts commit 70382da4eaa48a3befa27947c73c6023bdf8acce.
 * 🔃 Opened [#152 Functions advanced](https://github.com/empa-scientific-it/python-tutorial/pull/152) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
   * 1 file changed `++135 --0`
 * ⏺️ Created new branch new-material/functions-advanced in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#bc2771f](https://github.com/empa-scientific-it/python-tutorial/commit/bc2771f) Disable mypy check (#150)
-* 🔃 Merged [#150 Temporary disable the mypy check.](https://github.com/empa-scientific-it/python-tutorial/pull/150) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 1 file changed `++9 --9`
 
 
 ---
