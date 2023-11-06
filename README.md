@@ -15,6 +15,8 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
+  * [#b37bf8c](https://github.com/edoardob90/microdotblog-theme-edobld/commit/b37bf8c) Update tailwind-build.yaml
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `v2-upgrade-ptb`
   * [#c9daa92](https://github.com/edoardob90/finance-tracker-bot/commit/c9daa92) Update pyproject with git-cliff settings
 * #️⃣ Opened [#10 Adapt the `Spreadsheet` class (`spreadsheet.py`)](https://github.com/edoardob90/finance-tracker-bot/issues/10) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
@@ -27,7 +29,6 @@ I'm Edoardo, and in just a few bullet points:
   * 18 files changed `++1929 --1715`
 * 🔃 Opened [#4 Migration to PTB v20.x](https://github.com/edoardob90/finance-tracker-bot/pull/4) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
   * 18 files changed `++1929 --1715`
-* ⏺️ Created new branch v2-upgrade-ptb in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
 
 
 ---
