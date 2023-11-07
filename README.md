@@ -15,6 +15,7 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* #️⃣ Closed [#145 scikit-learn](https://github.com/empa-scientific-it/python-tutorial/issues/145) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
   * [#b37bf8c](https://github.com/edoardob90/microdotblog-theme-edobld/commit/b37bf8c) Update tailwind-build.yaml
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `v2-upgrade-ptb`
@@ -26,8 +27,6 @@ I'm Edoardo, and in just a few bullet points:
 * #️⃣ Opened [#6 Rewrite the entry point `finance_tracker_bot.py`](https://github.com/edoardob90/finance-tracker-bot/issues/6) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
 * #️⃣ Opened [#5 Migration to PTB v20.x](https://github.com/edoardob90/finance-tracker-bot/issues/5) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
 * 🔃 Closed [#4 Migration to PTB v20.x](https://github.com/edoardob90/finance-tracker-bot/pull/4) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
-  * 18 files changed `++1929 --1715`
-* 🔃 Opened [#4 Migration to PTB v20.x](https://github.com/edoardob90/finance-tracker-bot/pull/4) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
   * 18 files changed `++1929 --1715`
 
 
