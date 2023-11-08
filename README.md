@@ -15,6 +15,13 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `migration/record`
+  * [#f1b6c98](https://github.com/edoardob90/finance-tracker-bot/commit/f1b6c98) Refactor models
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `migration/record`
+  * [#9d0d4b6](https://github.com/edoardob90/finance-tracker-bot/commit/9d0d4b6) Rewrite the /record command
+* 🔃 Opened [#11 Rewrite `/record` command](https://github.com/edoardob90/finance-tracker-bot/pull/11) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
+  * 7 files changed `++293 --700`
+* ⏺️ Created new branch migration/record in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
 * #️⃣ Closed [#145 scikit-learn](https://github.com/empa-scientific-it/python-tutorial/issues/145) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
   * [#b37bf8c](https://github.com/edoardob90/microdotblog-theme-edobld/commit/b37bf8c) Update tailwind-build.yaml
@@ -23,11 +30,6 @@ I'm Edoardo, and in just a few bullet points:
 * #️⃣ Opened [#10 Adapt the `Spreadsheet` class (`spreadsheet.py`)](https://github.com/edoardob90/finance-tracker-bot/issues/10) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
 * #️⃣ Opened [#9 Rewrite `utils.py`](https://github.com/edoardob90/finance-tracker-bot/issues/9) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
 * #️⃣ Opened [#8 Rewrote `settings.py`](https://github.com/edoardob90/finance-tracker-bot/issues/8) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
-* #️⃣ Opened [#7 Rewrite `record.py`](https://github.com/edoardob90/finance-tracker-bot/issues/7) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
-* #️⃣ Opened [#6 Rewrite the entry point `finance_tracker_bot.py`](https://github.com/edoardob90/finance-tracker-bot/issues/6) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
-* #️⃣ Opened [#5 Migration to PTB v20.x](https://github.com/edoardob90/finance-tracker-bot/issues/5) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
-* 🔃 Closed [#4 Migration to PTB v20.x](https://github.com/edoardob90/finance-tracker-bot/pull/4) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
-  * 18 files changed `++1929 --1715`
 
 
 ---
