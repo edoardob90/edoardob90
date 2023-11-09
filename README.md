@@ -28,15 +28,6 @@ Bot token can be named differently
   * [#4e3981c](https://github.com/edoardob90/finance-tracker-bot/commit/4e3981c) Merge branch &#39;main&#39; into service-account
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `migration/record`
   * [#8de37a9](https://github.com/edoardob90/finance-tracker-bot/commit/8de37a9) Format help message
-* 🔃 Opened [#12 Migration to PTB v20.x](https://github.com/edoardob90/finance-tracker-bot/pull/12) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
-  * 17 files changed `++1925 --1715`
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `migration/record`
-  * [#f1b6c98](https://github.com/edoardob90/finance-tracker-bot/commit/f1b6c98) Refactor models
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `migration/record`
-  * [#9d0d4b6](https://github.com/edoardob90/finance-tracker-bot/commit/9d0d4b6) Rewrite the /record command
-* 🔃 Opened [#11 Rewrite `/record` command](https://github.com/edoardob90/finance-tracker-bot/pull/11) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
-  * 7 files changed `++293 --700`
-* ⏺️ Created new branch migration/record in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
 
 
 ---
