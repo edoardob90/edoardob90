@@ -19,22 +19,34 @@ jobs:
           template: markdown
           markdown_cache: .cache
           config_output: markdown
+          repositories_skipped: >-
+            n2p2, computer-science, zsh-completions, AdventOfCode,
+            lammps, plumed2, toolbox, advent-of-code-sample, handson-ml2,
+            readthedocs-tutorial, tmux-config, SummerSchool2015,
+            SummerSchool2018, fastai, course-nlp,
+            tensorflow-training, PythonHPC20,
+            dotpandoc, archie,
+            hugo-PaperMod, word-embeddings-workshop,
+            edoardob90, hugo-bearblog
           markdown: >-
             https://raw.githubusercontent.com/edoardob90/edoardob90/main/metrics.template.md
           filename: README.md
           config_timezone: Europe/Zurich
-          plugin_activity: yes
+          # Recent activities
+          plugin_activity: true
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_load: 50
-          plugin_activity_skipped: edoardob90, hugo-bearblog
-          plugin_activity_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
+          plugin_activity_ignored: >-
+            github-actions[bot],
+            dependabot[bot],
+            dependabot-preview[bot]
           plugin_activity_visibility: public
           plugin_activity_filter: push, issue, pr, review, release
-          plugin_languages: yes
+          # Languages
+          plugin_languages: true
           plugin_languages_categories: programming, markup
           plugin_languages_aliases: jupyter-notebook:Jupyter
-          plugin_languages_skipped: n2p2, computer-science, zsh-completions, AdventOfCode, lammps, plumed2, toolbox, advent-of-code-sample, handson-ml2, readthedocs-tutorial, tmux-config, SummerSchool2015, SummerSchool2018, fastai, course-nlp, tensorflow-training, PythonHPC20, dotpandoc, archie, hugo-PaperMod, word-embeddings-workshop
-          plugin_languages_display_limit: 5
-          plugin_stars: yes
+          plugin_languages_display_limit: 10
+          plugin_stars: true
           plugin_stars_limit: 4
