@@ -6,7 +6,7 @@
 
 #### Languages I work(ed) with 👨‍💻
 
-<%- await embed(`languages`, {languages:true, languages_details:"percentage, bytes-size", languages_recent_days:30, config_display:"large"}) %>
+<%- await embed(`languages`, {activity:true, languages:true, languages_details:"percentage, bytes-size", languages_recent_days:30, config_display:"large"}) %>
 
 ---
 
@@ -16,5 +16,5 @@
 
 #### Repos worth a ⭐
 
-<%- await embed(`stars`, {stars:true, stars_limit:4, config_display:"large"}) %>
+<%- await embed(`stars`, {activity:true, stars:true, stars_limit:4, config_display:"large"}) %>
 
