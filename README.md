@@ -15,6 +15,21 @@ I'm Edoardo, and in just a few bullet points:
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* #️⃣ Opened [#13 Add new records via natural language](https://github.com/edoardob90/finance-tracker-bot/issues/13) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
+* ➡️ Pushed 2 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `migration/record`
+  * [#f702b41](https://github.com/edoardob90/finance-tracker-bot/commit/f702b41) feat: add /show command
+  * [#e7dfee3](https://github.com/edoardob90/finance-tracker-bot/commit/e7dfee3) test: add test for many records
+* ➡️ Pushed 2 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `migration/record`
+  * [#140a6f1](https://github.com/edoardob90/finance-tracker-bot/commit/140a6f1) Improve print_help
+  * [#4f7bfea](https://github.com/edoardob90/finance-tracker-bot/commit/4f7bfea) Fix config reading
+
+Bot token can be named differently
+* ➡️ Pushed 3 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#4e3981c](https://github.com/edoardob90/finance-tracker-bot/commit/4e3981c) Merge branch &#39;main&#39; into service-account
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `migration/record`
+  * [#8de37a9](https://github.com/edoardob90/finance-tracker-bot/commit/8de37a9) Format help message
+* 🔃 Opened [#12 Migration to PTB v20.x](https://github.com/edoardob90/finance-tracker-bot/pull/12) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
+  * 17 files changed `++1925 --1715`
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `migration/record`
   * [#f1b6c98](https://github.com/edoardob90/finance-tracker-bot/commit/f1b6c98) Refactor models
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `migration/record`
@@ -22,14 +37,6 @@ I'm Edoardo, and in just a few bullet points:
 * 🔃 Opened [#11 Rewrite `/record` command](https://github.com/edoardob90/finance-tracker-bot/pull/11) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
   * 7 files changed `++293 --700`
 * ⏺️ Created new branch migration/record in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
-* #️⃣ Closed [#145 scikit-learn](https://github.com/empa-scientific-it/python-tutorial/issues/145) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [edoardob90/microdotblog-theme-edobld](https://github.com/edoardob90/microdotblog-theme-edobld) on branch `main`
-  * [#b37bf8c](https://github.com/edoardob90/microdotblog-theme-edobld/commit/b37bf8c) Update tailwind-build.yaml
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `v2-upgrade-ptb`
-  * [#c9daa92](https://github.com/edoardob90/finance-tracker-bot/commit/c9daa92) Update pyproject with git-cliff settings
-* #️⃣ Opened [#10 Adapt the `Spreadsheet` class (`spreadsheet.py`)](https://github.com/edoardob90/finance-tracker-bot/issues/10) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
-* #️⃣ Opened [#9 Rewrite `utils.py`](https://github.com/edoardob90/finance-tracker-bot/issues/9) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
-* #️⃣ Opened [#8 Rewrote `settings.py`](https://github.com/edoardob90/finance-tracker-bot/issues/8) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
 
 
 ---
