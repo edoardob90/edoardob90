@@ -32,8 +32,12 @@ jobs:
             https://raw.githubusercontent.com/edoardob90/edoardob90/main/metrics.template.md
           filename: README.md
           config_timezone: Europe/Zurich
+          # RSS
+          plugin_rss: true
+          plugin_rss_source: https://blog.edoardob.im/categories/programming/feed.xml
+          plugin_rss_limit: 3
           # Recent activities
-          plugin_activity: true
+          plugin_activity: false
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_load: 100
@@ -44,7 +48,7 @@ jobs:
           plugin_activity_visibility: public
           plugin_activity_filter: push, issue, pr, review, release
           # Languages
-          plugin_languages: true
+          plugin_languages: false
           plugin_languages_categories: programming, markup
           plugin_languages_aliases: jupyter-notebook:Jupyter
           plugin_languages_display_limit: 10
