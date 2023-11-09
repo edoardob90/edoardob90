@@ -1,12 +1,8 @@
-### Hi, welcome! 👋 
-
-I'm Edoardo, and in just a few bullet points:
+### Hi, I'm Edoardo. Welcome! 👋 
 
 - 🔭 I’m working as a **research software engineer** at the Swiss Federal Labs of Materials Science in Zürich 🇨🇭
-- 🌱 I’m currently learning **algorithmic thinking**
-- 👯 I’m looking to collaborate on some **programming challenge** (e.g., [Advent of Code](https://github.com/edoardob90/aoc2022)) or an **open-source project**
 - 📫 How to reach me: `hi@edobld.me`, [LinkedIn](https://linkedin.com/in/edobld), or [Twitter](https://twitter.com/edobld)
-- 🌐 My personal blog: [blog.edoardob.im](https://blog.edoardob.im)
+- 🌐 Check out my [now page](https://edoardob.im/now) or [my personal blog](https://blog.edoardob.im) if you want to know more about me
 
 #### Languages I work(ed) with 👨‍💻
 
@@ -22,8 +18,3 @@ I'm Edoardo, and in just a few bullet points:
 
 <%- await embed(`stars`, {stars:true, stars_limit:4, config_display:"large"}) %>
 
-<!--
-- ⚡ Fun fact: ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
