@@ -6,6 +6,20 @@
 
 ---
 
+**[📰 Recent activity](https://github.com/edoardob90)**
+* #️⃣ Opened [#13 Add new records via natural language](https://github.com/edoardob90/finance-tracker-bot/issues/13) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
+* ➡️ Pushed 2 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `migration/record`
+  * [#f702b41](https://github.com/edoardob90/finance-tracker-bot/commit/f702b41) feat: add /show command
+  * [#e7dfee3](https://github.com/edoardob90/finance-tracker-bot/commit/e7dfee3) test: add test for many records
+* ➡️ Pushed 2 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `migration/record`
+  * [#140a6f1](https://github.com/edoardob90/finance-tracker-bot/commit/140a6f1) Improve print_help
+  * [#4f7bfea](https://github.com/edoardob90/finance-tracker-bot/commit/4f7bfea) Fix config reading
+
+Bot token can be named differently
+* ➡️ Pushed 3 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `service-account`
+  * [#4e3981c](https://github.com/edoardob90/finance-tracker-bot/commit/4e3981c) Merge branch &#39;main&#39; into service-account
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `migration/record`
+  * [#8de37a9](https://github.com/edoardob90/finance-tracker-bot/commit/8de37a9) Format help message
 
 
 ---
