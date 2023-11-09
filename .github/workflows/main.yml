@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Lowlighter metrics
-        uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@v3.27
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
@@ -23,7 +23,7 @@ jobs:
             https://raw.githubusercontent.com/edoardob90/edoardob90/main/metrics.template.md
           filename: README.md
           config_timezone: Europe/Zurich
-          plugin_activity: true
+          plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_load: 50
@@ -31,10 +31,10 @@ jobs:
           plugin_activity_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
           plugin_activity_visibility: public
           plugin_activity_filter: push, issue, pr, review, release
-          plugin_languages: true
+          plugin_languages: yes
           plugin_languages_categories: programming, markup
           plugin_languages_aliases: jupyter-notebook:Jupyter
           plugin_languages_skipped: n2p2, computer-science, zsh-completions, AdventOfCode, lammps, plumed2, toolbox, advent-of-code-sample, handson-ml2, readthedocs-tutorial, tmux-config, SummerSchool2015, SummerSchool2018, fastai, course-nlp, tensorflow-training, PythonHPC20, dotpandoc, archie, hugo-PaperMod, word-embeddings-workshop
           plugin_languages_display_limit: 5
-          plugin_stars: true
+          plugin_stars: yes
           plugin_stars_limit: 4
