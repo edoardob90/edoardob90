@@ -7,16 +7,15 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* 🔃 Opened [#15 Add natural language capabilities via OpenAI](https://github.com/edoardob90/finance-tracker-bot/pull/15) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
-  * 8 files changed `++744 --324`
-* ➡️ Pushed 4 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `migration/record`
-  * [#5039a2d](https://github.com/edoardob90/finance-tracker-bot/commit/5039a2d) Merge branch &#39;v2-upgrade-ptb&#39; into migration/record
-* ➡️ Pushed 2 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `v2-upgrade-ptb`
-  * [#3ffc647](https://github.com/edoardob90/finance-tracker-bot/commit/3ffc647) Merge branch &#39;service-account&#39; into v2-upgrade-ptb
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `v2-upgrade-ptb`
-  * [#1dd27bb](https://github.com/edoardob90/finance-tracker-bot/commit/1dd27bb) Add testing/linting workflow (#14)
-* 🔃 Merged [#14 Add testing/linting workflow](https://github.com/edoardob90/finance-tracker-bot/pull/14) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
-  * 4 files changed `++147 --723`
+* ➡️ Pushed 2 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `feature/openai`
+  * [#0299d66](https://github.com/edoardob90/finance-tracker-bot/commit/0299d66) Add tenacity.retry to OpenAI API calls
+  * [#b03898b](https://github.com/edoardob90/finance-tracker-bot/commit/b03898b) Remove unused packages
+* #️⃣ Opened [#16 Add a retry mechanism to OpenAI API calls](https://github.com/edoardob90/finance-tracker-bot/issues/16) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
+* #️⃣ Closed [#6 Rewrite the entry point `finance_tracker_bot.py`](https://github.com/edoardob90/finance-tracker-bot/issues/6) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
+* #️⃣ Closed [#9 Rewrite `utils.py`](https://github.com/edoardob90/finance-tracker-bot/issues/9) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
+* ➡️ Pushed 2 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `feature/openai`
+  * [#33b7a10](https://github.com/edoardob90/finance-tracker-bot/commit/33b7a10) Change config to TOML; auth required for OpenAI
+  * [#52cd9fa](https://github.com/edoardob90/finance-tracker-bot/commit/52cd9fa) Set min. Python version to 3.12
 
 
 ---
