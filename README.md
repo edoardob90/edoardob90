@@ -7,15 +7,14 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 2 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `feature/openai`
-  * [#0299d66](https://github.com/edoardob90/finance-tracker-bot/commit/0299d66) Add tenacity.retry to OpenAI API calls
-  * [#b03898b](https://github.com/edoardob90/finance-tracker-bot/commit/b03898b) Remove unused packages
-* #️⃣ Opened [#16 Add a retry mechanism to OpenAI API calls](https://github.com/edoardob90/finance-tracker-bot/issues/16) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
-* #️⃣ Closed [#6 Rewrite the entry point `finance_tracker_bot.py`](https://github.com/edoardob90/finance-tracker-bot/issues/6) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
-* #️⃣ Closed [#9 Rewrite `utils.py`](https://github.com/edoardob90/finance-tracker-bot/issues/9) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
-* ➡️ Pushed 2 commits in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `feature/openai`
-  * [#33b7a10](https://github.com/edoardob90/finance-tracker-bot/commit/33b7a10) Change config to TOML; auth required for OpenAI
-  * [#52cd9fa](https://github.com/edoardob90/finance-tracker-bot/commit/52cd9fa) Set min. Python version to 3.12
+* #️⃣ Closed [#7 Rewrite `record.py`](https://github.com/edoardob90/finance-tracker-bot/issues/7) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `v2-upgrade-ptb`
+  * [#eebafdf](https://github.com/edoardob90/finance-tracker-bot/commit/eebafdf) Rewrite record command (#11)
+* 🔃 Merged [#11 Rewrite `/record` command](https://github.com/edoardob90/finance-tracker-bot/pull/11) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
+  * 18 files changed `++1698 --157`
+* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `migration/record`
+  * [#255d752](https://github.com/edoardob90/finance-tracker-bot/commit/255d752) Minor changes
+* #️⃣ Closed [#13 Add new records via natural language](https://github.com/edoardob90/finance-tracker-bot/issues/13) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
 
 
 ---
