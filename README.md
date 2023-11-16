@@ -7,14 +7,15 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/functions-advanced`
+  * [#c1aac01](https://github.com/empa-scientific-it/python-tutorial/commit/c1aac01) More on closures
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/functions-advanced`
+  * [#2d5d677](https://github.com/empa-scientific-it/python-tutorial/commit/2d5d677) Ignore drafts folder
+* ➡️ Pushed 3 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `issue-templates`
+  * [#2065062](https://github.com/empa-scientific-it/python-tutorial/commit/2065062) Merge branch &#39;main&#39; into issue-templates
 * #️⃣ Closed [#7 Rewrite `record.py`](https://github.com/edoardob90/finance-tracker-bot/issues/7) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
 * ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `v2-upgrade-ptb`
   * [#eebafdf](https://github.com/edoardob90/finance-tracker-bot/commit/eebafdf) Rewrite record command (#11)
-* 🔃 Merged [#11 Rewrite `/record` command](https://github.com/edoardob90/finance-tracker-bot/pull/11) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
-  * 18 files changed `++1698 --157`
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `migration/record`
-  * [#255d752](https://github.com/edoardob90/finance-tracker-bot/commit/255d752) Minor changes
-* #️⃣ Closed [#13 Add new records via natural language](https://github.com/edoardob90/finance-tracker-bot/issues/13) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
 
 
 ---
