@@ -7,15 +7,16 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/functions-advanced`
-  * [#c1aac01](https://github.com/empa-scientific-it/python-tutorial/commit/c1aac01) More on closures
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/functions-advanced`
-  * [#2d5d677](https://github.com/empa-scientific-it/python-tutorial/commit/2d5d677) Ignore drafts folder
-* ➡️ Pushed 3 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `issue-templates`
-  * [#2065062](https://github.com/empa-scientific-it/python-tutorial/commit/2065062) Merge branch &#39;main&#39; into issue-templates
-* #️⃣ Closed [#7 Rewrite `record.py`](https://github.com/edoardob90/finance-tracker-bot/issues/7) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
-* ➡️ Pushed 1 commit in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot) on branch `v2-upgrade-ptb`
-  * [#eebafdf](https://github.com/edoardob90/finance-tracker-bot/commit/eebafdf) Rewrite record command (#11)
+* ➡️ Pushed 1 commit in [edoardob90/gitfun](https://github.com/edoardob90/gitfun) on branch `main`
+  * [#94860c5](https://github.com/edoardob90/gitfun/commit/94860c5) Add hello (#2)
+* 🔃 Merged [#2 Add hello](https://github.com/edoardob90/gitfun/pull/2) in [edoardob90/gitfun](https://github.com/edoardob90/gitfun)
+  * 1 file changed `++1 --1`
+* ➡️ Pushed 3 commits in [edoardob90/gitfun](https://github.com/edoardob90/gitfun) on branch `feature`
+  * [#4511910](https://github.com/edoardob90/gitfun/commit/4511910) Merge branch &#39;main&#39; into feature
+* ➡️ Pushed 1 commit in [edoardob90/gitfun](https://github.com/edoardob90/gitfun) on branch `main`
+  * [#cb7d1de](https://github.com/edoardob90/gitfun/commit/cb7d1de) Add hello from hotfix2 (#3)
+* 🔃 Merged [#3 Add hello from hotfix2](https://github.com/edoardob90/gitfun/pull/3) in [edoardob90/gitfun](https://github.com/edoardob90/gitfun)
+  * 1 file changed `++1 --0`
 
 
 ---
