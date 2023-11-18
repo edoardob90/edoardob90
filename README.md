@@ -7,16 +7,16 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
+  * [#fc4ea6b](https://github.com/edoardob90/aoc-py-template/commit/fc4ea6b) entrypoint.py updates README as well
+* ➡️ Pushed 1 commit in [edoardob90/aoc2023](https://github.com/edoardob90/aoc2023) on branch `main`
+  * [#3e51bf2](https://github.com/edoardob90/aoc2023/commit/3e51bf2) Update README.md
 * ➡️ Pushed 1 commit in [edoardob90/gitfun](https://github.com/edoardob90/gitfun) on branch `main`
   * [#94860c5](https://github.com/edoardob90/gitfun/commit/94860c5) Add hello (#2)
 * 🔃 Merged [#2 Add hello](https://github.com/edoardob90/gitfun/pull/2) in [edoardob90/gitfun](https://github.com/edoardob90/gitfun)
   * 1 file changed `++1 --1`
 * ➡️ Pushed 3 commits in [edoardob90/gitfun](https://github.com/edoardob90/gitfun) on branch `feature`
   * [#4511910](https://github.com/edoardob90/gitfun/commit/4511910) Merge branch &#39;main&#39; into feature
-* ➡️ Pushed 1 commit in [edoardob90/gitfun](https://github.com/edoardob90/gitfun) on branch `main`
-  * [#cb7d1de](https://github.com/edoardob90/gitfun/commit/cb7d1de) Add hello from hotfix2 (#3)
-* 🔃 Merged [#3 Add hello from hotfix2](https://github.com/edoardob90/gitfun/pull/3) in [edoardob90/gitfun](https://github.com/edoardob90/gitfun)
-  * 1 file changed `++1 --0`
 
 
 ---
