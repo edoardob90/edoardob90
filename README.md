@@ -7,16 +7,15 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* #️⃣ Opened [#158 Improve formatting of Pytest error message](https://github.com/empa-scientific-it/python-tutorial/issues/158) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/functions-advanced`
+  * [#cf17199](https://github.com/empa-scientific-it/python-tutorial/commit/cf17199) Ex. 1 plus tests
+* ➡️ Pushed 4 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/functions-advanced`
+  * [#598882b](https://github.com/empa-scientific-it/python-tutorial/commit/598882b) Merge branch &#39;fix/handle-test-patterns&#39; into new-material/functions-advanced
+* 🔃 Opened [#157 pytest: select tests using a pattern string](https://github.com/empa-scientific-it/python-tutorial/pull/157) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 1 file changed `++3 --2`
 * ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
   * [#fc4ea6b](https://github.com/edoardob90/aoc-py-template/commit/fc4ea6b) entrypoint.py updates README as well
-* ➡️ Pushed 1 commit in [edoardob90/aoc2023](https://github.com/edoardob90/aoc2023) on branch `main`
-  * [#3e51bf2](https://github.com/edoardob90/aoc2023/commit/3e51bf2) Update README.md
-* ➡️ Pushed 1 commit in [edoardob90/gitfun](https://github.com/edoardob90/gitfun) on branch `main`
-  * [#94860c5](https://github.com/edoardob90/gitfun/commit/94860c5) Add hello (#2)
-* 🔃 Merged [#2 Add hello](https://github.com/edoardob90/gitfun/pull/2) in [edoardob90/gitfun](https://github.com/edoardob90/gitfun)
-  * 1 file changed `++1 --1`
-* ➡️ Pushed 3 commits in [edoardob90/gitfun](https://github.com/edoardob90/gitfun) on branch `feature`
-  * [#4511910](https://github.com/edoardob90/gitfun/commit/4511910) Merge branch &#39;main&#39; into feature
 
 
 ---
