@@ -7,15 +7,16 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* #️⃣ Opened [#158 Improve formatting of Pytest error message](https://github.com/empa-scientific-it/python-tutorial/issues/158) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/functions-advanced`
-  * [#cf17199](https://github.com/empa-scientific-it/python-tutorial/commit/cf17199) Ex. 1 plus tests
-* ➡️ Pushed 4 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/functions-advanced`
-  * [#598882b](https://github.com/empa-scientific-it/python-tutorial/commit/598882b) Merge branch &#39;fix/handle-test-patterns&#39; into new-material/functions-advanced
-* 🔃 Opened [#157 pytest: select tests using a pattern string](https://github.com/empa-scientific-it/python-tutorial/pull/157) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/improve-test-collection-and-output`
+  * [#85ea7ab](https://github.com/empa-scientific-it/python-tutorial/commit/85ea7ab) Adjust text formatting
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/improve-test-collection-and-output`
+  * [#16d39c6](https://github.com/empa-scientific-it/python-tutorial/commit/16d39c6) Remove unused imports
+* 🔃 Opened [#160 Improved error collection and output](https://github.com/empa-scientific-it/python-tutorial/pull/160) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 4 files changed `++119 --23`
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/improve-test-collection-and-output`
+  * [#9b2dbde](https://github.com/empa-scientific-it/python-tutorial/commit/9b2dbde) Better fallback logic
+* 🔃 Closed [#157 pytest: select tests using a pattern string](https://github.com/empa-scientific-it/python-tutorial/pull/157) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
   * 1 file changed `++3 --2`
-* ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
-  * [#fc4ea6b](https://github.com/edoardob90/aoc-py-template/commit/fc4ea6b) entrypoint.py updates README as well
 
 
 ---
