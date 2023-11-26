@@ -7,6 +7,7 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* #️⃣ Closed [#16 Add a retry mechanism to OpenAI API calls](https://github.com/edoardob90/finance-tracker-bot/issues/16) in [edoardob90/finance-tracker-bot](https://github.com/edoardob90/finance-tracker-bot)
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/improve-test-collection-and-output`
   * [#85ea7ab](https://github.com/empa-scientific-it/python-tutorial/commit/85ea7ab) Adjust text formatting
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/improve-test-collection-and-output`
@@ -15,8 +16,6 @@
   * 4 files changed `++119 --23`
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/improve-test-collection-and-output`
   * [#9b2dbde](https://github.com/empa-scientific-it/python-tutorial/commit/9b2dbde) Better fallback logic
-* 🔃 Closed [#157 pytest: select tests using a pattern string](https://github.com/empa-scientific-it/python-tutorial/pull/157) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 1 file changed `++3 --2`
 
 
 ---
