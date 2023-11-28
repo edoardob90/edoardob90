@@ -8,38 +8,18 @@
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
-  * [#6b62be6](https://github.com/edoardob90/blog.edoardob.im/commit/6b62be6) npm: bump @astrojs/check from 0.2.1 to 0.3.1 (#5)
-
-Bumps [@astrojs/check](https://github.com/withastro/language-tools/tree/HEAD/packages/astro-check) from 0.2.1 to 0.3.1.
-- [Release notes](https://github.com/withastro/language-tools/releases)
-- [Changelog](https://github.com/withastro/language-tools/blob/main/packages/astro-check/CHANGELOG.md)
-- [Commits](https://github.com/withastro/language-tools/commits/@astrojs/check@0.3.1/packages/astro-check)
-
----
-updated-dependencies:
-- dependency-name: &#34;@astrojs/check&#34;
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
-* ➡️ Pushed 2 commits in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
-  * [#28837a2](https://github.com/edoardob90/blog.edoardob.im/commit/28837a2) Merge branch &#39;main&#39; of github.com:edoardob90/blog.edoardob.im
+  * [#6cfe3ec](https://github.com/edoardob90/blog.edoardob.im/commit/6cfe3ec) Upload missing image
 * ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
-  * [#a531efe](https://github.com/edoardob90/blog.edoardob.im/commit/a531efe) Create dependabot.yml
+  * [#f92943d](https://github.com/edoardob90/blog.edoardob.im/commit/f92943d) Update content
 * ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
-  * [#9652723](https://github.com/edoardob90/blog.edoardob.im/commit/9652723) Update content
-* #️⃣ Opened [#4 Site search](https://github.com/edoardob90/blog.edoardob.im/issues/4) in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im)
+  * [#ce03050](https://github.com/edoardob90/blog.edoardob.im/commit/ce03050) Add status badge
+* ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
+  * [#b5d7c9c](https://github.com/edoardob90/blog.edoardob.im/commit/b5d7c9c) Code block font size
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/improve-test-collection-and-output`
+  * [#35f6859](https://github.com/empa-scientific-it/python-tutorial/commit/35f6859) __format__ a test case based on its outcome
 
 
 ---
 
-**[🗼 Rss feed from programming on Bald Notes](https://blog.edoardob.im/categories/programming/)**
-* [🎄👨‍💻 Day 14: Regolith Reservoir](https://blog.edoardob.im/2022/12/14/day-regolith-reservoir.html)
-  * *Published on 14 Dec 2022*
-* [🎄👨‍💻 Day 13: Distress Signal](https://blog.edoardob.im/2022/12/13/day-distress-signal.html)
-  * *Published on 13 Dec 2022*
-* [🎄👨‍💻 Day 11: Monkey in the Middle](https://blog.edoardob.im/2022/12/11/day-monkey-in.html)
-  * *Published on 11 Dec 2022*
-
+**[🗼 Rss feed from ]()**
+Unexpected error
