@@ -7,16 +7,16 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/improve-test-collection-and-output`
+  * [#aae672d](https://github.com/empa-scientific-it/python-tutorial/commit/aae672d) More refactoring work
+* #️⃣ Opened [#7 Build a feed: a podcast.xml in src/pages. Check out this](https://github.com/edoardob90/blog.edoardob.im/issues/7) in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im)
+* ➡️ Pushed 2 commits in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
+  * [#42b0276](https://github.com/edoardob90/blog.edoardob.im/commit/42b0276) Footnotes and quotes styling
+  * [#67efbeb](https://github.com/edoardob90/blog.edoardob.im/commit/67efbeb) Add full content to rss feed
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/improve-test-collection-and-output`
+  * [#f504465](https://github.com/empa-scientific-it/python-tutorial/commit/f504465) Working on testsuite output
 * ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
   * [#6cfe3ec](https://github.com/edoardob90/blog.edoardob.im/commit/6cfe3ec) Upload missing image
-* ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
-  * [#f92943d](https://github.com/edoardob90/blog.edoardob.im/commit/f92943d) Update content
-* ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
-  * [#ce03050](https://github.com/edoardob90/blog.edoardob.im/commit/ce03050) Add status badge
-* ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
-  * [#b5d7c9c](https://github.com/edoardob90/blog.edoardob.im/commit/b5d7c9c) Code block font size
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/improve-test-collection-and-output`
-  * [#35f6859](https://github.com/empa-scientific-it/python-tutorial/commit/35f6859) __format__ a test case based on its outcome
 
 
 ---
