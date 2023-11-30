@@ -7,16 +7,20 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/improve-test-collection-and-output`
-  * [#aae672d](https://github.com/empa-scientific-it/python-tutorial/commit/aae672d) More refactoring work
-* #️⃣ Opened [#7 Build a feed: a podcast.xml in src/pages. Check out this](https://github.com/edoardob90/blog.edoardob.im/issues/7) in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im)
-* ➡️ Pushed 2 commits in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
-  * [#42b0276](https://github.com/edoardob90/blog.edoardob.im/commit/42b0276) Footnotes and quotes styling
-  * [#67efbeb](https://github.com/edoardob90/blog.edoardob.im/commit/67efbeb) Add full content to rss feed
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/improve-test-collection-and-output`
-  * [#f504465](https://github.com/empa-scientific-it/python-tutorial/commit/f504465) Working on testsuite output
 * ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
-  * [#6cfe3ec](https://github.com/edoardob90/blog.edoardob.im/commit/6cfe3ec) Upload missing image
+  * [#92b5c59](https://github.com/edoardob90/blog.edoardob.im/commit/92b5c59) Fix rss link
+* ➡️ Pushed 2 commits in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
+  * [#8e14fc7](https://github.com/edoardob90/blog.edoardob.im/commit/8e14fc7) Change fonts of bold text and notes
+
+Valkyrie Caps for bold text in article
+Heliotrope + Caps for margin and foot notes
+  * [#4abb298](https://github.com/edoardob90/blog.edoardob.im/commit/4abb298) Change icons and nav bar
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/improve-test-collection-and-output`
+  * [#9f198b5](https://github.com/empa-scientific-it/python-tutorial/commit/9f198b5) Format syntax errors (to be improved)
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/improve-test-collection-and-output`
+  * [#7f466d9](https://github.com/empa-scientific-it/python-tutorial/commit/7f466d9) Add test results formatting to output
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/improve-test-collection-and-output`
+  * [#2f29a80](https://github.com/empa-scientific-it/python-tutorial/commit/2f29a80) Refactor run_cell; run a test on a single function
 
 
 ---
