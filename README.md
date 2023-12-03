@@ -7,18 +7,18 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `add-tinylitics`
-  * [#25d783c](https://github.com/edoardob90/blog.edoardob.im/commit/25d783c) Remove debug element
-* ➡️ Pushed 3 commits in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `add-tinylitics`
-  * [#b624a3f](https://github.com/edoardob90/blog.edoardob.im/commit/b624a3f) Simplify script
-  * [#18de637](https://github.com/edoardob90/blog.edoardob.im/commit/18de637) Merge branch &#39;main&#39; into add-tinylitics
-  * [#27c6744](https://github.com/edoardob90/blog.edoardob.im/commit/27c6744) Dec 1, 2023 at 00:27:33: aoc 2023 begins
-* ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `add-tinylitics`
-  * [#9a1337c](https://github.com/edoardob90/blog.edoardob.im/commit/9a1337c) Correctly handle script events
-* ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `add-tinylitics`
-  * [#0920a35](https://github.com/edoardob90/blog.edoardob.im/commit/0920a35) Fix custom icon insertion
-* ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `add-tinylitics`
-  * [#6b06417](https://github.com/edoardob90/blog.edoardob.im/commit/6b06417) Fix script
+* ➡️ Pushed 1 commit in [edoardob90/aoc2023](https://github.com/edoardob90/aoc2023) on branch `main`
+  * [#dbb2431](https://github.com/edoardob90/aoc2023/commit/dbb2431) Day 2: WL
+
+Add link to notebook published on Wolfram Cloud
+* ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
+  * [#bd4053b](https://github.com/edoardob90/aoc-py-template/commit/bd4053b) Update WLS template
+* ➡️ Pushed 2 commits in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
+  * [#9f8e8b6](https://github.com/edoardob90/aoc-py-template/commit/9f8e8b6) Merge branch &#39;main&#39; of github.com:edoardob90/aoc-py-template
+* ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
+  * [#b509b45](https://github.com/edoardob90/blog.edoardob.im/commit/b509b45) Update Day 1 post
+* ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
+  * [#28034a8](https://github.com/edoardob90/blog.edoardob.im/commit/28034a8) Nav tiny changes
 
 
 ---
