@@ -7,18 +7,17 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 1 commit in [edoardob90/aoc2023](https://github.com/edoardob90/aoc2023) on branch `main`
-  * [#dbb2431](https://github.com/edoardob90/aoc2023/commit/dbb2431) Day 2: WL
-
-Add link to notebook published on Wolfram Cloud
-* ➡️ Pushed 1 commit in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
-  * [#bd4053b](https://github.com/edoardob90/aoc-py-template/commit/bd4053b) Update WLS template
-* ➡️ Pushed 2 commits in [edoardob90/aoc-py-template](https://github.com/edoardob90/aoc-py-template) on branch `main`
-  * [#9f8e8b6](https://github.com/edoardob90/aoc-py-template/commit/9f8e8b6) Merge branch &#39;main&#39; of github.com:edoardob90/aoc-py-template
 * ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
-  * [#b509b45](https://github.com/edoardob90/blog.edoardob.im/commit/b509b45) Update Day 1 post
+  * [#9ba3cf0](https://github.com/edoardob90/blog.edoardob.im/commit/9ba3cf0) Fix Day 3
 * ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
-  * [#28034a8](https://github.com/edoardob90/blog.edoardob.im/commit/28034a8) Nav tiny changes
+  * [#1c604a1](https://github.com/edoardob90/blog.edoardob.im/commit/1c604a1) Day 3
+* ➡️ Pushed 2 commits in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
+  * [#09d2cee](https://github.com/edoardob90/blog.edoardob.im/commit/09d2cee) Day 2
+  * [#93c6f82](https://github.com/edoardob90/blog.edoardob.im/commit/93c6f82) Update Day 1
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/functions-advanced`
+  * [#56ccc3e](https://github.com/empa-scientific-it/python-tutorial/commit/56ccc3e) Finished with closures
+* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
+  * [#61287a9](https://github.com/edoardob90/dotfiles/commit/61287a9) Merge neovim inits from macbook and macmini
 
 
 ---
