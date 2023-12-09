@@ -8,11 +8,12 @@
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/aoc2023](https://github.com/edoardob90/aoc2023) on branch `main`
-  * [#3b0d8ff](https://github.com/edoardob90/aoc2023/commit/3b0d8ff) Day 7
+  * [#5878a8a](https://github.com/edoardob90/aoc2023/commit/5878a8a) Update main.yml
+* ➡️ Pushed 1 commit in [edoardob90/aoc2023](https://github.com/edoardob90/aoc2023) on branch `main`
+  * [#c3dff04](https://github.com/edoardob90/aoc2023/commit/c3dff04) Day 8
 * 🔍 Reviewed [#149 Manage Python project](https://github.com/empa-scientific-it/python-tutorial/pull/149) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * 🔍 Reviewed [#149 Manage Python project](https://github.com/empa-scientific-it/python-tutorial/pull/149) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * 🔍 Reviewed [#149 Manage Python project](https://github.com/empa-scientific-it/python-tutorial/pull/149) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* #️⃣ Closed [#159 Allow the function under test to be asynchronous](https://github.com/empa-scientific-it/python-tutorial/issues/159) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
 ---
