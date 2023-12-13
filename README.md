@@ -7,15 +7,13 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* 🔍 Reviewed [#171 Mutlithreading in python](https://github.com/empa-scientific-it/python-tutorial/pull/171) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#171 Mutlithreading in python](https://github.com/empa-scientific-it/python-tutorial/pull/171) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#171 Mutlithreading in python](https://github.com/empa-scientific-it/python-tutorial/pull/171) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔃 Opened [#174 Pandas library](https://github.com/empa-scientific-it/python-tutorial/pull/174) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 8 files changed `++20080 --0`
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#3cbf3d3](https://github.com/empa-scientific-it/python-tutorial/commit/3cbf3d3)  Advanced OOP (#156)
-
-Co-authored-by: edoardob90 &lt;edoardob90@gmail.com&gt;
-* #️⃣ Closed [#121 Classes (advanced)](https://github.com/empa-scientific-it/python-tutorial/issues/121) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔃 Merged [#156  Advanced OOP](https://github.com/empa-scientific-it/python-tutorial/pull/156) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 5 files changed `++1827 --1`
-* 🔍 Reviewed [#156  Advanced OOP](https://github.com/empa-scientific-it/python-tutorial/pull/156) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔍 Reviewed [#156  Advanced OOP](https://github.com/empa-scientific-it/python-tutorial/pull/156) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * [#b1cea87](https://github.com/empa-scientific-it/python-tutorial/commit/b1cea87) Fix test in Advanced Functions (#173)
 
 
 ---
