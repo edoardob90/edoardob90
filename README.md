@@ -7,18 +7,12 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* #️⃣ Closed [#142 pandas](https://github.com/empa-scientific-it/python-tutorial/issues/142) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#bda34be](https://github.com/empa-scientific-it/python-tutorial/commit/bda34be) Pandas library (#174)
-* 🔃 Merged [#174 Pandas library](https://github.com/empa-scientific-it/python-tutorial/pull/174) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 36 files changed `++251980 --0`
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/pandas-library`
-  * [#dc3aad4](https://github.com/empa-scientific-it/python-tutorial/commit/dc3aad4) Fix toc and some headings
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/pandas-library`
-  * [#5c6c35a](https://github.com/empa-scientific-it/python-tutorial/commit/5c6c35a) Add dataset sources
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/pandas-errors`
+  * [#113449b](https://github.com/empa-scientific-it/python-tutorial/commit/113449b) Fix some Windows commands
+* #️⃣ Closed [#119 Feedback summary from beginners tutorial 2023](https://github.com/empa-scientific-it/python-tutorial/issues/119) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔃 Opened [#194 Fix errors in Pandas notebook](https://github.com/empa-scientific-it/python-tutorial/pull/194) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 1 file changed `++12 --12`
+* #️⃣ Opened [#193 Errors found in `library_pandas` notebook](https://github.com/empa-scientific-it/python-tutorial/issues/193) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#190 Fix first exercise on mutltiprocessing](https://github.com/empa-scientific-it/python-tutorial/pull/190) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
----
-
-**[🗼 Rss feed from ]()**
-Unexpected error
