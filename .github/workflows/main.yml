@@ -33,9 +33,9 @@ jobs:
           filename: README.md
           config_timezone: Europe/Zurich
           # RSS
-          plugin_rss: true
-          plugin_rss_source: https://blog.edoardob.im/categories/programming/feed.xml
-          plugin_rss_limit: 3
+          # plugin_rss: true
+          # plugin_rss_source: https://blog.edoardob.im/categories/programming/feed.xml
+          # plugin_rss_limit: 3
           # Recent activities
           plugin_activity: true
           plugin_activity_limit: 5
