@@ -7,18 +7,15 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* 🔃 Merged [#161 Scipy library](https://github.com/empa-scientific-it/python-tutorial/pull/161) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 4 files changed `++2838 --1`
+* #️⃣ Closed [#142 pandas](https://github.com/empa-scientific-it/python-tutorial/issues/142) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#1047db1](https://github.com/empa-scientific-it/python-tutorial/commit/1047db1) Scipy library (#161)
-
-Co-authored-by: Raymond C. Amador &lt;ramador@ethz.ch&gt;
-Co-authored-by: Aliaksandr Yakutovich &lt;yakutovicha@gmail.com&gt;
-* #️⃣ Closed [#147 scipy](https://github.com/empa-scientific-it/python-tutorial/issues/147) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * [#bda34be](https://github.com/empa-scientific-it/python-tutorial/commit/bda34be) Pandas library (#174)
+* 🔃 Merged [#174 Pandas library](https://github.com/empa-scientific-it/python-tutorial/pull/174) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 36 files changed `++251980 --0`
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/pandas-library`
-  * [#15521f2](https://github.com/empa-scientific-it/python-tutorial/commit/15521f2) Pandas, chapter 3 + exercises
+  * [#dc3aad4](https://github.com/empa-scientific-it/python-tutorial/commit/dc3aad4) Fix toc and some headings
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `new-material/pandas-library`
-  * [#8e81eef](https://github.com/empa-scientific-it/python-tutorial/commit/8e81eef) Fix headings
+  * [#5c6c35a](https://github.com/empa-scientific-it/python-tutorial/commit/5c6c35a) Add dataset sources
 
 
 ---
