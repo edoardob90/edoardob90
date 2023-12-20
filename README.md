@@ -7,6 +7,8 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [empa-scientific-it/.github](https://github.com/empa-scientific-it/.github) on branch `main`
+  * [#4869267](https://github.com/empa-scientific-it/.github/commit/4869267) Create README.md
 * ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
   * [#6b48727](https://github.com/edoardob90/blog.edoardob.im/commit/6b48727) Add .gitattributes
 * ➡️ Pushed 2 commits in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
@@ -16,6 +18,5 @@
   * [#cd7128c](https://github.com/empa-scientific-it/python-tutorial/commit/cd7128c) Fix removed .append() method
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `fix/pandas-errors`
   * [#113449b](https://github.com/empa-scientific-it/python-tutorial/commit/113449b) Fix some Windows commands
-* #️⃣ Closed [#119 Feedback summary from beginners tutorial 2023](https://github.com/empa-scientific-it/python-tutorial/issues/119) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
