@@ -7,15 +7,17 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* 📦 Released **v1** of [edoardob90/microdotblog-ia-fonts](https://github.com/edoardob90/microdotblog-ia-fonts)
-* ➡️ Pushed 1 commit in [edoardob90/microdotblog-ia-fonts](https://github.com/edoardob90/microdotblog-ia-fonts) on branch `main`
-  * [#0b988a6](https://github.com/edoardob90/microdotblog-ia-fonts/commit/0b988a6) Add files via upload
-* ➡️ Pushed 1 commit in [empa-scientific-it/.github](https://github.com/empa-scientific-it/.github) on branch `main`
-  * [#4869267](https://github.com/empa-scientific-it/.github/commit/4869267) Create README.md
-* ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
-  * [#6b48727](https://github.com/edoardob90/blog.edoardob.im/commit/6b48727) Add .gitattributes
-* ➡️ Pushed 2 commits in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
-  * [#db576d1](https://github.com/edoardob90/blog.edoardob.im/commit/db576d1) Update deps
-  * [#5924c46](https://github.com/edoardob90/blog.edoardob.im/commit/5924c46) Fix problem with post
+* ➡️ Pushed 2 commits in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `cmake`
+  * [#aaf4c29](https://github.com/empa-scientific-it/cleedpy/commit/aaf4c29) Merge remote-tracking branch &#39;origin/cmake&#39; into cmake
+  * [#c5faaa1](https://github.com/empa-scientific-it/cleedpy/commit/c5faaa1) Fix trailing newlines
+* 🔃 Opened [#33 Switch to CMake](https://github.com/empa-scientific-it/cleedpy/pull/33) in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy)
+  * 85 files changed `++97 --13`
+* ➡️ Pushed 2 commits in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `cmake`
+  * [#a1f0764](https://github.com/empa-scientific-it/cleedpy/commit/a1f0764) Workaround to quickly find BLAS include dir
+  * [#f34e704](https://github.com/empa-scientific-it/cleedpy/commit/f34e704) Fix including malloc.h
+* ➡️ Pushed 1 commit in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `cmake`
+  * [#d5e8cf3](https://github.com/empa-scientific-it/cleedpy/commit/d5e8cf3) Fix CMakeLists.txt files
+* ➡️ Pushed 1 commit in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `main`
+  * [#6b5e895](https://github.com/empa-scientific-it/cleedpy/commit/6b5e895) Simplify Makefile and fix some issues (#32)
 
 
