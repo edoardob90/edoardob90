@@ -7,15 +7,15 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 1 commit in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `fix/cmake-library-path`
-  * [#0fac650](https://github.com/empa-scientific-it/cleedpy/commit/0fac650) Adjust libraries names
-* 🔃 Opened [#36 Compile as shared libraries](https://github.com/empa-scientific-it/cleedpy/pull/36) in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy)
-  * 3 files changed `++13 --2`
 * ➡️ Pushed 1 commit in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `main`
-  * [#ebf529f](https://github.com/empa-scientific-it/cleedpy/commit/ebf529f) Small changes to CMake config (#35)
-* 🔃 Merged [#35 A few more comments to CMake config](https://github.com/empa-scientific-it/cleedpy/pull/35) in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy)
-  * 1 file changed `++6 --4`
-* 🔃 Opened [#35 A few more comments to CMake config](https://github.com/empa-scientific-it/cleedpy/pull/35) in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy)
-  * 1 file changed `++6 --4`
+  * [#f509f16](https://github.com/empa-scientific-it/cleedpy/commit/f509f16) Cleanup Makefiles
+* ➡️ Pushed 1 commit in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `main`
+  * [#e41936e](https://github.com/empa-scientific-it/cleedpy/commit/e41936e) Improve how OpenBLAS library is searched (#39)
+* 🔃 Merged [#39 Improve how OpenBLAS library is searched](https://github.com/empa-scientific-it/cleedpy/pull/39) in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy)
+  * 4 files changed `++76 --12`
+* ➡️ Pushed 1 commit in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `add-setup-py`
+  * [#a96091f](https://github.com/empa-scientific-it/cleedpy/commit/a96091f) Reformat setup.py
+* 🔃 Opened [#40 Add `setup.py`](https://github.com/empa-scientific-it/cleedpy/pull/40) in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy)
+  * 6 files changed `++144 --13`
 
 
