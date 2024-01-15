@@ -7,6 +7,8 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/microdotblog-custom-fonts](https://github.com/edoardob90/microdotblog-custom-fonts) on branch `main`
+  * [#df6ea70](https://github.com/edoardob90/microdotblog-custom-fonts/commit/df6ea70) Remove embedded fonts
 * ➡️ Pushed 1 commit in [edoardob90/microdotblog-ia-fonts](https://github.com/edoardob90/microdotblog-ia-fonts) on branch `main`
   * [#33d51cc](https://github.com/edoardob90/microdotblog-ia-fonts/commit/33d51cc) Add Iosevka Aile webfont
 * ➡️ Pushed 1 commit in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `add-setup-py`
@@ -19,7 +21,5 @@
 Co-authored-by: Simone Baffelli &lt;simone.baffelli@empa.ch&gt;
 * ➡️ Pushed 2 commits in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `add-setup-py`
   * [#f7f4fed](https://github.com/empa-scientific-it/cleedpy/commit/f7f4fed) Merge branch &#39;main&#39; into add-setup-py
-* ➡️ Pushed 5 commits in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `add-setup-py`
-  * [#832543e](https://github.com/empa-scientific-it/cleedpy/commit/832543e) Merge branch &#39;main&#39; into add-setup-py
 
 
