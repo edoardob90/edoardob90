@@ -7,19 +7,15 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 1 commit in [edoardob90/microdotblog-custom-fonts](https://github.com/edoardob90/microdotblog-custom-fonts) on branch `main`
-  * [#df6ea70](https://github.com/edoardob90/microdotblog-custom-fonts/commit/df6ea70) Remove embedded fonts
-* ➡️ Pushed 1 commit in [edoardob90/microdotblog-ia-fonts](https://github.com/edoardob90/microdotblog-ia-fonts) on branch `main`
-  * [#33d51cc](https://github.com/edoardob90/microdotblog-ia-fonts/commit/33d51cc) Add Iosevka Aile webfont
 * ➡️ Pushed 1 commit in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `add-setup-py`
-  * [#dd20de4](https://github.com/empa-scientific-it/cleedpy/commit/dd20de4) Comments
-* ➡️ Pushed 3 commits in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `add-setup-py`
-  * [#fbd7aaf](https://github.com/empa-scientific-it/cleedpy/commit/fbd7aaf) Fix library path; add OS-independent loader utility
-  * [#56a3961](https://github.com/empa-scientific-it/cleedpy/commit/56a3961) Merge branch &#39;main&#39; into add-setup-py
-  * [#d499ca9](https://github.com/empa-scientific-it/cleedpy/commit/d499ca9) Define some data structures used inside C code (#41)
-
-Co-authored-by: Simone Baffelli &lt;simone.baffelli@empa.ch&gt;
-* ➡️ Pushed 2 commits in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `add-setup-py`
-  * [#f7f4fed](https://github.com/empa-scientific-it/cleedpy/commit/f7f4fed) Merge branch &#39;main&#39; into add-setup-py
+  * [#8471004](https://github.com/empa-scientific-it/cleedpy/commit/8471004) Change to Alpine
+* ➡️ Pushed 1 commit in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `add-setup-py`
+  * [#8638e82](https://github.com/empa-scientific-it/cleedpy/commit/8638e82) Fix cleed.py
+* ➡️ Pushed 1 commit in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `add-setup-py`
+  * [#9fa5f7e](https://github.com/empa-scientific-it/cleedpy/commit/9fa5f7e) Adjust python command
+* ➡️ Pushed 1 commit in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `add-setup-py`
+  * [#a53b938](https://github.com/empa-scientific-it/cleedpy/commit/a53b938) Update CI image trigger
+* ➡️ Pushed 1 commit in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `add-setup-py`
+  * [#3073af6](https://github.com/empa-scientific-it/cleedpy/commit/3073af6) Change CI image
 
 
