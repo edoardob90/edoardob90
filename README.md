@@ -7,15 +7,14 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* #️⃣ Opened [#8 Mistyped font stack name](https://github.com/MattSLangford/Tiny-Theme-for-Micro.blog/issues/8) in [MattSLangford/Tiny-Theme-for-Micro.blog](https://github.com/MattSLangford/Tiny-Theme-for-Micro.blog)
+* ➡️ Pushed 1 commit in [edoardob90/microdotblog-custom-fonts](https://github.com/edoardob90/microdotblog-custom-fonts) on branch `main`
+  * [#f6344da](https://github.com/edoardob90/microdotblog-custom-fonts/commit/f6344da) Add WOFF fallbacks
+* ➡️ Pushed 1 commit in [edoardob90/microdotblog-custom-fonts](https://github.com/edoardob90/microdotblog-custom-fonts) on branch `main`
+  * [#a677764](https://github.com/edoardob90/microdotblog-custom-fonts/commit/a677764) Update README.md
+* ➡️ Pushed 1 commit in [edoardob90/microdotblog-custom-fonts](https://github.com/edoardob90/microdotblog-custom-fonts) on branch `main`
+  * [#ca5d6b3](https://github.com/edoardob90/microdotblog-custom-fonts/commit/ca5d6b3) Create README.md
 * ➡️ Pushed 1 commit in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `add-setup-py`
   * [#8471004](https://github.com/empa-scientific-it/cleedpy/commit/8471004) Change to Alpine
-* ➡️ Pushed 1 commit in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `add-setup-py`
-  * [#8638e82](https://github.com/empa-scientific-it/cleedpy/commit/8638e82) Fix cleed.py
-* ➡️ Pushed 1 commit in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `add-setup-py`
-  * [#9fa5f7e](https://github.com/empa-scientific-it/cleedpy/commit/9fa5f7e) Adjust python command
-* ➡️ Pushed 1 commit in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `add-setup-py`
-  * [#a53b938](https://github.com/empa-scientific-it/cleedpy/commit/a53b938) Update CI image trigger
-* ➡️ Pushed 1 commit in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `add-setup-py`
-  * [#3073af6](https://github.com/empa-scientific-it/cleedpy/commit/3073af6) Change CI image
 
 
