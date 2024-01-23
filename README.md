@@ -7,14 +7,15 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* #️⃣ Opened [#8 Mistyped font stack name](https://github.com/MattSLangford/Tiny-Theme-for-Micro.blog/issues/8) in [MattSLangford/Tiny-Theme-for-Micro.blog](https://github.com/MattSLangford/Tiny-Theme-for-Micro.blog)
-* ➡️ Pushed 1 commit in [edoardob90/microdotblog-custom-fonts](https://github.com/edoardob90/microdotblog-custom-fonts) on branch `main`
-  * [#f6344da](https://github.com/edoardob90/microdotblog-custom-fonts/commit/f6344da) Add WOFF fallbacks
-* ➡️ Pushed 1 commit in [edoardob90/microdotblog-custom-fonts](https://github.com/edoardob90/microdotblog-custom-fonts) on branch `main`
-  * [#a677764](https://github.com/edoardob90/microdotblog-custom-fonts/commit/a677764) Update README.md
-* ➡️ Pushed 1 commit in [edoardob90/microdotblog-custom-fonts](https://github.com/edoardob90/microdotblog-custom-fonts) on branch `main`
-  * [#ca5d6b3](https://github.com/edoardob90/microdotblog-custom-fonts/commit/ca5d6b3) Create README.md
-* ➡️ Pushed 1 commit in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `add-setup-py`
-  * [#8471004](https://github.com/empa-scientific-it/cleedpy/commit/8471004) Change to Alpine
+* ➡️ Pushed 1 commit in [edoardob90/plugin-shikijs](https://github.com/edoardob90/plugin-shikijs) on branch `main`
+  * [#134a38a](https://github.com/edoardob90/plugin-shikijs/commit/134a38a) Skip empty data-language attribute
+* ➡️ Pushed 1 commit in [edoardob90/plugin-shikijs](https://github.com/edoardob90/plugin-shikijs) on branch `main`
+  * [#a174b28](https://github.com/edoardob90/plugin-shikijs/commit/a174b28) Improve script
+* ➡️ Pushed 1 commit in [edoardob90/plugin-shikijs](https://github.com/edoardob90/plugin-shikijs) on branch `main`
+  * [#8944f1b](https://github.com/edoardob90/plugin-shikijs/commit/8944f1b) Fix theme retrieval
+* ➡️ Pushed 1 commit in [edoardob90/plugin-shikijs](https://github.com/edoardob90/plugin-shikijs) on branch `main`
+  * [#bccadbb](https://github.com/edoardob90/plugin-shikijs/commit/bccadbb) Improve js script loading
+* ➡️ Pushed 1 commit in [edoardob90/plugin-shikijs](https://github.com/edoardob90/plugin-shikijs) on branch `main`
+  * [#c383aed](https://github.com/edoardob90/plugin-shikijs/commit/c383aed) Fix bug
 
 
