@@ -7,15 +7,10 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 1 commit in [edoardob90/plugin-shikijs](https://github.com/edoardob90/plugin-shikijs) on branch `main`
-  * [#134a38a](https://github.com/edoardob90/plugin-shikijs/commit/134a38a) Skip empty data-language attribute
-* ➡️ Pushed 1 commit in [edoardob90/plugin-shikijs](https://github.com/edoardob90/plugin-shikijs) on branch `main`
-  * [#a174b28](https://github.com/edoardob90/plugin-shikijs/commit/a174b28) Improve script
-* ➡️ Pushed 1 commit in [edoardob90/plugin-shikijs](https://github.com/edoardob90/plugin-shikijs) on branch `main`
-  * [#8944f1b](https://github.com/edoardob90/plugin-shikijs/commit/8944f1b) Fix theme retrieval
-* ➡️ Pushed 1 commit in [edoardob90/plugin-shikijs](https://github.com/edoardob90/plugin-shikijs) on branch `main`
-  * [#bccadbb](https://github.com/edoardob90/plugin-shikijs/commit/bccadbb) Improve js script loading
-* ➡️ Pushed 1 commit in [edoardob90/plugin-shikijs](https://github.com/edoardob90/plugin-shikijs) on branch `main`
-  * [#c383aed](https://github.com/edoardob90/plugin-shikijs/commit/c383aed) Fix bug
+* #️⃣ Closed [#195 Split basic datatypes notebook in two](https://github.com/empa-scientific-it/python-tutorial/issues/195) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* #️⃣ Opened [#205 Modules and packages](https://github.com/empa-scientific-it/python-tutorial/issues/205) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* #️⃣ Opened [#204 Object-oriented programming](https://github.com/empa-scientific-it/python-tutorial/issues/204) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* #️⃣ Opened [#203 Input-Output](https://github.com/empa-scientific-it/python-tutorial/issues/203) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* #️⃣ Opened [#202 Functions](https://github.com/empa-scientific-it/python-tutorial/issues/202) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
