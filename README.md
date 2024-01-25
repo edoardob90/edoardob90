@@ -7,10 +7,14 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/plugin-figure-w-captions](https://github.com/edoardob90/plugin-figure-w-captions) on branch `main`
+  * [#f9a4e70](https://github.com/edoardob90/plugin-figure-w-captions/commit/f9a4e70) Fix
+* ➡️ Pushed 1 commit in [edoardob90/plugin-figure-w-captions](https://github.com/edoardob90/plugin-figure-w-captions) on branch `main`
+  * [#97bbcd3](https://github.com/edoardob90/plugin-figure-w-captions/commit/97bbcd3) Update README.md
+* ➡️ Pushed 1 commit in [edoardob90/plugin-figure-w-captions](https://github.com/edoardob90/plugin-figure-w-captions) on branch `main`
+  * [#a9cf9ca](https://github.com/edoardob90/plugin-figure-w-captions/commit/a9cf9ca) Create plugin.json
+* ➡️ Pushed 1 commit in [edoardob90/plugin-figure-w-captions](https://github.com/edoardob90/plugin-figure-w-captions) on branch `main`
+  * [#ace1fe6](https://github.com/edoardob90/plugin-figure-w-captions/commit/ace1fe6) Add render-image.html
 * #️⃣ Closed [#195 Split basic datatypes notebook in two](https://github.com/empa-scientific-it/python-tutorial/issues/195) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* #️⃣ Opened [#205 Modules and packages](https://github.com/empa-scientific-it/python-tutorial/issues/205) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* #️⃣ Opened [#204 Object-oriented programming](https://github.com/empa-scientific-it/python-tutorial/issues/204) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* #️⃣ Opened [#203 Input-Output](https://github.com/empa-scientific-it/python-tutorial/issues/203) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* #️⃣ Opened [#202 Functions](https://github.com/empa-scientific-it/python-tutorial/issues/202) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
