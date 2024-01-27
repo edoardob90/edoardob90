@@ -7,14 +7,14 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 2 commits in [edoardob90/plugin-mb-fonts](https://github.com/edoardob90/plugin-mb-fonts) on branch `main`
+  * [#8e5eea0](https://github.com/edoardob90/plugin-mb-fonts/commit/8e5eea0) Merge branch &#39;main&#39; of https://github.com/edoardob90/plugin-mb-fonts
+* ➡️ Pushed 1 commit in [edoardob90/plugin-mb-fonts](https://github.com/edoardob90/plugin-mb-fonts) on branch `main`
+  * [#a6a1ffb](https://github.com/edoardob90/plugin-mb-fonts/commit/a6a1ffb) Update plugin.json
+* ➡️ Pushed 1 commit in [edoardob90/plugin-mb-fonts](https://github.com/edoardob90/plugin-mb-fonts) on branch `main`
+  * [#1ec961c](https://github.com/edoardob90/plugin-mb-fonts/commit/1ec961c) Add font files
+* #️⃣ Opened [#248 iOS app crashes when opening &#34;Posts&#34;](https://github.com/microdotblog/issues/issues/248) in [microdotblog/issues](https://github.com/microdotblog/issues)
 * ➡️ Pushed 1 commit in [edoardob90/plugin-figure-w-captions](https://github.com/edoardob90/plugin-figure-w-captions) on branch `main`
   * [#f9a4e70](https://github.com/edoardob90/plugin-figure-w-captions/commit/f9a4e70) Fix
-* ➡️ Pushed 1 commit in [edoardob90/plugin-figure-w-captions](https://github.com/edoardob90/plugin-figure-w-captions) on branch `main`
-  * [#97bbcd3](https://github.com/edoardob90/plugin-figure-w-captions/commit/97bbcd3) Update README.md
-* ➡️ Pushed 1 commit in [edoardob90/plugin-figure-w-captions](https://github.com/edoardob90/plugin-figure-w-captions) on branch `main`
-  * [#a9cf9ca](https://github.com/edoardob90/plugin-figure-w-captions/commit/a9cf9ca) Create plugin.json
-* ➡️ Pushed 1 commit in [edoardob90/plugin-figure-w-captions](https://github.com/edoardob90/plugin-figure-w-captions) on branch `main`
-  * [#ace1fe6](https://github.com/edoardob90/plugin-figure-w-captions/commit/ace1fe6) Add render-image.html
-* #️⃣ Closed [#195 Split basic datatypes notebook in two](https://github.com/empa-scientific-it/python-tutorial/issues/195) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
 
 
