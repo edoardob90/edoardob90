@@ -7,30 +7,17 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 1 commit in [edoardob90/plugin-shikijs](https://github.com/edoardob90/plugin-shikijs) on branch `main`
-  * [#5db66a0](https://github.com/edoardob90/plugin-shikijs/commit/5db66a0) Update version
-* ➡️ Pushed 1 commit in [edoardob90/plugin-shikijs](https://github.com/edoardob90/plugin-shikijs) on branch `main`
-  * [#f61f933](https://github.com/edoardob90/plugin-shikijs/commit/f61f933) Update CDN setup
-* ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
-  * [#97d8cd6](https://github.com/edoardob90/blog.edoardob.im/commit/97d8cd6) npm: bump astro from 4.0.5 to 4.2.1 (#34)
-
-Bumps [astro](https://github.com/withastro/astro/tree/HEAD/packages/astro) from 4.0.5 to 4.2.1.
-- [Release notes](https://github.com/withastro/astro/releases)
-- [Changelog](https://github.com/withastro/astro/blob/main/packages/astro/CHANGELOG.md)
-- [Commits](https://github.com/withastro/astro/commits/astro@4.2.1/packages/astro)
-
----
-updated-dependencies:
-- dependency-name: astro
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
-* ➡️ Pushed 2 commits in [edoardob90/plugin-mb-fonts](https://github.com/edoardob90/plugin-mb-fonts) on branch `main`
-  * [#8e5eea0](https://github.com/edoardob90/plugin-mb-fonts/commit/8e5eea0) Merge branch &#39;main&#39; of https://github.com/edoardob90/plugin-mb-fonts
-* ➡️ Pushed 1 commit in [edoardob90/plugin-mb-fonts](https://github.com/edoardob90/plugin-mb-fonts) on branch `main`
-  * [#a6a1ffb](https://github.com/edoardob90/plugin-mb-fonts/commit/a6a1ffb) Update plugin.json
+* ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
+  * [#c2bde43](https://github.com/edoardob90/hugo-rocinante/commit/c2bde43) Remove date from single page
+* ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
+  * [#0ae7453](https://github.com/edoardob90/hugo-rocinante/commit/0ae7453) Update single page template
+* ➡️ Pushed 2 commits in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
+  * [#8663156](https://github.com/edoardob90/hugo-rocinante/commit/8663156) Add archive template
+  * [#de900db](https://github.com/edoardob90/hugo-rocinante/commit/de900db) Adjust horizontal links padding &amp; margin
+* ➡️ Pushed 2 commits in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
+  * [#8a9f1c6](https://github.com/edoardob90/hugo-rocinante/commit/8a9f1c6) Style fixes
+  * [#9bdf25b](https://github.com/edoardob90/hugo-rocinante/commit/9bdf25b) Add .gitignore
+* ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
+  * [#a60a359](https://github.com/edoardob90/hugo-rocinante/commit/a60a359) Photos listing
 
 
