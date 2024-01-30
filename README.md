@@ -8,16 +8,15 @@
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
+  * [#104a22f](https://github.com/edoardob90/hugo-rocinante/commit/104a22f) Styling of reply buttons
+* ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
+  * [#5809667](https://github.com/edoardob90/hugo-rocinante/commit/5809667) Adjust reply buttons
+* ➡️ Pushed 2 commits in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
+  * [#34128e6](https://github.com/edoardob90/hugo-rocinante/commit/34128e6) Add support for some social plugins
+  * [#1425411](https://github.com/edoardob90/hugo-rocinante/commit/1425411) About page description
+* ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
   * [#c2bde43](https://github.com/edoardob90/hugo-rocinante/commit/c2bde43) Remove date from single page
 * ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
   * [#0ae7453](https://github.com/edoardob90/hugo-rocinante/commit/0ae7453) Update single page template
-* ➡️ Pushed 2 commits in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
-  * [#8663156](https://github.com/edoardob90/hugo-rocinante/commit/8663156) Add archive template
-  * [#de900db](https://github.com/edoardob90/hugo-rocinante/commit/de900db) Adjust horizontal links padding &amp; margin
-* ➡️ Pushed 2 commits in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
-  * [#8a9f1c6](https://github.com/edoardob90/hugo-rocinante/commit/8a9f1c6) Style fixes
-  * [#9bdf25b](https://github.com/edoardob90/hugo-rocinante/commit/9bdf25b) Add .gitignore
-* ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
-  * [#a60a359](https://github.com/edoardob90/hugo-rocinante/commit/a60a359) Photos listing
 
 
