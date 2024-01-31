@@ -8,15 +8,16 @@
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
-  * [#104a22f](https://github.com/edoardob90/hugo-rocinante/commit/104a22f) Styling of reply buttons
+  * [#e8c6440](https://github.com/edoardob90/hugo-rocinante/commit/e8c6440) Customizable &#34;read more&#34; text
 * ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
-  * [#5809667](https://github.com/edoardob90/hugo-rocinante/commit/5809667) Adjust reply buttons
-* ➡️ Pushed 2 commits in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
-  * [#34128e6](https://github.com/edoardob90/hugo-rocinante/commit/34128e6) Add support for some social plugins
-  * [#1425411](https://github.com/edoardob90/hugo-rocinante/commit/1425411) About page description
+  * [#8b5ba73](https://github.com/edoardob90/hugo-rocinante/commit/8b5ba73) Show full content of microposts
+
+Microposts or short posts usually don&#39;t have a title.
 * ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
-  * [#c2bde43](https://github.com/edoardob90/hugo-rocinante/commit/c2bde43) Remove date from single page
+  * [#0888682](https://github.com/edoardob90/hugo-rocinante/commit/0888682) Set responsive body font-size
 * ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
-  * [#0ae7453](https://github.com/edoardob90/hugo-rocinante/commit/0ae7453) Update single page template
+  * [#b2f7349](https://github.com/edoardob90/hugo-rocinante/commit/b2f7349) Remove archetypes
+* ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
+  * [#07a72c4](https://github.com/edoardob90/hugo-rocinante/commit/07a72c4) Light/dark mode fixes
 
 
