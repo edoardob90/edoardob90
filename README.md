@@ -8,16 +8,14 @@
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
+  * [#4c49930](https://github.com/edoardob90/hugo-rocinante/commit/4c49930) Fix font-size scaling
+* ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
+  * [#be4e777](https://github.com/edoardob90/hugo-rocinante/commit/be4e777) Adjust inactive element color
+* ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
+  * [#def76c9](https://github.com/edoardob90/hugo-rocinante/commit/def76c9) Color fixes
+* ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
+  * [#9721e22](https://github.com/edoardob90/hugo-rocinante/commit/9721e22) Define color variables
+* ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
   * [#e8c6440](https://github.com/edoardob90/hugo-rocinante/commit/e8c6440) Customizable &#34;read more&#34; text
-* ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
-  * [#8b5ba73](https://github.com/edoardob90/hugo-rocinante/commit/8b5ba73) Show full content of microposts
-
-Microposts or short posts usually don&#39;t have a title.
-* ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
-  * [#0888682](https://github.com/edoardob90/hugo-rocinante/commit/0888682) Set responsive body font-size
-* ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
-  * [#b2f7349](https://github.com/edoardob90/hugo-rocinante/commit/b2f7349) Remove archetypes
-* ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
-  * [#07a72c4](https://github.com/edoardob90/hugo-rocinante/commit/07a72c4) Light/dark mode fixes
 
 
