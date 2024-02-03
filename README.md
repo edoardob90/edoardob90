@@ -7,15 +7,18 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 2 commits in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
+  * [#37501ae](https://github.com/edoardob90/hugo-rocinante/commit/37501ae) Add grid-gallery shortcode
+  * [#52c2ecf](https://github.com/edoardob90/hugo-rocinante/commit/52c2ecf) Adjust margins
+* ➡️ Pushed 1 commit in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy) on branch `main`
+  * [#2a7badf](https://github.com/empa-scientific-it/cleedpy/commit/2a7badf) Add `setup.py` (#40)
+
+Installing the package requires CMake and a C compiler to build the library.
+The testing runs on a custom Docker image that includes the dependencies.
+* #️⃣ Closed [#10 Add `setup.py` to compile the code during the installation process](https://github.com/empa-scientific-it/cleedpy/issues/10) in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy)
+* 🔃 Merged [#40 Add `setup.py`](https://github.com/empa-scientific-it/cleedpy/pull/40) in [empa-scientific-it/cleedpy](https://github.com/empa-scientific-it/cleedpy)
+  * 7 files changed `++130 --34`
 * ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
-  * [#4c49930](https://github.com/edoardob90/hugo-rocinante/commit/4c49930) Fix font-size scaling
-* ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
-  * [#be4e777](https://github.com/edoardob90/hugo-rocinante/commit/be4e777) Adjust inactive element color
-* ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
-  * [#def76c9](https://github.com/edoardob90/hugo-rocinante/commit/def76c9) Color fixes
-* ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
-  * [#9721e22](https://github.com/edoardob90/hugo-rocinante/commit/9721e22) Define color variables
-* ➡️ Pushed 1 commit in [edoardob90/hugo-rocinante](https://github.com/edoardob90/hugo-rocinante) on branch `master`
-  * [#e8c6440](https://github.com/edoardob90/hugo-rocinante/commit/e8c6440) Customizable &#34;read more&#34; text
+  * [#21c57b8](https://github.com/edoardob90/hugo-rocinante/commit/21c57b8) Adjust photo gallery style
 
 
