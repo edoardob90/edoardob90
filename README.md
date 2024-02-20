@@ -7,6 +7,8 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 2 commits in [edoardob90/plugin-photoswipe](https://github.com/edoardob90/plugin-photoswipe) on branch `main`
+  * [#7dad869](https://github.com/edoardob90/plugin-photoswipe/commit/7dad869) Merge branch &#39;main&#39; of https://github.com/edoardob90/plugin-photoswipe
 * ➡️ Pushed 1 commit in [edoardob90/plugin-photoswipe](https://github.com/edoardob90/plugin-photoswipe) on branch `main`
   * [#0135aa9](https://github.com/edoardob90/plugin-photoswipe/commit/0135aa9) Bump PhotoSwipe version
 * ➡️ Pushed 1 commit in [edoardob90/plugin-photoswipe](https://github.com/edoardob90/plugin-photoswipe) on branch `main`
@@ -15,7 +17,5 @@
   * [#ee5fbc9](https://github.com/edoardob90/plugin-photoswipe/commit/ee5fbc9) Fix path
 * ➡️ Pushed 1 commit in [edoardob90/plugin-photoswipe](https://github.com/edoardob90/plugin-photoswipe) on branch `main`
   * [#31204f4](https://github.com/edoardob90/plugin-photoswipe/commit/31204f4) Initial commit
-* ➡️ Pushed 1 commit in [edoardob90/plugin-figure-w-captions](https://github.com/edoardob90/plugin-figure-w-captions) on branch `main`
-  * [#765e2f4](https://github.com/edoardob90/plugin-figure-w-captions/commit/765e2f4) Update figure styling
 
 
