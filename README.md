@@ -7,15 +7,14 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 2 commits in [edoardob90/plugin-photoswipe](https://github.com/edoardob90/plugin-photoswipe) on branch `main`
-  * [#7dad869](https://github.com/edoardob90/plugin-photoswipe/commit/7dad869) Merge branch &#39;main&#39; of https://github.com/edoardob90/plugin-photoswipe
-* ➡️ Pushed 1 commit in [edoardob90/plugin-photoswipe](https://github.com/edoardob90/plugin-photoswipe) on branch `main`
-  * [#0135aa9](https://github.com/edoardob90/plugin-photoswipe/commit/0135aa9) Bump PhotoSwipe version
-* ➡️ Pushed 1 commit in [edoardob90/plugin-photoswipe](https://github.com/edoardob90/plugin-photoswipe) on branch `main`
-  * [#346c592](https://github.com/edoardob90/plugin-photoswipe/commit/346c592) Restructure; use script module
-* ➡️ Pushed 1 commit in [edoardob90/plugin-photoswipe](https://github.com/edoardob90/plugin-photoswipe) on branch `main`
-  * [#ee5fbc9](https://github.com/edoardob90/plugin-photoswipe/commit/ee5fbc9) Fix path
-* ➡️ Pushed 1 commit in [edoardob90/plugin-photoswipe](https://github.com/edoardob90/plugin-photoswipe) on branch `main`
-  * [#31204f4](https://github.com/edoardob90/plugin-photoswipe/commit/31204f4) Initial commit
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
+  * [#94ce66d](https://github.com/empa-scientific-it/python-tutorial/commit/94ce66d) Fix tests of the decorator exercise (#178)
+* 🔃 Merged [#178 Fix tests of the decorator exercise](https://github.com/empa-scientific-it/python-tutorial/pull/178) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 1 file changed `++10 --2`
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
+  * [#1b42590](https://github.com/empa-scientific-it/python-tutorial/commit/1b42590) Fix errors in Pandas notebook (#194)
+* #️⃣ Closed [#193 Errors found in `library_pandas` notebook](https://github.com/empa-scientific-it/python-tutorial/issues/193) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔃 Merged [#194 Fix errors in Pandas notebook](https://github.com/empa-scientific-it/python-tutorial/pull/194) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 1 file changed `++21 --37`
 
 
