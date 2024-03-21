@@ -7,11 +7,20 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* #️⃣ Opened [#209 Reorder OOP exercises](https://github.com/empa-scientific-it/python-tutorial/issues/209) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* #️⃣ Opened [#208 Add a third exercise](https://github.com/empa-scientific-it/python-tutorial/issues/208) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* #️⃣ Closed [#117 Provide intermediate exercises for the object-oriented programming section.](https://github.com/empa-scientific-it/python-tutorial/issues/117) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* #️⃣ Opened [#207 Reorganize &#34;Object-Oriented Programming&#34;](https://github.com/empa-scientific-it/python-tutorial/issues/207) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔃 Opened [#206 Rename notebooks in a progressive order](https://github.com/empa-scientific-it/python-tutorial/pull/206) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 22 files changed `++66 --66`
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `118-functions-provide-intermediate-exercises`
+  * [#2c18b91](https://github.com/empa-scientific-it/python-tutorial/commit/2c18b91) Reorder OOP exercises (#210)
+
+* Move exercise from intro to advanced
+* Fix tests
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
+  * [#2c18b91](https://github.com/empa-scientific-it/python-tutorial/commit/2c18b91) Reorder OOP exercises (#210)
+
+* Move exercise from intro to advanced
+* Fix tests
+* #️⃣ Closed [#209 Reorder OOP exercises](https://github.com/empa-scientific-it/python-tutorial/issues/209) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔃 Merged [#210 Reorder OOP exercises](https://github.com/empa-scientific-it/python-tutorial/pull/210) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 4 files changed `++464 --479`
+* 🔃 Opened [#210 Reorder OOP exercises](https://github.com/empa-scientific-it/python-tutorial/pull/210) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 4 files changed `++464 --479`
 
 
