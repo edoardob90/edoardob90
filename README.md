@@ -8,19 +8,19 @@
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `118-functions-provide-intermediate-exercises`
-  * [#2c18b91](https://github.com/empa-scientific-it/python-tutorial/commit/2c18b91) Reorder OOP exercises (#210)
-
-* Move exercise from intro to advanced
-* Fix tests
+  * [#c34c110](https://github.com/empa-scientific-it/python-tutorial/commit/c34c110) Update toc
 * ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#2c18b91](https://github.com/empa-scientific-it/python-tutorial/commit/2c18b91) Reorder OOP exercises (#210)
+  * [#823c146](https://github.com/empa-scientific-it/python-tutorial/commit/823c146) Add issue templates (#141)
+* 🔃 Merged [#141 Add issue templates](https://github.com/empa-scientific-it/python-tutorial/pull/141) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 2 files changed `++46 --0`
+* ➡️ Pushed 4 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `118-functions-provide-intermediate-exercises`
+  * [#d42abf1](https://github.com/empa-scientific-it/python-tutorial/commit/d42abf1) Add test to new exercise #2
+  * [#3aeebb9](https://github.com/empa-scientific-it/python-tutorial/commit/3aeebb9) Improve tests parametrization
+  * [#5f7484b](https://github.com/empa-scientific-it/python-tutorial/commit/5f7484b) Revert &#34;Fix a few bugs with the tests&#34;
 
-* Move exercise from intro to advanced
-* Fix tests
-* #️⃣ Closed [#209 Reorder OOP exercises](https://github.com/empa-scientific-it/python-tutorial/issues/209) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* 🔃 Merged [#210 Reorder OOP exercises](https://github.com/empa-scientific-it/python-tutorial/pull/210) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 4 files changed `++464 --479`
-* 🔃 Opened [#210 Reorder OOP exercises](https://github.com/empa-scientific-it/python-tutorial/pull/210) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-  * 4 files changed `++464 --479`
+This reverts commit 8985fb923608723a9d9f1b818025be01756b8883.
+  * [#8985fb9](https://github.com/empa-scientific-it/python-tutorial/commit/8985fb9) Fix a few bugs with the tests
+* 🔃 Opened [#211 Functions](https://github.com/empa-scientific-it/python-tutorial/pull/211) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+  * 2 files changed `++212 --34`
 
 
