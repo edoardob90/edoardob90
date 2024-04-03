@@ -7,15 +7,15 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 4 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `81-naming-enumerate-notebooks`
-  * [#458f013](https://github.com/empa-scientific-it/python-tutorial/commit/458f013) Merge branch &#39;main&#39; into 81-naming-enumerate-notebooks
-* #️⃣ Closed [#212 Add a quiz about basic OOP concepts](https://github.com/empa-scientific-it/python-tutorial/issues/212) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `main`
-  * [#ffbc6c8](https://github.com/empa-scientific-it/python-tutorial/commit/ffbc6c8) Expand OOP introductory notebook (#213)
+* ➡️ Pushed 6 commits in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `118-functions-provide-intermediate-exercises`
+  * [#7f45e47](https://github.com/empa-scientific-it/python-tutorial/commit/7f45e47) Merge branch &#39;main&#39; into 118-functions-provide-intermediate-exercises
+* ➡️ Pushed 1 commit in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) on branch `118-functions-provide-intermediate-exercises`
+  * [#509312a](https://github.com/empa-scientific-it/python-tutorial/commit/509312a) Apply suggestions from code review
 
-Co-authored-by: despadam &lt;despina.adamopoulou@empa.ch&gt;
-Co-authored-by: Edoardo Baldi &lt;edoardo.baldi@empa.ch&gt;
-* #️⃣ Closed [#208 Add a third exercise to OOP notebook](https://github.com/empa-scientific-it/python-tutorial/issues/208) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
-* #️⃣ Closed [#111 Fix exercises 1-3 on OOP and their tests](https://github.com/empa-scientific-it/python-tutorial/issues/111) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+Co-authored-by: Despina Adamopoulou &lt;16343312+despadam@users.noreply.github.com&gt;
+* 🔍 Reviewed [#211 Expand Functions introductory notebook](https://github.com/empa-scientific-it/python-tutorial/pull/211) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* 🔍 Reviewed [#211 Expand Functions introductory notebook](https://github.com/empa-scientific-it/python-tutorial/pull/211) in [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial)
+* ➡️ Pushed 1 commit in [edoardob90/blog.edoardob.im](https://github.com/edoardob90/blog.edoardob.im) on branch `main`
+  * [#ad5a37c](https://github.com/edoardob90/blog.edoardob.im/commit/ad5a37c) Disable Dependabot (keep config)
 
 
