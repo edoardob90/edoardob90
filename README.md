@@ -7,85 +7,134 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#3f0417f](https://github.com/edoardob90/dotfiles/commit/3f0417f) nvim plugins: add remember.nvim
-* #️⃣ Opened [#4 Add support for KeypassXC](https://github.com/empa-scientific-it/cscs-keygen/issues/4) in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen)
-* 🔃 Merged [#1 Implement a credentials helper](https://github.com/empa-scientific-it/cscs-keygen/pull/1) in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen)
-  * 16 files changed `++1962 --719`
-* ➡️ Pushed 1 commit in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen) on branch `main`
-  * [#b720dbd](https://github.com/empa-scientific-it/cscs-keygen/commit/b720dbd) Implement a credentials helper (#1)
+* ➡️ Pushed 1 commit in [edoardob90/bearming-theme](https://github.com/edoardob90/bearming-theme) on branch `main`
+  * [#6954981](https://github.com/edoardob90/bearming-theme/commit/6954981) Fixes
+* ➡️ Pushed 6 commits in [edoardob90/bearming-theme](https://github.com/edoardob90/bearming-theme) on branch `main`
+  * [#aba5ae7](https://github.com/edoardob90/bearming-theme/commit/aba5ae7) Add license
+  * [#a83aed7](https://github.com/edoardob90/bearming-theme/commit/a83aed7) Integrate customizations on top of v1.4.4
+  * [#c855f2c](https://github.com/edoardob90/bearming-theme/commit/c855f2c) Add current custom theme (based on v1.2.7)
+  * [#12467f9](https://github.com/edoardob90/bearming-theme/commit/12467f9) Simplify structure
+  * [#0f766a6](https://github.com/edoardob90/bearming-theme/commit/0f766a6) Original theme v1.4.4
+  * [#fa79b14](https://github.com/edoardob90/bearming-theme/commit/fa79b14) Initial repo structure
+* 🔃 Merged [#5 Sync upstream](https://github.com/edoardob90/python-tutorial/pull/5) in [edoardob90/python-tutorial](https://github.com/edoardob90/python-tutorial)
+  * 0 files changed `++0 --0`
+* ➡️ Pushed 17 commits in [edoardob90/python-tutorial](https://github.com/edoardob90/python-tutorial) on branch `main`
+  * [#c928bbd](https://github.com/edoardob90/python-tutorial/commit/c928bbd) Create devcontainer.json
+  * [#d597ed7](https://github.com/edoardob90/python-tutorial/commit/d597ed7) Update Dockerfile
 
-* Initial commit
+Remove unneeded COPY
+  * [#dcf9f9e](https://github.com/edoardob90/python-tutorial/commit/dcf9f9e) Update dockerfile (#4)
+  * [#21ef420](https://github.com/edoardob90/python-tutorial/commit/21ef420) Create docker-build.yml
+  * [#59f64ee](https://github.com/edoardob90/python-tutorial/commit/59f64ee) Optimize Docker image build
+  * [#30d593d](https://github.com/edoardob90/python-tutorial/commit/30d593d) Remove pinned python version
+  * [#7bafc8c](https://github.com/edoardob90/python-tutorial/commit/7bafc8c) Use base environment
+  * [#021f100](https://github.com/edoardob90/python-tutorial/commit/021f100) Paths fixed
+  * [#4aeac8c](https://github.com/edoardob90/python-tutorial/commit/4aeac8c) Add a starting Dockerfile
+  * [#a8d14c5](https://github.com/edoardob90/python-tutorial/commit/a8d14c5) Fix debug mode persistency issue (#276)
+  * [#a6a77f7](https://github.com/edoardob90/python-tutorial/commit/a6a77f7) Updates to `functions` notebook (#251)
+  * [#a50c214](https://github.com/edoardob90/python-tutorial/commit/a50c214) Address minor issues in the &#34;modules and packages&#34; notebook (#266)
+  * [#751bcb1](https://github.com/edoardob90/python-tutorial/commit/751bcb1) Updates to `control_flow` notebook (#250)
 
-* Initial commit
+---------
+Co-authored-by: Pascal Su &lt;pascal.su@empa.ch&gt;
+  * [#432fcfd](https://github.com/edoardob90/python-tutorial/commit/432fcfd) Update on notebook basic_datatypes (#256)
 
-* Add gitignore and Pipfile
+* Fixed some issues, added some exercises and
+rewrote some of the text.
 
-* Add first draft of credentials_helper
+* [pre-commit.ci] auto fixes from pre-commit.com hooks
 
-* Add requirements.txt
+for more information, see https://pre-commit.ci
 
-* Update Pipfile
+* Commiting &#34;is None&#34; for flake8
 
-* Update required Python version
+* [pre-commit.ci] auto fixes from pre-commit.com hooks
 
-* Add &#39;black&#39; as dev dependency
+for more information, see https://pre-commit.ci
 
-* Reformat
+* Added Split and len to methods for strings.
 
-* First draft of creds helper
+* Added docstrings to exercises and changed 1 exercise
 
-* Finalized CredsHelper
+* [pre-commit.ci] auto fixes from pre-commit.com hooks
 
-* Rewrite script to use CredsHelper
+for more information, see https://pre-commit.ci
 
-* Add dry-run, verbose/quiet options and logging
+* Fixing some minor mistakes in the basic datatypes notebook
 
-* Better type hinting
+* Update tutorial/tests/test_basic_datatypes.py
 
-* Minor changes
+Fixing an error I missed causing all the exercises to break.
 
-* Improve errors
+Co-authored-by: Despina Adamopoulou &lt;16343312+despadam@users.noreply.github.com&gt;
 
-* Add subcommands
+* Fixes for Review of Simone
 
-* Add pyproject.toml
+* Fixing popitem() description
 
-* Package structure
+* Added error formating and complex to float example
 
-* Update deps
+* pre-commit adjusts
 
-* Update requirements
+* [pre-commit.ci] auto fixes from pre-commit.com hooks
 
-* Reformat script with mutliple commands
+for more information, see https://pre-commit.ci
 
-* Rename package
+* making typehints more consistent
 
-* Update pyproject
+* fix on fistandlastelement
 
-* Bug: repeated line
+* List can contain strings
 
-* Update README
+* fix list comment
 
-* Remove duplicated line
+* Import in cells and rounding down
 
-* Small fixes
+* Update basic_datatypes.ipynb
 
-* Refactor
+Co-authored-by: Aliaksandr Yakutovich &lt;yakutovicha@gmail.com&gt;
 
-* Configure python package
+* spread lines in unpacking section and fix my_list3
 
-* Move from pipenv to poetry
+* [pre-commit.ci] auto fixes from pre-commit.com hooks
 
-* Ruff formatting
+for more information, see https://pre-commit.ci
 
-* Use Pydantic base model for api response
+* Update basic_datatypes.ipynb
 
-* Update requirements
+* Update basic_datatypes.ipynb
 
-* Update README
+Co-authored-by: Edoardo Baldi &lt;edoardo.baldi@empa.ch&gt;
 
-* Ruff format
-* #️⃣ Opened [#3 Testing on Windows](https://github.com/empa-scientific-it/cscs-keygen/issues/3) in [empa-scientific-it/cscs-keygen](https://github.com/empa-scientific-it/cscs-keygen)
+* Update basic_datatypes.ipynb
+
+Co-authored-by: Edoardo Baldi &lt;edoardo.baldi@empa.ch&gt;
+
+* Update basic_datatypes.ipynb
+
+Co-authored-by: Edoardo Baldi &lt;edoardo.baldi@empa.ch&gt;
+
+* Adhere to the &#39;only one line per sentence&#39; rule
+
+---------
+
+Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
+Co-authored-by: Despina Adamopoulou &lt;16343312+despadam@users.noreply.github.com&gt;
+Co-authored-by: Aliaksandr Yakutovich &lt;yakutovicha@gmail.com&gt;
+Co-authored-by: edoardob90 &lt;edoardob90@gmail.com&gt;
+Co-authored-by: Edoardo Baldi &lt;edoardo.baldi@empa.ch&gt;
+  * [#7bce206](https://github.com/edoardob90/python-tutorial/commit/7bce206) Fix traceback issue (#265)
+
+Also:
+* Remove ANSI escape sequences from tests output
+* UI fix: hide scrollbar from test results title
+  * [#6d6452e](https://github.com/edoardob90/python-tutorial/commit/6d6452e) Run tutorial in GitHub Codespaces (#259)
+  * [#caf4594](https://github.com/edoardob90/python-tutorial/commit/caf4594) Integrate AI feedback for tests results (#248)
+
+Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
+Co-authored-by: Despina Adamopoulou &lt;16343312+despadam@users.noreply.github.com&gt;
+Co-authored-by: Snowwpanda &lt;pascal.su@empa.ch&gt;
+* 🔃 Opened [#5 Sync upstream](https://github.com/edoardob90/python-tutorial/pull/5) in [edoardob90/python-tutorial](https://github.com/edoardob90/python-tutorial)
+  * 22 files changed `++3909 --1787`
 
 
