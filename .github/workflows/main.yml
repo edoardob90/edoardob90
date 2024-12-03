@@ -27,7 +27,7 @@ jobs:
             tensorflow-training, PythonHPC20,
             dotpandoc, archie,
             hugo-PaperMod, word-embeddings-workshop,
-            edoardob90, hugo-bearblog
+            edoardob90, hugo-bearblog, python-tutorial
           markdown: >-
             https://raw.githubusercontent.com/edoardob90/edoardob90/main/metrics.template.md
           filename: README.md
