@@ -8,16 +8,26 @@
 
 **[📰 Recent activity](https://github.com/edoardob90)**
 * ➡️ Pushed 1 commit in [edoardob90/aoc2024](https://github.com/edoardob90/aoc2024) on branch `main`
-  * [#4a43b36](https://github.com/edoardob90/aoc2024/commit/4a43b36) Day 15: Python (part 1)
-* ➡️ Pushed 1 commit in [edoardob90/aoc2024](https://github.com/edoardob90/aoc2024) on branch `main`
-  * [#b8b9a65](https://github.com/edoardob90/aoc2024/commit/b8b9a65) Day 13: Python
+  * [#5729a46](https://github.com/edoardob90/aoc2024/commit/5729a46) Day 18: Python (part 1)
 
-More readable solution
+Test doesn&#39;t work on the example: n=7 (the actual grid size) outputs a
+path length of 18 instead of 22. Must set n=9 to obtain the correct
+result.
 * ➡️ Pushed 1 commit in [edoardob90/aoc2024](https://github.com/edoardob90/aoc2024) on branch `main`
-  * [#f38e0e9](https://github.com/edoardob90/aoc2024/commit/f38e0e9) Day 12: Python (part 1)
+  * [#f2a1717](https://github.com/edoardob90/aoc2024/commit/f2a1717) Day 19: code reformat
+* ➡️ Pushed 3 commits in [edoardob90/aoc2024](https://github.com/edoardob90/aoc2024) on branch `main`
+  * [#4a8c905](https://github.com/edoardob90/aoc2024/commit/4a8c905) Day 19: Python (p2)
+  * [#a95caa6](https://github.com/edoardob90/aoc2024/commit/a95caa6) Day 19: add explanation
+
+How the &#34;search&#34; method of the &#34;Trie&#34; class works
+  * [#29ba132](https://github.com/edoardob90/aoc2024/commit/29ba132) Day 19: Python (p1)
 * ➡️ Pushed 1 commit in [empa-scientific-it/empa-spack](https://github.com/empa-scientific-it/empa-spack) on branch `main`
-  * [#017ab41](https://github.com/empa-scientific-it/empa-spack/commit/017ab41) Fix readme
-* ➡️ Pushed 1 commit in [empa-scientific-it/empa-spack](https://github.com/empa-scientific-it/empa-spack) on branch `main`
-  * [#0c7c433](https://github.com/empa-scientific-it/empa-spack/commit/0c7c433) Fix readme
+  * [#26186cd](https://github.com/empa-scientific-it/empa-spack/commit/26186cd) Add scope to &#39;spack repo&#39; command
+
+Explain why we need this repo to be register in the &#39;site&#39; scope
+* ➡️ Pushed 1 commit in [edoardob90/aoc2024](https://github.com/edoardob90/aoc2024) on branch `main`
+  * [#2f3afa3](https://github.com/edoardob90/aoc2024/commit/2f3afa3) Add examples
+
+Day 17, solution only in WL
 
 
