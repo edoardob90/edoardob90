@@ -7,27 +7,21 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 1 commit in [edoardob90/aoc2024](https://github.com/edoardob90/aoc2024) on branch `main`
-  * [#1193b98](https://github.com/edoardob90/aoc2024/commit/1193b98) Day 25: Python
+* ➡️ Pushed 1 commit in [empa-scientific-it/empa-spack](https://github.com/empa-scientific-it/empa-spack) on branch `add-cubehandler`
+  * [#3f8ae05](https://github.com/empa-scientific-it/empa-spack/commit/3f8ae05) Add uenv
+* 🔃 Opened [#7 Add &#39;cubehandler&#39; package](https://github.com/empa-scientific-it/empa-spack/pull/7) in [empa-scientific-it/empa-spack](https://github.com/empa-scientific-it/empa-spack)
+  * 1 file changed `++52 --0`
+* 🔃 Opened [#6 Add &#34;critic2&#34; package &amp; uenv](https://github.com/empa-scientific-it/empa-spack/pull/6) in [empa-scientific-it/empa-spack](https://github.com/empa-scientific-it/empa-spack)
+  * 4 files changed `++80 --0`
+* ➡️ Pushed 1 commit in [empa-scientific-it/empa-spack](https://github.com/empa-scientific-it/empa-spack) on branch `add-critic2`
+  * [#cf0c1de](https://github.com/empa-scientific-it/empa-spack/commit/cf0c1de) Add uenv config
+* ➡️ Pushed 1 commit in [empa-scientific-it/empa-spack](https://github.com/empa-scientific-it/empa-spack) on branch `main`
+  * [#43f5155](https://github.com/empa-scientific-it/empa-spack/commit/43f5155) Add a readme for containers (#5)
 
-I&#39;m missing 16 stars to complete the calendar
-* ➡️ Pushed 1 commit in [edoardob90/aoc2024](https://github.com/edoardob90/aoc2024) on branch `main`
-  * [#83c1323](https://github.com/edoardob90/aoc2024/commit/83c1323) Day 23: Python
+* Add a readme for containers
 
-Quite slow: Time (mean ± σ): 927.7 ms ± 3.8 ms
-* ➡️ Pushed 1 commit in [edoardob90/aoc2024](https://github.com/edoardob90/aoc2024) on branch `main`
-  * [#5729a46](https://github.com/edoardob90/aoc2024/commit/5729a46) Day 18: Python (part 1)
+* Update repo readme
 
-Test doesn&#39;t work on the example: n=7 (the actual grid size) outputs a
-path length of 18 instead of 22. Must set n=9 to obtain the correct
-result.
-* ➡️ Pushed 1 commit in [edoardob90/aoc2024](https://github.com/edoardob90/aoc2024) on branch `main`
-  * [#f2a1717](https://github.com/edoardob90/aoc2024/commit/f2a1717) Day 19: code reformat
-* ➡️ Pushed 3 commits in [edoardob90/aoc2024](https://github.com/edoardob90/aoc2024) on branch `main`
-  * [#4a8c905](https://github.com/edoardob90/aoc2024/commit/4a8c905) Day 19: Python (p2)
-  * [#a95caa6](https://github.com/edoardob90/aoc2024/commit/a95caa6) Day 19: add explanation
-
-How the &#34;search&#34; method of the &#34;Trie&#34; class works
-  * [#29ba132](https://github.com/edoardob90/aoc2024/commit/29ba132) Day 19: Python (p1)
+* Formatting
 
 
