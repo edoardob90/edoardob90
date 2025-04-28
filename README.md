@@ -7,14 +7,14 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* 🔃 Opened [#1 Resolve internal links](https://github.com/edoardob90/obsidian-day-one-importer/pull/1) in [edoardob90/obsidian-day-one-importer](https://github.com/edoardob90/obsidian-day-one-importer)
-  * 13 files changed `++2814 --1389`
-* 🔃 Closed [#16 Resolve internal links](https://github.com/MarcDonald/obsidian-day-one-importer/pull/16) in [MarcDonald/obsidian-day-one-importer](https://github.com/MarcDonald/obsidian-day-one-importer)
-  * 13 files changed `++2814 --1389`
-* 🔃 Opened [#16 Resolve internal links](https://github.com/MarcDonald/obsidian-day-one-importer/pull/16) in [MarcDonald/obsidian-day-one-importer](https://github.com/MarcDonald/obsidian-day-one-importer)
-  * 13 files changed `++2814 --1389`
-* #️⃣ Opened [#15 Day One internal links resolution](https://github.com/MarcDonald/obsidian-day-one-importer/issues/15) in [MarcDonald/obsidian-day-one-importer](https://github.com/MarcDonald/obsidian-day-one-importer)
-* ➡️ Pushed 1 commit in [empa-scientific-it/empa-spack](https://github.com/empa-scientific-it/empa-spack) on branch `add-cubehandler`
-  * [#3f8ae05](https://github.com/empa-scientific-it/empa-spack/commit/3f8ae05) Add uenv
+* 🔍 Reviewed [#17 Add support for resolving Day One internal links](https://github.com/MarcDonald/obsidian-day-one-importer/pull/17) in [MarcDonald/obsidian-day-one-importer](https://github.com/MarcDonald/obsidian-day-one-importer)
+* ➡️ Pushed 1 commit in [edoardob90/obsidian-day-one-importer](https://github.com/edoardob90/obsidian-day-one-importer) on branch `main`
+  * [#154cf1d](https://github.com/edoardob90/obsidian-day-one-importer/commit/154cf1d) Update README
+* ➡️ Pushed 1 commit in [edoardob90/obsidian-day-one-importer](https://github.com/edoardob90/obsidian-day-one-importer) on branch `main`
+  * [#09148a8](https://github.com/edoardob90/obsidian-day-one-importer/commit/09148a8) Bump version
+* ➡️ Pushed 1 commit in [edoardob90/obsidian-day-one-importer](https://github.com/edoardob90/obsidian-day-one-importer) on branch `main`
+  * [#e9f0789](https://github.com/edoardob90/obsidian-day-one-importer/commit/e9f0789) Day One internal links (#3)
+* 🔃 Merged [#3 Day One internal links](https://github.com/edoardob90/obsidian-day-one-importer/pull/3) in [edoardob90/obsidian-day-one-importer](https://github.com/edoardob90/obsidian-day-one-importer)
+  * 9 files changed `++1020 --164`
 
 
