@@ -11,7 +11,5 @@
   * [#6626210](https://github.com/empa-scientific-it/empa-spack/commit/6626210) Add py-seekpath
 
 Not adding it to &#34;phonopy&#34; Spack package because it&#39;s listed as an optional dependency
-* 🔃 Opened [#9 Add Phonopy v2](https://github.com/empa-scientific-it/empa-spack/pull/9) in [empa-scientific-it/empa-spack](https://github.com/empa-scientific-it/empa-spack)
-  * 3 files changed `++88 --1`
 
 
