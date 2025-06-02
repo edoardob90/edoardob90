@@ -7,6 +7,13 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 4 commits in [edoardob90/rust-python-interoperability](https://github.com/edoardob90/rust-python-interoperability) on branch `main`
+  * [#d2e33d9](https://github.com/edoardob90/rust-python-interoperability/commit/d2e33d9) intro: 05-gil
+
+Using PyO3 native types, handling the GIL
+  * [#756ef43](https://github.com/edoardob90/rust-python-interoperability/commit/756ef43) intro: 03-functions, 04-arguments
+  * [#993031f](https://github.com/edoardob90/rust-python-interoperability/commit/993031f) intro: 02-modules
+  * [#156e461](https://github.com/edoardob90/rust-python-interoperability/commit/156e461) intro: 00-welcome, 01-setup
 * ➡️ Pushed 1 commit in [empa-scientific-it/how-to-git](https://github.com/empa-scientific-it/how-to-git) on branch `main`
   * [#527a5dc](https://github.com/empa-scientific-it/how-to-git/commit/527a5dc) Update links
 * ➡️ Pushed 1 commit in [empa-scientific-it/how-to-git](https://github.com/empa-scientific-it/how-to-git) on branch `main`
@@ -30,6 +37,5 @@
 Co-authored-by: Edoardo Baldi &lt;edoardob90@gmail.com&gt;
 * 🔃 Merged [#10 Update `ppafm` uenv](https://github.com/empa-scientific-it/empa-spack/pull/10) in [empa-scientific-it/empa-spack](https://github.com/empa-scientific-it/empa-spack)
   * 7 files changed `++35 --3`
-* 🔍 Reviewed [#10 Update `ppafm` uenv](https://github.com/empa-scientific-it/empa-spack/pull/10) in [empa-scientific-it/empa-spack](https://github.com/empa-scientific-it/empa-spack)
 
 
