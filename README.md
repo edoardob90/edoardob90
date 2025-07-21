@@ -7,6 +7,13 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [edoardob90/sqlalchemy-workshop](https://github.com/edoardob90/sqlalchemy-workshop) on branch `main`
+  * [#205575a](https://github.com/edoardob90/sqlalchemy-workshop/commit/205575a) Add justfile and modernize project tooling
+
+The changes modernize the project setup by: - Adding a justfile for task
+automation - Switching to uv for dependency management - Adding proper project
+dependencies - Improving documentation with quick start guide - Adding new
+development commands
 * ➡️ Pushed 3 commits in [empa-scientific-it/docs](https://github.com/empa-scientific-it/docs) on branch `openbis`
   * [#973f6aa](https://github.com/empa-scientific-it/docs/commit/973f6aa) Merge branch &#39;main&#39; into openbis
 * ➡️ Pushed 2 commits in [empa-scientific-it/empa-software-stack](https://github.com/empa-scientific-it/empa-software-stack) on branch `lammps-mace`
@@ -14,8 +21,6 @@
 * ➡️ Pushed 1 commit in [empa-scientific-it/empa-software-stack](https://github.com/empa-scientific-it/empa-software-stack) on branch `main`
   * [#f7fe345](https://github.com/empa-scientific-it/empa-software-stack/commit/f7fe345) Add Fluent variables to module file (#12)
 * 🔃 Merged [#12 Add Fluent variables to module file](https://github.com/empa-scientific-it/empa-software-stack/pull/12) in [empa-scientific-it/empa-software-stack](https://github.com/empa-scientific-it/empa-software-stack)
-  * 1 file changed `++3 --1`
-* 🔃 Opened [#12 Add Fluent variables to module file](https://github.com/empa-scientific-it/empa-software-stack/pull/12) in [empa-scientific-it/empa-software-stack](https://github.com/empa-scientific-it/empa-software-stack)
   * 1 file changed `++3 --1`
 
 
