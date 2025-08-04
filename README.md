@@ -7,21 +7,17 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 3 commits in [empa-scientific-it/docs](https://github.com/empa-scientific-it/docs) on branch `openbis-content-reorg`
+  * [#66d93e4](https://github.com/empa-scientific-it/docs/commit/66d93e4) Merge branch &#39;openbis-content-reorg&#39; of github.com:empa-scientific-it/docs into openbis-content-reorg
+* ➡️ Pushed 1 commit in [empa-scientific-it/empa-software-stack](https://github.com/empa-scientific-it/empa-software-stack) on branch `main`
+  * [#5ced795](https://github.com/empa-scientific-it/empa-software-stack/commit/5ced795) Update pymatgen package (#14)
+
+Include updated dependencies
+* 🔃 Merged [#14 Update py-matgen package](https://github.com/empa-scientific-it/empa-software-stack/pull/14) in [empa-scientific-it/empa-software-stack](https://github.com/empa-scientific-it/empa-software-stack)
+  * 3 files changed `++23 --1`
+* 🔃 Opened [#14 Update py-matgen package](https://github.com/empa-scientific-it/empa-software-stack/pull/14) in [empa-scientific-it/empa-software-stack](https://github.com/empa-scientific-it/empa-software-stack)
+  * 3 files changed `++23 --1`
 * 🔃 Opened [#19 Change theme](https://github.com/empa-scientific-it/how-to-git/pull/19) in [empa-scientific-it/how-to-git](https://github.com/empa-scientific-it/how-to-git)
   * 3 files changed `++23 --6`
-* ➡️ Pushed 1 commit in [empa-scientific-it/docs](https://github.com/empa-scientific-it/docs) on branch `openbis`
-  * [#f608205](https://github.com/empa-scientific-it/docs/commit/f608205) Refactor labs documentation structure
-
-* Added labId to lab markdown files for better identification
-* Implemented dynamic lab selection with dropdown in the LabSelector
-* Created new pages for labs 403 and 404
-* ➡️ Pushed 1 commit in [empa-scientific-it/marimo-demo](https://github.com/empa-scientific-it/marimo-demo) on branch `main`
-  * [#dc0eaf3](https://github.com/empa-scientific-it/marimo-demo/commit/dc0eaf3) Make exported notebook editable
-* ➡️ Pushed 1 commit in [empa-scientific-it/marimo-demo](https://github.com/empa-scientific-it/marimo-demo) on branch `main`
-  * [#843796d](https://github.com/empa-scientific-it/marimo-demo/commit/843796d) Fix notebook
-
-Remove the testing stuff that doesn&#39;t work yet
-* ➡️ Pushed 1 commit in [empa-scientific-it/marimo-demo](https://github.com/empa-scientific-it/marimo-demo) on branch `main`
-  * [#423326a](https://github.com/empa-scientific-it/marimo-demo/commit/423326a) Fix deploy
 
 
