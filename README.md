@@ -7,17 +7,34 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 1 commit in [empa-scientific-it/docs](https://github.com/empa-scientific-it/docs) on branch `main`
+  * [#f5fb707](https://github.com/empa-scientific-it/docs/commit/f5fb707) Update Astro configuration (#11)
+
+- Added a description to the Starlight configuration for better context
+- Updated GitHub and GitLab links to point to the main repositories
+- Modified the preview script in package.json to build before previewing
+* 🔃 Merged [#11 Update Astro configuration](https://github.com/empa-scientific-it/docs/pull/11) in [empa-scientific-it/docs](https://github.com/empa-scientific-it/docs)
+  * 3 files changed `++4 --4`
+* ➡️ Pushed 4 commits in [empa-scientific-it/docs](https://github.com/empa-scientific-it/docs) on branch `gitlab-deploy`
+  * [#38d0057](https://github.com/empa-scientific-it/docs/commit/38d0057) Update .gitlab-ci.yml file
+
+- Use latest image for &#34;lychee&#34;
+- Comment out test deployment since Pages is not supported on this GitLab instance
+  * [#62a8a7d](https://github.com/empa-scientific-it/docs/commit/62a8a7d) Update pipeline
+  * [#68ca041](https://github.com/empa-scientific-it/docs/commit/68ca041) Update .gitlab-ci.yml file
+  * [#60e15f5](https://github.com/empa-scientific-it/docs/commit/60e15f5) Add improved GitLab CI/CD pipeline with link checking
+
+- Enhanced .gitlab-ci.yml with build, test, and deploy stages
+- Added link checking with lychee in test stage
+- Configured GitLab Pages deployment for testing
+- Added commented rsync deployment stages for future use
+- Created .lycheeignore to exclude common problematic URLs
+- Added lychee.toml configuration for link checker settings
+
+Pipeline supports migration from GitLab Pages → test domain → production
+* 🔃 Opened [#11 Update Astro configuration](https://github.com/empa-scientific-it/docs/pull/11) in [empa-scientific-it/docs](https://github.com/empa-scientific-it/docs)
+  * 3 files changed `++4 --4`
 * ➡️ Pushed 3 commits in [empa-scientific-it/docs](https://github.com/empa-scientific-it/docs) on branch `openbis-content-reorg`
   * [#66d93e4](https://github.com/empa-scientific-it/docs/commit/66d93e4) Merge branch &#39;openbis-content-reorg&#39; of github.com:empa-scientific-it/docs into openbis-content-reorg
-* ➡️ Pushed 1 commit in [empa-scientific-it/empa-software-stack](https://github.com/empa-scientific-it/empa-software-stack) on branch `main`
-  * [#5ced795](https://github.com/empa-scientific-it/empa-software-stack/commit/5ced795) Update pymatgen package (#14)
-
-Include updated dependencies
-* 🔃 Merged [#14 Update py-matgen package](https://github.com/empa-scientific-it/empa-software-stack/pull/14) in [empa-scientific-it/empa-software-stack](https://github.com/empa-scientific-it/empa-software-stack)
-  * 3 files changed `++23 --1`
-* 🔃 Opened [#14 Update py-matgen package](https://github.com/empa-scientific-it/empa-software-stack/pull/14) in [empa-scientific-it/empa-software-stack](https://github.com/empa-scientific-it/empa-software-stack)
-  * 3 files changed `++23 --1`
-* 🔃 Opened [#19 Change theme](https://github.com/empa-scientific-it/how-to-git/pull/19) in [empa-scientific-it/how-to-git](https://github.com/empa-scientific-it/how-to-git)
-  * 3 files changed `++23 --6`
 
 
