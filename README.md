@@ -7,18 +7,22 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#45a2ff5](https://github.com/edoardob90/dotfiles/commit/45a2ff5) Update SSH config
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#d564949](https://github.com/edoardob90/dotfiles/commit/d564949) Update Zed config
-* ➡️ Pushed 2 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#60ab269](https://github.com/edoardob90/dotfiles/commit/60ab269) Update nvim config dir
-  * [#bc3e559](https://github.com/edoardob90/dotfiles/commit/bc3e559) Ignore .DS_Store files
-* ➡️ Pushed 1 commit in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#ce1e24a](https://github.com/edoardob90/dotfiles/commit/ce1e24a) Update lazygit config
-* ➡️ Pushed 3 commits in [edoardob90/dotfiles](https://github.com/edoardob90/dotfiles) on branch `main`
-  * [#433b7c9](https://github.com/edoardob90/dotfiles/commit/433b7c9) Add lazygit config
-  * [#1a52485](https://github.com/edoardob90/dotfiles/commit/1a52485) Tidy up ignore rules
-  * [#10693de](https://github.com/edoardob90/dotfiles/commit/10693de) Remove Sublime Text stuff
+* ➡️ Pushed 1 commit in [edoardob90/runits](https://github.com/edoardob90/runits) on branch `main`
+  * [#693dbdf](https://github.com/edoardob90/runits/commit/693dbdf) Update PLAN.md
+* ➡️ Pushed 1 commit in [edoardob90/runits](https://github.com/edoardob90/runits) on branch `main`
+  * [#e2d7dc7](https://github.com/edoardob90/runits/commit/e2d7dc7) Completed Phase 1
+
+- Foundation - Basic conversion logic - Proper error handling - Testing of core
+elements - Simple demo in main.rs to showcase the status
+* ➡️ Pushed 1 commit in [edoardob90/runits](https://github.com/edoardob90/runits) on branch `main`
+  * [#1503ea8](https://github.com/edoardob90/runits/commit/1503ea8) Track PLAN.md and CLAUDE.md
+
+But ignore local CLAUDE file
+* ➡️ Pushed 1 commit in [edoardob90/runits](https://github.com/edoardob90/runits) on branch `main`
+  * [#6d1f243](https://github.com/edoardob90/runits/commit/6d1f243) Foundations
+
+Modules for Dimensions, Units, Quantities
+* ➡️ Pushed 1 commit in [edoardob90/runits](https://github.com/edoardob90/runits) on branch `main`
+  * [#f83ecf9](https://github.com/edoardob90/runits/commit/f83ecf9) Update .gitignore
 
 
