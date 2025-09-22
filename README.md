@@ -7,6 +7,10 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
+* ➡️ Pushed 3 commits in [edoardob90/runits](https://github.com/edoardob90/runits) on branch `main`
+  * [#7b56cf1](https://github.com/edoardob90/runits/commit/7b56cf1) WIP: Unit arithmetic ops as traits
+  * [#3f2ba0e](https://github.com/edoardob90/runits/commit/3f2ba0e) Implement a user-friendly dimension formatting
+  * [#9b6aba8](https://github.com/edoardob90/runits/commit/9b6aba8) Update CLAUDE.md
 * ➡️ Pushed 1 commit in [edoardob90/runits](https://github.com/edoardob90/runits) on branch `main`
   * [#693dbdf](https://github.com/edoardob90/runits/commit/693dbdf) Update PLAN.md
 * ➡️ Pushed 1 commit in [edoardob90/runits](https://github.com/edoardob90/runits) on branch `main`
@@ -22,7 +26,5 @@ But ignore local CLAUDE file
   * [#6d1f243](https://github.com/edoardob90/runits/commit/6d1f243) Foundations
 
 Modules for Dimensions, Units, Quantities
-* ➡️ Pushed 1 commit in [edoardob90/runits](https://github.com/edoardob90/runits) on branch `main`
-  * [#f83ecf9](https://github.com/edoardob90/runits/commit/f83ecf9) Update .gitignore
 
 
