@@ -7,24 +7,10 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-* ➡️ Pushed 3 commits in [edoardob90/runits](https://github.com/edoardob90/runits) on branch `main`
-  * [#7b56cf1](https://github.com/edoardob90/runits/commit/7b56cf1) WIP: Unit arithmetic ops as traits
-  * [#3f2ba0e](https://github.com/edoardob90/runits/commit/3f2ba0e) Implement a user-friendly dimension formatting
-  * [#9b6aba8](https://github.com/edoardob90/runits/commit/9b6aba8) Update CLAUDE.md
-* ➡️ Pushed 1 commit in [edoardob90/runits](https://github.com/edoardob90/runits) on branch `main`
-  * [#693dbdf](https://github.com/edoardob90/runits/commit/693dbdf) Update PLAN.md
-* ➡️ Pushed 1 commit in [edoardob90/runits](https://github.com/edoardob90/runits) on branch `main`
-  * [#e2d7dc7](https://github.com/edoardob90/runits/commit/e2d7dc7) Completed Phase 1
-
-- Foundation - Basic conversion logic - Proper error handling - Testing of core
-elements - Simple demo in main.rs to showcase the status
-* ➡️ Pushed 1 commit in [edoardob90/runits](https://github.com/edoardob90/runits) on branch `main`
-  * [#1503ea8](https://github.com/edoardob90/runits/commit/1503ea8) Track PLAN.md and CLAUDE.md
-
-But ignore local CLAUDE file
-* ➡️ Pushed 1 commit in [edoardob90/runits](https://github.com/edoardob90/runits) on branch `main`
-  * [#6d1f243](https://github.com/edoardob90/runits/commit/6d1f243) Foundations
-
-Modules for Dimensions, Units, Quantities
+* #️⃣ Opened [#11 Refactor helpers: move pytest stuff in a separate module](https://github.com/empa-scientific-it/ipytestsuite/issues/11) in [empa-scientific-it/ipytestsuite](https://github.com/empa-scientific-it/ipytestsuite)
+* #️⃣ Opened [#10 Testsuite issues &amp; improvements](https://github.com/empa-scientific-it/ipytestsuite/issues/10) in [empa-scientific-it/ipytestsuite](https://github.com/empa-scientific-it/ipytestsuite)
+* #️⃣ Opened [#9 Testsuite: catch if exception is raised in the solution function](https://github.com/empa-scientific-it/ipytestsuite/issues/9) in [empa-scientific-it/ipytestsuite](https://github.com/empa-scientific-it/ipytestsuite)
+* #️⃣ Opened [#8 Improvements to AI integration to IPytest cell magic](https://github.com/empa-scientific-it/ipytestsuite/issues/8) in [empa-scientific-it/ipytestsuite](https://github.com/empa-scientific-it/ipytestsuite)
+* #️⃣ Opened [#7 AI integration: offer some hints on how to improve a correct solution](https://github.com/empa-scientific-it/ipytestsuite/issues/7) in [empa-scientific-it/ipytestsuite](https://github.com/empa-scientific-it/ipytestsuite)
 
 
