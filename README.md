@@ -7,5 +7,6 @@
 ---
 
 **[📰 Recent activity](https://github.com/edoardob90)**
-Unexpected error
+No recent activity
+
 
