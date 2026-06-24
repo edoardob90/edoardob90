@@ -1,5 +1,5 @@
-## Hi, I'm Edoardo. Welcome! 👋 
+## Hi, I'm Edoardo. Welcome! 👋
 
-- 🔭 I’m working as a **research software engineer** at the Swiss Federal Labs of Materials Science in Zürich 🇨🇭
-- 🌐 Check out my [now page](https://edoardob.blog/now) or [my personal blog](https://edoardob.blog) if you want to know more about me
+- 🔭 Former HPC/RSE at [Empa](https://github.com/empa-scientific-it) 🇨🇭 – now exploring teaching physics & math in Italy 🇮🇹
+- 🌐 [Now page](https://edoardob.blog/now) · [Blog](https://edoardob.blog)
 - 📫 How to reach me: by email `hi AT edobld DOT me`, or on [LinkedIn](https://linkedin.com/in/edobld)
